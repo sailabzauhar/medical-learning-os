@@ -1,0 +1,419 @@
+Chapter 7
+ENDOCRINE DISEASES
+HYPOTHYROIDISM
+Hypothyroidism may be primary; common causes are autoimmune, iatrogenic due to I131,
+antithyroid drugs, lithium treatment, thyroidectomy. It may be secondary to pituitary or
+hypothalamic disorders.
+Salient features
+ Tiredness, weakness, dry skin, feeling cold, hair loss, difficulty concentrating and poor
+memory, constipation, weight gain with poor appetite, dyspnea, hoarse voice,
+menorrhagia (later oligomenorrhea or amenorrhea), paresthesia, impaired hearing
+ Examination shows dry coarse skin; cool peripheral extremities, puffy face, hands, and
+feet (myxedema), diffuse alopecia, bradycardia, peripheral edema, delayed tendon
+reflex relaxation, carpal tunnel syndrome, serous cavity effusions
+Investigation: diagnosis is confirmed by
+ Low serum free T3 and T4
+ Elevated S. TSH in thyroid types and low in suprathyroid types.
+ Thyroid peroxidase (TPO) Anti TPO antibody in autoimmune hypothyroidism.
+Pharmacological treatment
+ Tab. levothyroxine 50-100 mcg/day. Dose to be adjusted based on TSH level. Measure
+TSH level after about 2 months of instituting therapy
+ Adjust by 12.5 mcg/day with similar increment every 2-3 months until TSH level is
+normalized.
+ When full replacement is achieved, follow up measurement at annual intervals and later
+by a 2-3 yearly interval.
+ Special treatment considerations- A hypothyroid woman should be euthyroid prior to
+conception and during early pregnancy. Maintain FT4 0.8 to 1.2.
+ Elderly required less thyroxine (20%) especially those with CAD, starting dose 12.5
+mcg/day with similar increment every 2-3 months until TSH level is normalized.
+Patient education
+ L-thyroxine should be taken as a single daily dose, ideally on awakening, at least 30
+minutes before breakfast.
+ Fiber and bran products may impair absorption
+ Metabolism of L-thyroxine is increased by phenytoin, rifampicin and carbamazepine.
+ Explain to the patient that the treatment is lifelong.
+ Over treatment may lead to decreased bone mineral density and adverse cardiac
+complications.
+112
+
+Endocrine Diseases
+Myxedema coma
+Non-pharmacological treatment
+ Warm blanket, mechanical ventilation for respiratory failure.
+ Correction of metabolic disturbances and treat precipitating factors.
+Pharmacological treatment
+ Inj. L-thyroxine 500 mcg IV bolus, then 50-100 mcg IV daily.
+ If intravenous preparation is not available, the same dose is administered through Ryle’s
+tube.
+ Once acute phase is over, maintain L-thyroxine as above.
+ Inj. hydrocortisone 100 mg IV stat, 25-50 mg 8 hourly.
+ Caution: Avoid sedative and anesthetic agents.
+HYPERTHYROIDISM
+Classically occurs in Grave’s disease, which is characterized by diffuse goitre,
+opthalmopathy and dermopathy in varying combinations. Other causes are toxic muti-
+nodular goitre and toxic adenomas.
+Salient features
+ Hyperactivity, irritability, dysphoria, heat intolerance and sweating, palpitations, fatigue and
+weakness, weight loss with increased appetite, diarrhea, polyuria, oligomenorrhea, loss of
+libido.
+ Examinations shows tachycardia; atrial fibrillation in the elderly
+ Tremor, goiterwarm, moist skin.Muscle weakness, proximal myopathy, lid retraction or lag
+Investigations
+ Low or undetectable S.TSH and increased S. Free T3 and Free T4.
+Pharmacological treatment
+Adjunctive treatment
+ For adrenergic symptoms, Tab. propranolol 40-120 mg a day.
+ Tab. propylthiouracil 100-150 mg every 6-8 hours (Drug of choice for hyperthyroidism in
+pregnancy) orTab. carbimazole 10-20 mg every 8-12 hours.
+ After euthyroid state is achieved in 6-8 weeks once daily dosage.
+ Review with serum TSH and FT3 after 3-4 weeks treatment has been initiated.
+ Once controlled reduce to the smallest effective dose or continue initial dose combined
+with L-thyroxin.
+ Drugs are given for an average of 2 years.
+113
+
+Endocrine Diseases
+Definitive treatment is Surgery/ Ablation of thyroid tissue
+ Subtotal thyroidectomy in younger patients in whom antithyroid therapy has been
+unsuccessful and in very large goiters.
+ Radioactive iodine (I131) method of choice in elderly, younger patients who have
+completed family with recurrent thyrotoxicosis following surgery or when surgery is
+refused or contraindicated.
+ Caution : Pregnancy
+Ophthalmopathy
+ Refer to ophthalmologist.
+ Mild cases: diuretic to decrease edema, tinted sunglasses and 1% methyl cellulose eye
+drops.
+ Refer patients with severe and progressive exopthalmos to an ophthalmologist.
+Thyrotoxic crisis or thyroid storm
+ Tab. propylthiouracil 600 mg loading doses, then 200-300 mg every 6 hourly orally or
+through Ryle’s tube.
+ Tab. carbimazole 15-25 mg 6 hourly.
+ 1 hour after the 1st dose of antithyroid drug, saturated solution of potassium iodide (SSKI)
+5drops every 6 hourly or
+ Lugol’s iodine 10 drops 3 times a day or Sodium iodide 1 g IV slowly
+ Tab. propranolol 40-60 mg 4 hourly or 0.5 -2.0 mg every 4 hours,
+ Inj. dexamethasone 2 mg IV 6 hourly.
+ Supportive treatment: Cooling, antipyretics, antibiotics, IV fluids.
+ Onceeuthyroid states are achieved, manage as already outlined.
+HYPOCALCEMIA
+Caused by hypoparathyrodism, pseudohypoparathyrodism, vitamin D deficiency states,
+chronic renal failure, malabsorption syndrome, and hypomagnesemia.
+Salient features
+ Circumoral paresthesias, muscle cramps, confusion, tetany, convulsion. Positive
+chovstek,s sign and trousseau’s sign
+.
+Investigation
+ Total S. calcium <8.5 mg/dl
+ ECG : Prolongation of QTc
+ In hypoalbuminemia, add 1 mg/dl of calcium to the estimated level for every 1 gm fall
+of albumin below 4 gm/dl ( Correct S. Calcium)
+ Treatment depends on the cause, the severity, the presence of symptoms, and how
+rapidly the hypocalcemia developed.
+114
+
+Endocrine Diseases
+ Severe hypocalcemia may result in seizures, tetany, refractory hypotension or
+arrhythmias that require a more aggressive approach
+Pharmacological treatment
+ Severe symptomatic hypocalcaemia: 20 ml of 10% Inj. ca.gluconate solution over 10-
+15 mins followed by 60-80ml of 10% solution in 1lt of 5% distilled water (0.5-0.25
+mg/kg/hr elemental calcium)
+ Caution: Should not be mixed with bicarbonate as it may result in precipitation of
+calcium carbonate.
+ If associated with hypomagnesemia : Inj. magnesium sulphate 1-2 gm IV day 1
+followed by oral magnesium oxide 600-1200 mg 3 times a day to replenish stores.
+Asymptomatic hypocalcemia / maintenance treatment
+ Treat underlying condition if possible. Long term treatment is required in conditions
+such as hypoparathyroidism, pseudohypoparathyroidism and chronic vitamin D
+deficiency states.
+ Tab. calcium carbonate (40% elemental ca) 1-2 gm elemental calcium orally 3 times a
+day initially and subsequently maintenance dose of 0.4-1.5 g 3 times a day.
+ In CRF, calcium alone gives inadequate results. Correct concomitant hyper-
+phosphatemia before instituting following therapy: Vit D 50000 IU/day for 1-2 weeks,
+then weekly or bimonthly.
+ Calcitriol 0.25 mcg orally daily-more expensive and less toxic.
+ Advise low Phosphate diet and Phosphate binding agents.
+HYPERCALCEMIA
+The common causes are hyperparathyroidism and malignancy. Others include excessive
+vitamin D action, high bone turnover rate or renal failure. Hypercalcemia is defined as 10.5
+mEq/L.
+Salient features
+ Fatigue, depression , confusion, anorexia, nausea, vomiting and constipation and
+polyurea
+Investigation
+ Symptoms appear when S. Ca >11.5-12.0mg/dl. Severe hypercalcemia >15-18 mg/dl can
+result in death.
+ ECG : Short QTc and occasionally arrhythmias
+Pharmacological treatment
+A. Mild
+ Rehydration –isotonic saline 2-4 lt/day increase calcium excretion.
+115
+
+Endocrine Diseases
+ After correcting dehydration administer Inj. frusemide 20-40 mg BD.
+ Monitor electrolytes especially potassium and magnesium and replace accordingly.
+B. Moderate to severe
+ Aggressive preceding approach- isotonic saline 6 lt plus Inj. frusemide up to 100 mg
+every 1 to 2 hours.
+ Inj. calcitonin 2-8 U/kg IV/SC/IM every 6-12 hr: rapid but mild action.
+ Inj. pamindronate 30-90 mg IV infusion in 0.9% saline over 4-24 hrs: response last for
+wks OR Tab. alendronate sodium 10 mg orally in the morning with full glass of water at
+least 30 mins before any food or drink: remain in upright position for at least 30 mins. OR
+Inj. zolendronate 1-4 mg IV in few mins.
+ Tab. prednisolone 40-100 mg/day in 4 divided doses. Useful in osteolytic malignancies,
+Vit. D intoxication and sarcoidosis.
+ Tab. phosphorus (sodium and potassium phosphate) 1-1.5 g/day in 4 divided doses for
+several days when hypophosphatemia is present.
+ Peritoneal/Hemo dialysis with calcium free dialyses is useful especially in cases
+complicated by renal failure.
+DIABETES MELLITUS
+Diabetes mellitus (DM) refers to a group of common metabolic disorders that share the
+phenotype of hyperglycemia. Several distinct types of DM are caused by a complex
+interaction of genetics and environmental factors. The factors contributing to hyperglycemia
+include reduced insulin secretion, decreased glucose utilization, and increased glucose
+production.
+Salient features
+ Polydypsia, polyuria, polyphagia and unexplained weight loss.
+ Random blood sugar >200 mg/dl, Fasting plasma glucose >126 mg/dl
+ Two hour plasma glucose >200 mg/dl after 75 g glucose load
+ Impaired fasting glucose (IFG) 100-125 mg/dl and impaired glucose tolerance – 2 h
+plasma glucose 140-199 mg/dl are considered as pre diabetics.
+Classification
+116
+
+Endocrine Diseases
+Non-pharmacological treatment
+Caloric requirement for normal weight individual: according to the nature of work
+Sedentary Moderate Heavy
+Male 1800-2000 1800-2000 2200-3000
+Female 1200-1500 1400-1600 1600-2400
+ Caloric distribution : Carbohydrate : 45-65%, Protein – 10-35% , 20-35% from fat,
+saturated fat <7%, Polyunsaturated fat 10% of Kcal/day
+ Exercise: Regular physical exercise for half and one hour (for sedentary workers) is
+recommended to have better control of diabetes. At least 150 min/ week of moderate
+intensity aerobic physical activity.
+Pharmacological treatment
+Type 1 DM- Insulin therapy (Table 1)
+ Dose of human insulin –0.5 units/kg/day to 1.0 units/kg/day
+ Combination of regular + lente/semilente insulin should be used
+ One third of the total insulin requirement is given as regular and two third as lente/semi
+lente
+ One third of the total dose is used before dinner and two third before breakfast
+ Insulin is given SC 30-45 min before meals
+ Medial aspect of thigh and abdominal wall are generally used for injection. Rotate
+injection site frequently
+ Dose, type and timing of insulin is adjusted according preprandial blood sugar levels
+ Patient must be trained for administration of SC injections
+ Ensure meals after injection and explain features of hypoglycaemia to the patient
+117
+
+Endocrine Diseases
+Table 1. A list of various insulin preparations
+Time of Action
+Insulin Preparation Onset, h Peak, h Effective
+Duration, h
+Short-acting
+Aspart <0.25 0.5–1.5 3–4
+Glulisine <0.25 0.5–1.5 3–4
+Lispro <0.25 0.5–1.5 3–4
+Regular 0.5–1 2–3 4–6
+Long-acting
+Detemir 1–4 — Up to 24
+Glargine 1–4 — Up to 24
+NPH 1–4 6–10 10–16
+Insulin combinations
+75/25–75% protamine lispro, 25% lispro <0.25 1.5 h Up to 10–16
+70/30–70% protamine aspart, 30% aspart <0.25 1.5 h Up to 10–16
+50/50–50% protamine lispro, 50% lispro <0.25 1.5 h Up to 10–16
+70/30–70% NPH, 30% regular 0.5–1 Dual 10–16
+Type 2 DM(Figure 1)
+ If non pharmacological measures not sufficient, oral agents may be used alone and in
+combination.
+ Level of hyperglycemia influence the initial choice of oral hypoglycaemic agents (Table
+2).
+ Therapy can be started with either sulfonylureas or Metformin. Metformin has the
+advantage of promoting mild weight loss in obese patients.
+ Treatment may be started with any of the following drugs: Tab. glimipride l-8mg/day Or
+Tab. glipizide 2.5 - 40 mg/day. Or Tab. glipizide extended release 5-10 mg/day Or Tab.
+glyburide (glibenclamide) 1.25-20 mg/day. Or Tab. metformin 500 mg once or twice a
+day in obese patients and increase the dose to 1000 mg 2 times a day; The dose can be
+increased every 2-3 weeks. All drugs should be taken 30-45 min before meals.
+ Combination therapy, following combination can be given if inadequate glycaemic
+control with single oral hypoglycaemic agent: Sulphonylurea + metformin
+ Insulin may be required in patients with primary or secondary failure to oral agents; often
+as single dose of intermediate acting insulin 0.3-0.4 units/kg/day either before breakfast
+118
+
+Endocrine Diseases
+or at bedtime in combination with Tab. metformin. Insulin is also required in situations
+like pregnancy, surgery, infection, etc.
+Figure1. Algorithm for management of Type 2 DM
+Table2. Oral hypoglycaemic drugs with their dose and their common ADRs
+Drugs Dose HbA1c Advantages Disadvantages Contraindications
+reduction
+(%)
+Biguanides
+Metformin Initially 1-2 Weight Diarrhoea, Serum creatinine
+500mg OD to neutral, nausea, lactic >1.5 mg/dl (men)
+max 2000 Do not cause acidosis >1.4 mg/dl
+mg/d hypoglycemia (women), CHF,
+, inexpensive radiographic
+contrast studies,
+seriously ill patients,
+acidosis
+Insulin secretagogues: Sulfonylureas
+Glimepiride 1-8mg/d 1-2 Inexpensive Hypoglycemia, Renal/liver disease
+Glipizide 5-40mg/d weight gain
+Glyburide 1.25-20mg/d
+Insulin secretagogues: Non-sulfonylureas
+Repaglinide 0.5-16mg/d 1-2 Short onset of Hypoglycemia Renal/liver disease
+action, lower
+postprandial
+glucose
+Thiazolidinediones
+Pioglitazone 15-45 mg/d 0.5-1.4 Lower insulin Peripheral CHF, liver disease
+requirements edema, CHF,
+119
+
+Endocrine Diseases
+weight gain,
+fractures,
+macular edema
+α -Glucosidase inhibitors
+Acarbose 50-100mg 0.5-0.8 Reduce GI flatulence, Renal/liver disease
+0.2-0.3mg postprandial liver function
+Voglibose (per meal) glycemia tests
+Dipeptidyl peptidase IV inhibitors
+Saxagliptin 2.5-5mg/d 0.5-0.8 Do not cause Reduce dose with
+Sitagliptin 100mg/d hypoglycemia renal disease
+Vildagliptin 50-100mg/d
+Patient education
+ Education topics important for optimal diabetes care include self-monitoring of blood
+glucose; urine ketone monitoring (type 1 DM); insulin administration; guidelines for
+diabetes management during illnesses; prevention and management of hypoglycaemia,
+foot and skin care; diabetes management before, during, and after exercise; and risk
+factor–modifying activities.
+ Medical nutrition therapy (MNT) is a term used to describe the optimal coordination of
+caloric intake with other aspects of diabetes therapy (insulin, exercise, weight loss).
+Primary prevention measures of MNT are directed at preventing or delaying the onset of
+type 2 DM in high-risk individuals (obese or with prediabetes) by promoting weight
+reduction.
+ Explain about the warning symptoms and signs of hypoglycaemia and need to take
+sweets/candies/drinks in such a situation.
+ Regular follow up to monitor BP (quarterly), HbA C testing (2-4 times/year), eye
+1
+examination (annual), foot examination (1-2 times/year by physician; daily by patient);
+screening for diabetic nephropathy (annual); lipid profile (annual).
+120
+
+Endocrine Diseases
+Figure 2. Diabetes algorithm for achieving glycemic control
+Abbreviations: MET: Metformin , DPP4: dipeptidyl peptidase-4 inhibitors , TZD:
+thiazolidinediones , GLP-1 : glucagon-like peptide-1 , FPG : fasting plasma glucose ,PPG:
+post prandial glucose, AGI:alfa glucosidase inhibitors, SU : sulfonylureas
+DIABETIC KETOACIDOSIS
+Diabetic ketoacidosis is an acute complication of diabetes. It consists of hyperglycemia,
+ketosis (positive serum ketones) and metabolic acidosis (with increased anion gap).
+121
+
+Endocrine Diseases
+Salient features
+ Nausea, vomiting, abdominal pain, dehydration and altered sensorium.
+ DKA results from relative or absolute insulin deficiency combined with counter
+regulatory hormone excess (glucagon, catecholamines, cortisol, and growth hormone).
+ Precipitating factors for DKA include noncompliance, infection, trauma, infarction,
+pregnancy and drug abuse.
+Diagnosis
+ Demonstration of ketones in urine (or elevated levels in blood), hyperglycaemia, low
+arterial pH, low bicarbonate (>15 mmol/1) and high anion gap (>15 mmol/1).
+Pharmacological treatment
+ Admit to hospital; intensive-care setting may be necessary for frequent monitoring or if
+pH <7.00 or unconscious. If the patient is vomiting or has altered mental status, a
+nasogastric tube should be inserted to prevent aspiration of gastric contents.
+ Assess: Serum electrolytes (K+, Na+, Mg2+, Cl–, bicarbonate, phosphate), acid-base
+status- pH, HCO3–, PCO2, β -hydroxybutyrate (or S.acetone), renal function (creatinine,
+urine output)
+ Replace fluids: 2–3 L of 0.9% saline over first 1–3 hr (15–20 ml/kg per hour);
+subsequently, 0.45% saline at 250–500 ml/h; change to 5% glucose and 0.45% saline at
+150–250 ml/h when plasma glucose reaches 200 mg/dl. Fluid replacement needs to be
+closely monitored in elderly and those with cardiac or renal compromise.
+ Administer short-acting insulin: IV (0.1units/kg), then 0.1 units/kg per hour by
+continuous IV infusion; increase two- to threefold if no response by 2–4 h. If the initial
+serum potassium is <3.3 mEq/L, do not administer insulin until the potassium is
+corrected. If the initial serum potassium is >5.2 mEq/L, do not supplement K+ until the
+potassium is corrected.
+ Assess patient: Initiate appropriate workup for precipitating event (cultures, CXR, ECG).
+ Replace K+: 10 meq/h when plasma K+< 5.0–5.2 mEq/L (or 20–30 mEq/L of infusion
+fluid), ECG normal, urine flow and normal creatinine documented; administer 40–80
+mEq/h when plasma K+< 3.5 mEq/L or if bicarbonate is given. The goal is to maintain the
+serum potassium at >3.5 mEq/L.
+ Bicarbonate replacement: Despite a bicarbonate deficit, bicarbonate replacement is not
+usually necessary. However, in the presence of severe acidosis (arterial pH <6.9), it is
+advised to administer bicarbonate [50 mEq/L of sodium bicarbonate in 200 ml of sterile
+water with 10 mEq/L KCl per hour for 2 h until the pH is >7.0].
+ Phosphate and Magnesium: If the serum phosphate < 1 mg/dl, then phosphate supplement
+should be considered and the serum calcium monitored. Hypomagnesemia may develop
+during DKA therapy and may also require supplementation.
+122
+
+Endocrine Diseases
+ Monitoring: Measure capillary glucose every 1–2 h; measure electrolytes (especially K+,
+bicarbonate, phosphate) and anion gap every 4 h for first 24 h. Monitor blood pressure,
+pulse, respirations, mental status, fluid intake and output every 1–4 hrs.
+ Hyperglycemia usually improves at a rate of 75–100 mg/dl per hour. As ketoacidosis
+improves, β -hydroxybutyrate is converted to acetoacetate. Ketone body levels may appear
+to increase if measured by laboratory assays that use the nitroprusside reaction, which
+only detects acetoacetate and acetone.
+ Continue above until patient is stable, glucose goal is 150–250 mg/dl, and acidosis is
+resolved. Insulin infusion may be decreased to 0.05–0.1 units/kg per hour.
+ Administer long-acting insulin as soon as patient is eating. Allow for overlap in insulin
+infusion and SC insulin injection.
+Hyperglycemic Hyperosmolar Nonketotic Coma
+ It is an acute metabolic derangement whose notable features are marked hyperglycemia,
+hyperosmolality (>350 mOsmol/L), and prerenal azotemia.
+ In HONC, fluid losses and dehydration are usually more pronounced than in DKA due to
+the longer duration of the illness.
+ The patients are usually older, more likely to have mental status changes, even with
+proper treatment, HHS has a substantially higher mortality rate than DKA.
+Chronic Complications of DM
+Microvascular Treatment
+Complications
+Diabetic Retinopathy  Proliferative retinopathy is usually treated with panretinal
+laser photocoagulation, whereas macular edema is treated
+with focal laser photocoagulation.
+ Regular fundus examination is required to monitor the
+retinopathy.
+Diabetic Nephropathy  Administration of ACE inhibitors or ARBs
+ Insulin and other OHA requirement may decrease
+ give drugs according to renal clearance
+Diabetic Neuropathy  Once fully developed is difficult to treat.
+ The following drugs can be tried amitriptylin, pregabalin,
+gabapentin, carbamazepine, SSRI
+ Can lead to autonomic dysfunction and orthostatic
+hypotension.
+ Foot and joints most be examined for presence of injury.
+Diabetic Gastropathy  Smaller, more frequent meals that are easier to digest.
+ Dopamine antagonist’s metoclopramide, 5–10 mg, and
+123
+
+Endocrine Diseases
+domperidone, 10–20 mg, before each meal. Erythromycin
+may promote gastric emptying.
+ Diabetic diarrhoea treated with loperamide and may respond
+to octreotide (50–75 g three times daily, SC).
+Diabetic Cystopathy  Timed voiding or self-catheterization, possibly with the
+addition of bethanechol.
+ Drugs that inhibit type 5 phosphodiesterase are effective for
+erectile dysfunction
+Macrovascular Complication- Atherosclerotic cardiovascular disease are the common
+cause ofdeath in diabetic population
+Atherosclerotic CVD are the common cause of death in diabetic population.
+Risk factor reduction is important. The important lipid target are as follows
+ LDL < 2.6 mmol/l (100 mg/dl);
+ HDL >1 mmol/l (40 mg/dl) in men and >1.3 mmol/l (50 mg/dl) in women; and
+ Triglycerides<1.7 mmol/l (150 mg/dl).
+If the patient is known to have CHD, an LDL goal of <1.8 mmol/L (70 mg/dl).
+Gestational Diabetes
+Please refer Obstetrics and Gynecologychapter– Pregnancy with diabetes.
+124

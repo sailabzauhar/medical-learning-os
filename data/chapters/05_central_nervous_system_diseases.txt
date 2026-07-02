@@ -1,0 +1,594 @@
+Chapter 5
+CENTRAL NERVOUS SYSTEM DISEASES
+MIGRAINE
+Most often begins at puberty and most affects those aged between 35 and 45 years.
+Salient features
+ Repeated attacks of headache lasting 4–72 h in patients with a normal physical
+examination, no other reasonable cause for the headache, and at least 2 of the
+following features
+ Unilateral pain, throbbing pain aggravated by movement, moderate or severe intensity
+along with oneof the following features:
+ Nausea/vomiting and or photophobia and phonophobia
+Non pharmacological treatment
+ Avoidance of factors that triggers a migraine attack and suitable life-style modification.
+Pharmacological treatment
+ The combination of acetaminophen, aspirin, and caffeine has been use for the treatment of
+mild to moderate migraine.
+ If NSAIDs/analgesics fail, Tab. sumatriptan 50 mg or 100 mg PO or Tab. zolmitriptan 2.5
+mg PO can be used.
+ If early nausea or difficulties taking tablets, zolmitriptan 5 mg nasal spray or sumatriptan 20
+mg nasal spray is used.
+ Parenteral administration of drugs such as dihydroergotamine and sumatriptan is used for the
+rapid relief of a migraine attack.
+ Patients with an increasing frequency of migraine attacks, or with attacks that are either
+unresponsive or poorly responsive to abortive treatments, are good candidates for preventive
+agents. In general, a preventive medication should be considered in the subset of patients
+with five or more attacks a month. The drugs that have been used for the prophylactic
+treatment of migraine include
+- Tab. propranolol 40–120 mg BD or Tab. sodium valproate: 400–600 mg BD
+- Tab. topiramate :25–200 mg/d OD
+Patient education
+ Identify the triggers for the migraine attack (lack of sleep, chocolates, wine etc) and avoid
+them.
+91
+
+Central Nervous System Diseases
+TENSION-TYPE HEADACHE (TTH)
+TTH often begins during the teenage years.
+Salient features
+ Episodic TTH attacks usually last a few hours, but can persist for several days.
+ This headache is described as pressure or tightness, like a band around the head,
+sometimes spreading into or from the neck.
+Pharmacological treatment
+ The pain of TTH can generally be managed with simple analgesics such as
+acetaminophen, aspirin, or NSAIDs.
+ Behavioral approaches including relaxation can also be effective.
+ For chronic TTH, Tab. amitriptyline 10–75 mg at night time is the only proven treatment
+CLUSTER HEADACHE (CH)
+Salient features
+ CH is relatively uncommon, more common in males. Most people developing CH are
+in their 20s or older.
+ It is characterized by frequent recurring, brief but extremely severe headache
+associated with pain around the eye with tearing and redness, the nose runs or is
+blocked on the affected side and the eyelid may drop.
+Pharmacological treatment
+ Cluster headache attacks peak rapidly, and thus a treatment with quick onset is
+required. Many patients with acute cluster headache respond very well to oxygen
+inhalation. This should be given as 100% oxygen at 10–12 L/min for 15–20 min.
+ Inj. sumatriptan 6 mg SC is rapid in onset and will usually shorten an attack to 10–15
+min. Sumatriptan (20 mg) and zolmitriptan (5 mg) nasal sprays are both effective in
+acute cluster headache.
+Preventive treatments of cluster headache
+Short-Term prevention Long-term prevention
+ Episodic Cluster Headache  Episodic Cluster Headache and Prolonged
+Chronic Cluster Headache
+ Prednisone 1 mg/kg up to 60 mg dail y, Verapamil 160–960 mg/d
+tapering over 21 days  Methysergide 3-12mg.d
+ Methysergide 3–12 mg/d
+ Verapamil 160–960 mg/d
+ Greater occipital nerve injection
+92
+
+Central Nervous System Diseases
+STROKE
+Stroke is the abrupt onset of neurologic deficit that is attributable to a focal vascular cause.
+TIA (Transient Ischemic Attacks) requires that all neurologic signs and symptoms resolve
+within 24 hours regardless of whether there is imaging evidence of new permanent brain
+injury. However, a newly proposed definition classifies those with new brain infarction as
+ischemicstrokes regardless of whether symptoms persist.
+Salient features
+ Symptoms include weakness, numbness, paresthesia, dysphasia, dysarthria, dysphagia,
+dyspraxia, hemianopia, falls, change in personality, ataxia, reduced sensations and
+impaired sensorium.
+Pharmacological treatment
+ Rapid evaluation is necessary for the use of time sensitive treatments such as
+thrombolysis. Close attention is paid to the ABC’s i.e. Airway, Breathing and Circulation
+of the patient and treat hypoglycemia or hyperglycemia if identified. Once the diagnosis
+of stroke is made, a brain imaging study is necessary to determine if the cause of stroke is
+ischemia or hemorrhage. CT is useful in identifying early hemorrhage while MRI is
+useful in identifying early infarct.
+ Blood pressure should be lowered if there is malignant hypertension or concomitant
+myocardial ischemia or if blood pressure is >185/110 mm Hg and thrombolytic therapy is
+anticipated (See section of hypertension)
+ Fever is treated with antipyretics and surface cooling.
+ Euglycemia is to be maintained.
+ Between 5 and 10% of patients develop enough cerebral edema to cause herniation. Other
+anti-edema measures such as head elevation, Tab. furosemide 40 mg OD and
+hyperventilation are useful.
+ Common complications of bedridden patients—infections (pneumonia, urinary, and skin)
+and deep venous thrombosis (DVT) with pulmonary embolism are to be prevented.
+ Intravenous thrombolysis (Table 1):
+ Tab. aspirin 75 mg OD
+ Inj. heparin 5000 IU SC
+ Proper rehabilitation of the stroke patient includes early physical, occupational, and
+speech therapy.
+Secondary prevention of stroke and TIA
+ Control of risk factors such as hypertension, diabetes, dyslipidemia, smoking cessation.
+ Tab.aspirin 75-325 mg/day is recommended for stroke prevention.
+ Tab. warfarin is useful for stroke prevention with a target INR of 2-3 in patients with
+chronic nonvalvular AF as well as untreated rheumatic heart disease with AF.
+93
+
+Central Nervous System Diseases
+Treatment of haemorrhagic stroke
+ Inj. mannitol 20% 1g/kg stat followed by 0.5 g/kg IV infusion, Inj. furosemide 40 mg IV
+stat, elevation of head end and hyperventilation are useful.
+ Antihypertensive agents are instituted if BP is more than 180mmHg systolic or
+>130mmHg diastolic. Goal is to keep a mean arterial pressure of less than 130mmHg.
+ With thrombocytopenia (platelet count less than 50,000/µl), transfusion of fresh platelets
+is indicated.
+ Patients with cerebellar hemorrhages or with depressed mental status and radiographic
+evidence of hydrocephalus should undergo urgent neurosurgical evaluation.
+ Thrombolytic agents are the mainstay (Table 1).
+Table 1. Indications, contraindications and dosage schedule of thrombolytic agents in
+stroke
+Indications Contraindications
+ Clinical diagnosis of stroke  Sustained BP >185/110 mm Hg despite
+ Onset of symptom to drug treatment
+administration <3 hours  Platelets <100,000; HCT <25%; glucose
+ CT scan showing no haemorrhage <50 or >400 mg/dl
+or edema of >1/3rd of middle  Use of heparin within 48 h and prolonged
+cerebral artery (MCA) territory PTT, or elevated INR
+ Age >18 years  Rapidly improving symptoms
+ Consent of patient  Prior stroke or head injury within 3
+months; prior intracranial hemorrhage
+ Major surgery in preceding 14 days
+ Minor stroke symptoms
+ GIbleeding in preceding 21 days
+ Recent myocardial infarction
+ Coma or stupor
+Administration
+ Administer rtPA (recombinant tissue plasminogen activator like alteplase or
+tenecteplase) 0.9 mg/kg IV (maximum 90 mg) IV as 10% of total dose by bolus,
+followed byremainder of total dose over 1 h
+ Frequent cuff blood pressure monitoring
+ No other antithrombotic treatment for 24 h
+ For decline in neurologic status or uncontrolled blood pressure, stop infusion, give
+cryoprecipitate, and reimage brain emergently
+ Avoid urethral catheterization for 2 h
+94
+
+Central Nervous System Diseases
+FACIAL PALSY
+It can be caused by upper motor neuron (UMN) or lower motor neuron (LMN) lesion.
+Salient features
+ Presence of Bell’s phenomenon, affection of upper as well as lower part of face, involvement
+of taste and lacrimation,
+ Absence of emotional facial movements and absence of other neurological findings favour a
+diagnosis of peripheral or LMN facial palsy, the commonest cause being Bell’spalsy.
+Investigations
+ In a typical case, no investigations are required.
+ In uncertain cases, it is necessary to get an ESR, blood sugar, workup for sarcoidosis or
+MRI scanning maybe indicated. MRI often shows swelling and enhancement of the facial
+nerve in idiopathic Bell's palsy.
+ Electromyography may aid in diagnosis as well as prognosis
+Non-pharmacological treatment
+ Use of paper tape to depress the upper eyelid during sleep and prevent corneal drying.
+ Massage of the weakened muscles.
+ Splinting of lower part of face to prevent drooping.
+ Facial retraining (mime therapy)
+Pharmacological treatment
+ Tab. prednisone 60-80 mg daily during the first 5 days and then tapered over the next 5
+days modestly shortens the recovery period and improves the functional outcome.
+ Tab. acyclovir 400 mg five times daily for 10 days in combination with prednisone.
+PARKINSON'S DISEASE
+Parkinson's disease (PD) is the second commonest neurodegenerative disease.
+Salient features
+ Cardinal features include bradykinesia, rest tremor, rigidity, gait disturbance and
+postural instability. Other motor features include micrographia, masked facies, reduced
+eye blink, soft voice (hypophonia) and dysphagia.
+ Non motor features include anosmia, sensory disturbances (e.g., pain), mood disorders
+(e.g., depression), sleep disturbances, autonomic disturbances, orthostatic hypotension,
+gastrointestinal disturbances, genitourinal disturbances, sexual dysfunction and
+cognitive impairment/dementia.
+Pharmacological treatment
+ Levodopa
+- Tab. carbidopa/levodopa (1:4) 10/100mg-25/200mg 4-6 times a day
+95
+
+Central Nervous System Diseases
+- Adverse effects: Acute side effects include nausea, vomiting, and orthostatic
+hypotension.
+- Motor complications like wearing-off effect, dyskinesia, on-off phenomenon develop
+with long-term therapy.
+ Dopamine Agonists-Tab. pramipexole 0.25–1.0 mg TDS, Tab. ropinirole 6–24 mg/d
+ Adverse effect: Acute side effects include nausea, vomiting, and orthostatic hypotension,
+hallucination.
+ MAO-B Inhibitors-Tab. selegiline 5 mg BD
+ COMT Inhibitors- Tab. entacapone 200 mg with each levodopa dose or Tab. tolcapone
+100–200 mg TDS
+ Adverse effects: Primarily dopaminergic (nausea, vomiting, increased dyskinesia). Cases
+of fatal hepatic toxicity have been reported with tolcapone.
+ Central-acting anticholinergic agents-Tab.trihexyphenidyl 2 mg TDS
+ NMDA-receptor antagonist -Tab. amantadine 100-300 mg/day.
+DEMENTIA
+It is defined as an acquired deterioration in cognitive abilities that impairs the successful
+performance of activities of daily living. Memory is the most common cognitive ability lost
+with dementia.
+Salient features
+ Most common causes of dementia are Alzheimer's disease, vascular dementia (multi
+in fact/ diffuse white matter disease (Binswanger's), alcoholism, parkinson’s disease,
+drug ormedical intoxication
+ Brief screening tools such as the mini-mental status examination (MMSE) help to
+confirm the presence of cognitive impairment.
+Pharmacological treatment
+ The major goals of dementia management are to treat correctable causes and to provide
+comfort and support to the patient and caregivers.
+ Treatment of underlying causes might include thyroid replacement for hypothyroidism;
+vitamin therapy for thiamine or B deficiency or for elevated serum homocysteine;
+12
+antimicrobials for opportunistic infections or antiretroviral for HIV; ventricular shunting
+for NPH; or appropriate surgical, radiation, and/or chemotherapeutic treatment for CNS
+neoplasm. Drugs used for dementia are listed below:
+96
+
+Central Nervous System Diseases
+Table2. Drugs used in the treatment of dementia
+Drug Dose Side effect
+Tab.donepezil 10 mg daily
+nausea, diarrhea, abdominal cramps, altered
+Tab. rivastigmine 6 mg twice daily sleep with unpleasant or vivid dreams,
+bradycardia, muscle cramps
+Tab. galantamine 24 mg daily
+dizziness, confusion, headache, syncope or
+Tab. memantine 10 mg twice daily
+hypotension
+GUILLAIN-BARRÉ SYNDROME (GBS)
+GBS manifests as a rapidly evolving areflexic motor paralysis with or without sensory
+disturbance.
+Diagnostic criteria for GBS
+I. Required for Diagnosis
+1. Progressive weakness of variable degree from mild paresis to complete paralysis
+2. Generalized hypo-or areflexia
+II. Supportive of Diagnosis
+1. Clinical features
+ Symptom progression: Motor weakness rapidly progresses initially but ceases by 4
+weeks.
+ Demonstration of relative limb symmetry regarding paresis.
+ Frequent cranial nerve involvement: Facial (cranial nerve VII) 50% and typically bilateral
+but asymmetric; occasional involvement of cranial nerves XII, X, and occasionally III,
+IV, and VI as well as XI.
+ Autonomic dysfunction can include tachycardia, other arrhythmias, postural hypotension,
+hypertension, other vasomotor symptoms.
+ A preceding gastrointestinal illness (e.g., diarrhea) or upper respiratory tract infection is
+common.
+2. Cerebrospinal fluid features supporting diagnosis
+ Elevated or serial elevation of CSF protein.
+ CSF cell counts are <10 mononuclear cell/mm3.
+3. Electrodiagnostic medicine findings supportive of diagnosis
+ NCV slowing/conduction block at some time during disease process.
+ Distal motor latency increase may reach 3 times normal values.
+ F-waves indicate proximal NCV slowing.
+III. Findings reducing possibility of diagnosis
+1. Asymmetric weakness
+2. Failure of bowel/bladder symptoms to resolve
+97
+
+Central Nervous System Diseases
+3. Severe bowel/bladder dysfunction at initiation of disease
+4. Greater than 50 mononuclear cells/mm3 in CSF
+5. Well-demarcated sensory level
+IV. Exclusion criteria
+1. Diagnosis of other causes of acute neuromuscular weakness (e.g., myasthenia gravis,
+botulism, poliomyelitis, toxic neuropathy).
+2. Abnormal CSF cytology suggesting carcinomatous invasion of the nerve roots
+Non pharmacological treatment
+ Monitor Airway, Breathing and Circulation. Also includes mechanical ventilator support,
+management of autonomic dysfunction and physical therapy.
+Pharmacological treatment
+ The available treatment modalities are plasma exchange and intravenous immunoglobulin
+(IVIG). Both are equally effective. Corticosteroids are not recommended for treatment of
+GBS.
+ Plasma exchange:
+- The advised regimen of plasma exchange removes a total of 200 to 250 ml/kg of
+plasma in four to six treatments on alternate days, or over a shorter period if there is
+nocoagulopathy. The replacement fluid is saline combined with 5% albumin.
+ IVIG:
+- 0.4 g/kg per day for 5 consecutive days
+- It is both easier to administer and probably safer because there is no need for large
+intravenous access.
+- Disadvantage is the higher cost of therapy.
+ACUTE BACTERIAL MENINGITIS
+It is an acute purulent infection of the meninges within the sub-arachnoid space.
+Salient features
+ Fever with headache, neck stiffness, photophobia, nausea , vomiting and altered mental
+status. It is associated with a CNS inflammatory reaction that may result in decreased
+consciousness, seizures, raised intracranial pressure (ICP), and stroke.
+ Common organisms are Streptococcus pneumonia, Haemophilus influenza, Neisseria
+meningitides, Listeria monocytogenes, Group B streptococcus, less frequent organism
+are Staph. Aureus and coagulase negative Staphylococcus group A & group B
+Streptococcus, enteric gram negative bacilli.
+Investigations
+CSF analysis (Table 3)
+98
+
+Central Nervous System Diseases
+Table 3. Cerebrospinal fluid characteristics of different etiologies of meningitis
+Characteristics Normal Bacterial Viral Fungal/TB
+Normal or mildly
+Pressure(cmH O) 5-20 >30 -
+2
+increased
+Appearance Normal Turbid Clear Fibrin web
+Protein(g/L) 0.18-0.45 >1 <1 0.1-0.5
+Glucose(mmol/L) 2.5-3.5 <2.2 Normal 1.6-2.5
+Gram Stain Normal 60-90% positive Normal -
+Glucose-
+0.6 <0.4 >0.6 <0.4
+CSF: Serum ratio
+WCC <3 >500 <1000 100-500
+Monocytes
+Others
+- 90% PMN 10% have>90%PMN Monocytes
+30%have>50%PMN
+Pharmacological treatment
+Following table shows choice of antibiotic as per patient characteristics and their dose and
+frequencyin empirical therapy ofbacterial meningitis and focal CNS infections
+Table 4. Choice of antibiotics for the treatment of bacterial meningitis as per patient
+characteristics
+Indication Antibiotic
+Preterm infants to infants <1 month Ampicillin + cefotaxime
+Infants 1–3 month Ampicillin + cefotaxime or ceftriaxone
+Immunocompetent children >3 months and adults <55 Cefotaxime, ceftriaxone or cefepime +
+vancomycin
+Adults >55 and adults of any age with alcoholism or Ampicillin + cefotaxime, ceftriaxone or
+other debilitating illnesses cefepime + vancomycin
+Hospital-acquired meningitis, posttraumatic or post Ampicillin + ceftazidime or meropenem
+neurosurgery meningitis, neutropenic patients, or + vancomycin
+patients with impaired cell-mediated immunity
+Antimicrobial Agent Total Daily Dose and Dosing Interval
+Ampicillin 12 g/d, every 4 hourly
+Cefipime 6 g/d, every 8 hourly
+Cefotaxime 12 g/d, every 12 hourly
+Ceftriaxone 4 g/d, every 12 hourly
+Ceftazidime 6 g/d, every 8 hourly
+Gentamicin 7.5 (mg/kg)/d, every 8 hourly
+99
+
+Central Nervous System Diseases
+Meropenem 3 g/d, every 8 hourly
+Metronidazole 1500–2000 mg/d, every 6 hourly
+Penicillin G 20–24 million U/d, every 4 hourly
+Vancomycin 2 g/d, every 12 hourly
+ Once culture report comes therapy should be changed accordingly
+ Inj. dexamethasone 0.15 mg/kg every 6 hourly IV for 2 days. It should be started shortly
+before the antibiotic.
+ Emergency treatment of increased ICP includes elevation of the patient's head to 30–45°,
+intubation and hyperventilation (PaCO 25–30 mm Hg), and Inj. mannitol 20% 1 g/kg stat
+2
+followed by 0.5g/kg every 4-6 hourly.
+ A 7-day course of intravenous antibiotic therapy is adequate for uncomplicated
+meningococcal meningitis.
+ The index case and all close contacts should receive chemoprophylaxis with a 2-day
+regimen of rifampin (600 mg every 12 h for 2 days in adults and 10 mg/kg every 12 h for
+2 days in children more than 1 yearof age).
+ A 2-week course of intravenous antimicrobial therapy is recommended for pneumococcal
+meningitis. Meningitis due to L. monocytogenes is treated with ampicillin for at least 3
+weeks. Gentamicin is added in critically ill patients (2 mg/kg loading dose, then 7.5
+mg/kg per day given every 8 h and adjusted for serum levels and renal function). A 3-
+week course of intravenous antibiotic therapy is recommended for meningitis due to
+gram-negative bacilli.
+ Tuberculous meningitis is treated as per RNTCP protocol.
+VIRAL ENCEPHALITIS
+In encephalitis the brain parenchyma is also involved. Many patients with encephalitis also
+have evidence of associated meningitis (meningoencephalitis).
+Salient features
+ Acute or subacute onset of fever, headache, altered consciousness, focal neurological
+symptoms
+ Common cause are Herpes simplex Ivirus andVaricella zoster virus.
+Investigations
+CSFanalysis as in acute bacterial meningitis (Table 3)
+Pharmacological treatment
+ Specific antiviral therapy should be initiated when appropriate.
+ Following table shows drugs, dose duration and their common side effects (Table 5).
+100
+
+Central Nervous System Diseases
+Table 5. Dosages and side effects of antivirals in the treatment of viral encephalitis
+Drug Dose Duration Etiology Side effect
+Acyclovir 10 mg/kg 14 to 21 HSV,VZV,EBV nausea, vomiting, diarrhea and
+every 8 hrly days Neurotoxicity (lethargy or
+obtundation, disorientation,
+confusion, agitation, hallucinations,
+tremors, seizures)
+Ganciclovir 5mg/kg every Indefinite CMV Granulocytopenia and
+12 hrly, thrombocytopenia, Gastrointestinal
+followed by 5 side effects, including nausea,
+mg/kg vomiting, diarrhea, and abdominal
+pain
+Ribavirin 15 mg/kg in California Hemolysis, nausea, vomiting,
+divided doses encephalitis diarrhea, and abdominal pain
+every 8 hrly (LaCrosse)
+virus, severe
+adenovirus or
+rotavirus
+encephalitis.
+ Basic management and supportive therapy should include careful monitoring of ICP, fluid
+restriction, avoidance of hypotonic intravenous solutions, and suppression of fever.
+ Seizures should be treated with standard anticonvulsant regimens, and prophylactic
+therapy should be considered in view of the high frequency of seizures in severe cases of
+encephalitis.
+NEUROCYSTICERCOSIS
+Neurocysticercosis is the most common parasitic disease of the CNS worldwide. Humans
+acquire cysticercosis by the ingestion of food contaminated with the eggs of the parasite T.
+solium.
+Diagnostic criteria for cysticerosis
+Absolute criteria
+ Demonstration of cysticercus by histologic or microscopic exam of biopsy material
+ Visualization of the parasite in the eye by fundoscopy
+ Neuro-radiologic demonstration of cystic lesion containing a characteristic scolex.
+Major criteria
+ Neuro-radiologic lesions suggestive of neuro-cysticercosis.
+ Demonstration of antibodies to cystic in serum.
+ Resolution of intracranial cystic lesions spontaneously or after therapy with albendazole
+or praziquantel alone.
+101
+
+Central Nervous System Diseases
+Minor criteria
+ Lesions compatible with neuro-cysticercosis detect by neuro-imagining studies.
+ Clinical manifestations suggestive of neuro-cysticercosis.
+ Demonstration of antibodies to cysticerd or cycticercal antigen in CSF by ELISA.
+ Evidence of cysticercosis outside the central nervous system.
+Epidemiologic criteria
+ Residence in a cysticercosis endemic area
+ Frequent travel to a cysticercosis endemic area
+ Household contact with an individual infected with Taenia sodium
+Diagnosis is confirmed by either one absolute criteria or a combination to two major criteria
+one minor criterion and one epidemiologic criterion.
+Investigations
+ Enzyme-linked immunoelectrotransfer blot (EITB) of serum for cysticercal antibodies.
+ELISA of serum and CSF
+ CT scan shows the cyst and granuloma stages of neuro-cysticercosis. Located in the
+cortex or the gray white junction and present as punctuate hyperdense lesion with ring
+enhancement with edema around the cyst, associated with the death of the organism.
+ MRI use of contrast shows cysticerus death, visible as enhancement of the cyst wall,
+which indicates that the cyst has changed into a granuloma. In addition MRI shows
+vasogenic edema around the cyst.
+ Soft tissue radiography can be performed to look for extraneural cysts.
+ Electro encephalography (EEG): in children with intractable seizures.
+ Stool examination: Presence of ova may be the sole diagnostic confirmation in children.
+Pharmacological treatment
+ Treatment with anthelminthic drugs can result in complete resolution or significant
+regression 80-90% of patients.
+ Tab. praziquantel 5-10 mg/kg single dose can be administered to individuals found to
+have T solium tapeworms in their stool.
+ Tab. albendazole 400 mg PO BDfor 14 days with meals.
+ Tab. phenytoin 300 mg PO, pediatric dose: 4-8 mg / kg / day PO divided BD / TDS to
+prevent seizures.
+ To avoid inflammatory response in the CNS, the patient must be started on
+anticonvulsants and high dose glucocorticoids.
+Surgical treatment
+ Reserve neurosurgical intervention for cases of cysts that have failed to resolve with anti-
+helminthic treatment and are causing severe neurologic sequelae.
+Patient education
+ Prolonged freezing or thorough cooking of pork to kill the parasite.
+102
+
+Central Nervous System Diseases
+ Personal hygiene or through washing and avoiding unpeeled fruits and vegetables in
+endemic areas.
+PARAPLEGIA AND QUADRIPLEGIA
+Salient features
+ Paraplegia is weakness of both lower limbs and quadriplegia is weakness of all four
+limbs. Paraplegia or quadriplegia maybe caused by lesions of cerebrum, spinal cord,
+motor roots, peripheral nerves, myoneural junction or muscles. The lesions of the
+spinal cord may be compressive or non-compressive.
+Pharmacological treatment
+ The treatment depends on the underlying etiology. E.g. compressive myelopathies usually
+require urgent surgical intervention.
+ Indications for corticosteroids in paraplegia: neoplastic spinal cord compression,
+traumatic spinal cord injuries, acute transverse myelitis, multiple sclerosis, neuromyelitis
+optica, sarcoid myelitis, ADEM. The dose is Inj. methylprednisolone 1 g IV for 3-5 days.
+Continuation of steroids depends on the underlying cause.
+ Fever: The loss of normal thermoregulation and inability to maintain normal body
+temperature can produce recurrent fever (quadriplegic fever), although most episodes of
+fever are due to infection of the urinary tract, lung, skin, or bone.
+ Bladder dysfunction: It generally results from loss of supraspinal innervation of the
+detrusor muscle of the bladder wall and the sphincter musculature.
+- Detrusor spasticity is treated with anticholinergic drugs like Tab. oxybutynin 2.5–5
+mg QID or tricyclic antidepressants that have anticholinergic properties, Tab.
+imipramine, 25–200 mg/d.
+- Failure of the sphincter muscle to relax during bladder emptying (urinary
+dyssynergia) may be managed with the adrenergic blocking agent Tab. terazosin
+hydrochloride 1–2 mg TDS or QID, with intermittent catheterization, or, if that is not
+feasible, by use of a condom catheter in men or a permanent indwelling catheter.
+- Bladder areflexia due to acute spinal shock or conus lesions is best treated by
+catheterization.
+- Surgical options include the creation of an artificial bladder.
+ Bowel regimens and disimpaction are necessary in most patients to ensure at least
+biweekly evacuation and avoid colonic distention or obstruction.
+ During the first 2 weeks, use of calf-compression devices and anticoagulation with Inj.
+heparin 5000 U SC every 12 h or Tab. warfarin (INR, 2–3) are recommended. In cases of
+persistent paralysis, anticoagulation should probably be continued for 3 months.
+ Prophylaxis against decubitus ulcers: frequent changes in position in a chair or bed, the
+use of special mattresses such as water or air beds, and cushioning of areas where
+103
+
+Central Nervous System Diseases
+pressure sores often develop, such as the sacral prominence and heels. Early treatment of
+ulcers with careful cleansing, surgical or enzyme debridement of necrotic tissue, and
+appropriate dressing and drainage.
+ Spasticity: stretching exercises are recommended to maintain mobility of joints. Tab.
+baclofen 15–240 mg/d in divided doses is effective. Tab. diazepam 2-4 mg at bed time
+acts by a similar mechanism and is useful for leg spasms that interrupt sleep. Tab.
+Tizanidine 2–8 mg TDS is another option.
+VERTIGO
+Vertigo is defined as the hallucination of movement, either of self (subjective) or the
+environment (objective). When patient presents with this type of dizziness, the next step is to
+determine whether the symptom is central (brain) or peripheral (inner ear, 8th cranial nerve) in
+origin (Table 6).
+Investigations
+Patients are to be subjected to thorough history, clinical examination and various tests such as
+head thrust test, head shaking test, Dix Hallpick’s test, calorie test, CT and MRI brain, X-ray
+neck,blood sugar and carotid vertebral doppler.
+Table 6. Features of Peripheral and Central Vertigo
+Clinical features Peripheral Central (Brainstem
+(Labyrinth or Vestibular Nerve) Or Cerebellum)
+Direction of associated Unidirectional; Bidirectional (direction-
+nystagmus fast phase opposite lesion changing) or Unidirectional
+Purely horizontal Uncommon May be present
+nystagmus without
+torsional component
+Purely vertical or purely Never present May be present
+torsional nystagmus
+Visual fixation Inhibits nystagmus No inhibition
+Tinnitus and/or Deafness Often present Usually absent
+Associated central None Extremely common (e.g.,
+nervous system diplopia, hiccups, cranial
+abnormalities neuropathies, dysarthria)
+Common causes Benign paroxysmal positional Vascular, demyelinating,
+vertigo, labyrinthitis, vestibular neoplasm
+neuritis, Ménière's disease,
+labyrinthine ischemia, trauma,
+toxin
+104
+
+Central Nervous System Diseases
+Pharmacological treatment
+These medications should be reserved for short-term control of active vertigo. They are less
+helpful for chronic dizziness and may hinder central compensation.
+ Antihistamines like Tab. meclizine (25–50 mg 3 times daily), Tab. dimenhydrinate (50
+mg 1–2 times daily) and Tab. promethazine (25 mg 2–3 times daily, also can be given
+rectally and IM)
+ Benzodiazepines like Tab. diazepam (2.5 mg 1–3 times daily) and Tab. clonazepam (0.25
+mg 1 –3 times daily.
+ Anticholinergic agents like scopolamine transdermal patch (for motion sickness only)
+ Physical therapylike repositioningmanoeuvres (for BPPV)
+ Diuretics and/or low-sodium (1 g/d) diet (for Ménière's disease)
+ Antimigrainous drugs (for vestibular migraine)
+ Selective serotonin reuptake inhibitors (for psychosomatic vertigo)
+Benign Paroxysmal Positional Vertigo (BPPV)
+ A common cause of recurrent vertigo
+ Episodes are brief (less than 1 min and typically 15–20 s)
+ Always provoked by changes in head position relative to gravity, such as lying down,
+rolling over in bed, rising from a supine position, and extending the head to look upward.
+ With posterior canal BPPV, the nystagmus beats upward and torsionally
+ Horizontal canal BPPV resulting in a horizontal nystagmus
+ Superior (also called anterior) canal involvement is rare.
+ BPPV is treated with repositioning maneuvers that utilize gravity to remove the otoconia
+from the semicircular canal.
+ For posterior canal BPPV, the Epley maneuver is the most commonly used procedure.
+Vestibular Migraine
+ Usually part of migraine aura but can occur independently. The duration of vertigo may
+be from minutes to hours. Vestibular migraine typically is treated with medications that
+are used for prophylaxis of migraine headaches.
+ Antiemetics may be helpful to relieve symptoms at the time of an attack.(See vomiting
+section)
+Ménière's Disease
+ Attack consists of vertigo, hearing loss, & pain, pressure or fullness in affected ear.
+ Diuretics and sodium restriction are the initial treatments.
+ If attacks persist, injections of gentamicin into the middle ear or full ablative procedures
+are required.
+ Tab. betahistine 24-48 mg/day relieves pressure from excess fluid. Initial dose 16 mg
+TDS initially with maintenance.
+105
+
+Central Nervous System Diseases
+Psychosomatic Dizziness/vertigo
+ Important role in chronic dizziness
+ Dizziness may be a somatic manifestation of a psychiatric condition such as major
+depression, anxiety, or panic disorder.
+ Thus, treatment with antianxiety medications and cognitive/behavioral therapy may be
+helpful.
+106

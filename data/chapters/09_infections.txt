@@ -1,0 +1,691 @@
+Chapter 9
+INFECTIONS
+TETANUS
+It is an acute neurological disorder resulting from contamination of a wound by an obligate
+anaerobic organism Clostridium tetani.
+Salient features
+ Generalized tetanus starts with trismus or lockjaw followed by rigidity, violent, painful,
+generalized muscle spasms and seizures provoked by slightest stimulation. Generalized
+muscle spasm may compromise respiration, fever and tachycardia may be present.
+ Prognosis and management depends on grade.
+Investigations
+ Clinical - culture of C. tetani from a wound provides supportive evidence. The few
+conditions that mimic generalized tetanus include strychnine poisoning and dystonic
+reactions to antidopaminergic drugs. Abdominal muscle rigidity is characteristically
+continuous in tetanus but is episodic in the latter two conditions. Cephalic tetanus can be
+confused with other causes of trismus, such as oropharyngeal infection.
+ Hypocalcemia and meningoencephalitis are included in the differential diagnosis of
+neonatal tetanus.
+Grading
+ Mild or grade 1 –muscle rigidity with few or no spasms.
+ Moderate or grade 2-trismus, dysphagia, rigidity and short lasting spasms.
+ Severe or grade 3- frequent explosive spasms, autonomic dysfunction particularly
+sympathetic over activity may be present.
+ Very severe or grade 4- features of grade 3 plus violent autonomic disturbances involving
+the CVS –severe hyper or hypotension.
+Non-pharmacological treatment
+ Admit in a quiet room orICU with minimum stimulation.
+ Protection of airways (intubation/tracheostomy) with or without mechanical ventilation.
+Monitorcardiovascular parameters.
+ Cleaning/exploration/debridement of wound
+ Maintain hydration and enteral/parentral nutrition with high calorie and high protein diet.
+Pharmacological treatment
+Grade 1
+ Tab. diazepam 5-20 mg 3 times a day; slow IV infusion in moderate to severe tetanus; not
+exceed a dose of 80-100mg in 24 hours.
+ If spasms not controlled, Inj. phenobarbitone 200mg IM every 8-12 hours or Inj.
+chlorpromazine 50 mg IM in adults 4 times a day.
+138
+
+Infections
+ The ideal sedative and muscle relaxant schedule for each patient should be individualized.
+An objective guide to decrease in rigidity is relaxation of abdominal muscles.
+Grade 2
+ Tracheostomy
+Grade 3 and 4
+ Ventilatory support
+ Inj.pancuronium 2-4mg or gallamine 20-40mg IV.
+ If hypotension, give vasopressor support and ifhypertension, give antihypertensive.
+ For bradyarrythmias, Inj.atropine 0.6-1.2 mg IV.
+In addition,give following to all patients;
+ Inj. crystalline 2 mega units 6 hourly IV for 10 days or Inj. metronidazole 500mg 8 hourly
+or 1gm 12 hourly. Requirement may be according to theinfected wound.
+ Inj. human tetanus immunoglobulin (TIG) 3000-5000 units IV or IM or Inj. equine
+antiserum 10000 units by slow IV injection after sensitivity test when human TIG is not
+available.
+ Antiserum should be given before local manipulation of the wound.
+LEPTOSPIROSIS
+Leptospirosis is an infectious disease caused by the spirocheteLeptospira.
+Salient features
+ Rodents are the important reservoirs. Leptospires may enter the host through abrasions in the
+skin or intact mucosa, the conjunctive and the lining of oro-and naso-pharynx in contact with
+water contaminated with leptospira.
+ 90% of symptomatic persons have the mild and usual anicteric form of leptospirosis, with or
+without meningitis. Severe leptospirosis with profound jaundice – Weil’s syndrome-occurs
+in 5 to 10% of patients. The common finding in anicteric leptospirosis is fever with
+conjunctival suffusion. Mild jaundice may be present.
+Investigations
+ Culture- Blood, CSF and urine is the definite way of confirming the diagnosis of
+leptospirosis
+ Micro agglutination (MAT)
+- Sero conversion / four fold rise in the titer a
+ ELISA / MSAT
+- Positive
+Pharmacological treatment
+ All clinically suspected leptospirosis patients in endemic area during rainy season should
+be given presumptive treatment of leptospirosis and malaria. Tab. doxycycline 100 mg
+139
+
+Infections
+twice daily for 7 days and Tab. chloroquine 600mg (base) stat followed by 600 mg after
+24 hours and 300 mg after another 24 hours in malaria endemic areas in adults.
+Note: In children less than 6 years 30-50 mg/kg/day of Cap. amoxicillin / Cap. ampicillin
+should be given in divided doses 6 hourly for 7 days in place of doxycycline.
+Definitive treatment
+ Inj. crystalline penicillin 20 lacs IU IV 6 hourly after negative test dose (ANTD) for 7
+days. For children the dose of crystalline penicillin should be 2-4 lacs IU/kg/day for 7
+days.
+ For penicillin sensitive patients, Inj.ceftrioxone 1 gm IV. once daily for 7 days or
+Inj.cefotaxime 1 gm. IV. 6 hours daily for 7 days
+Symptomatic and supportive treatment
+ Care of fluid and electrolyte balance. Hypovolemia and hypotension need prompt
+treatment with IV fluids. Patients with oligouria, if prerenal azotemia is suspected,
+prompt diuresis should be attempted with fluid therapy.
+ Headache and myalgia to betreated with analgesic. Fever with antipyretic.
+ Restlessness and anxiety with sedatives and anemia with blood transfusion.
+ Peritoneal dialysis has been found to be safe, simple and effective procedure for
+management of renal failure due to leptospirosis. If there is contraindication to peritoneal
+dialysis, hemodialysis can be done.
+CHOLERA
+It is an acute diarrheal disease that occurs in few hours, result in profound, rapidly
+progressive dehydration and death. Caused by V. cholerae serogroup O1 or O139—i.e., the
+serogroups with epidemic potential.
+Salient features
+ Asymptomatic or have mild diarrhoea; some may have sudden onset of explosive and life-
+threatening diarrhoea (cholera gravis). In a non-immune individual, after 24 to 48h
+incubation period, characteristic sudden onset of painless watery voluminous diarrhoea.
+Patients often vomit. In severe cases, volume loss can exceed 250 ml/kg in the first 24 h. If
+fluids and electrolytes are not replaced, hypovolemic shock and death may ensue.
+ Fever is usually absent. Muscle cramps due to electrolyte disturbances are common. The
+stool has a characteristic appearance: a nonbilious, gray, slightly cloudy fluid with flecks of
+mucus, no blood, and a somewhat fishy, inoffensive odour,known as "rice-water" stool.
+ Clinical symptoms parallel volume contraction: At losses of <5% of normal body weight,
+thirst develops; at 5–10%, postural hypotension, weakness, tachycardia, and decreased skin
+turgor are documented; and at >10%, oliguria, weak or absent pulses, sunken eyes (and, in
+infants, sunken fontanelles), wrinkled ("washerwoman") skin, somnolence, and coma.
+ Complications due to volume and electrolyte depletion-renal failure.
+140
+
+Infections
+Investigation
+ Identification of V. cholerae in stool examination directly by dark-field microscopy on a
+wet mount of fresh stool, and its serotype by immobilization with specific antiserum.
+Laboratory isolation of the organism requires the use of a selective medium such as
+taurocholate-tellurite-gelatin (TTG) agar or thiosulfate–citrate–bile salts–sucrose (TCBS)
+agar. Standard microbiologic biochemical testing for Enterobacteriaceae will suffice for
+identification of V. cholerae. All vibrios are oxidase-positive.
+ A point-of-care antigen-detection cholera dipstick assay is now commercially available
+for use in the field or where laboratory facilities are lacking.
+Non-pharmacological treatment
+ ORS may be made by adding safe water to prepackaged sachets containing salts and
+sugar or by adding 0.5 teaspoon of table salt (NaCl; 3.5 g) and 4 tablespoons of table
+sugar (glucose; 40 g) to 1 L of safe water.
+ Potassium intake in bananas or green coconut water should be encouraged.
+Pharmacological treatment
+ Euvolemia should first be rapidly restored, and adequate hydration should then be
+maintained to replace ongoing fluid losses (Table 1&2).
+ WHO recommends "low-osmolarity" ORS for treatment of dehydrating diarrhea. If
+available, rice-based ORS is considered superior to standard ORS in the treatment of
+cholera. ORS can be administered via a nasogastric tube to individuals who cannot ingest
+fluid.
+ Optimal management for severe dehydration includes the administration of IV fluid and
+electrolytes. Ringer's lactate is the best choice among commercial products. It must be
+used with additional potassium supplements, preferably given by mouth. The total fluid
+deficit in severely dehydrated patients (>10% of body weight) can be replaced safely
+within the first 3–6 h of therapy, half within the first hour. Transient muscle cramps and
+tetany are common. Thereafter, oral therapy can usually be initiated, with the goal of
+maintaining fluid intake equal to fluid output.
+ Patients with continued large-volume diarrhea may require prolonged IV treatment to
+match gastrointestinal fluid losses. Severe hypokalemia can develop but will respond to
+potassium given either IV or orally. In the absence of adequate staff to monitor the
+patient's progress, the oral route of rehydration and potassium replacement is safer than
+the IV route.
+Table 1.Assessing the Degree of Dehydration in Patients with Cholera
+Degree of Dehydration Clinical Findings
+None or mild, but diarrhea Thirst in some cases; <5% loss of total body weight
+Moderate Thirst, postural hypotension, weakness, tachycardia,
+decreased skin turgor, dry mouth/tongue, no tears; 5–10%
+loss of total body weight
+141
+
+Infections
+Severe Unconsciousness, lethargy, or "floppiness"; weak or absent
+pulse; inability to drink; sunken eyes (and, in infants,
+sunken fontanelles); >10% loss of total body weight
+Table2.Treatment of Cholera, Based on Degree of Dehydration
+Degree of Dehydration, Treatment
+Patient's Age (Weight)
+None or Mild, but Diarrhea
+<2 years 1/4–1/2 cup (50–100 ml) of ORS, to a maximum of 0.5
+L/d
+2–9 years 1/2–1 cup (100–200 ml) of ORS, to a maximum of 1 L/d
+More than 10 years As much ORS as desired, to a maximum of 2 L/d
+Moderate
+<4 months (<5 kg) 200–400 ml of ORS
+4–11 months (5–<8 kg) 400–600 ml of ORS
+12–23 months (8–<11 kg) 600–800 ml of ORS
+2–4 years (11–<16 kg) 800–1200 ml of ORS
+5–14 years (16–<30 kg) 1200–2200 ml of ORS
+15 years (≥30 kg) 2200–4000 ml of ORS
+Severe
+All ages and weights IV fluid replacement with Ringer's lactate (or, if not
+available, normal saline): 100 ml /kg in first 3-h period
+(or first 6-h period for children <12 months old); start
+rapidly, then slow down; total of 200 ml/kg in first 24 h;
+continue until patient is awake, can ingest ORS, and no
+longer has a weak pulse
+ Tab. doxycycline (a single dose of 300 mg) or tetracycline (12.5 mg/kg four times a day
+for 3 days) may be effective in adults but is not recommended for children <8 years of
+age because of possible deposition in bone and developing teeth. Pregnant women and
+children are usually treated with erythromycin or azithromycin (10 mg/kg in children).
+INFLUENZA INFECTION
+It is a respiratory disease of pigs affecting human beings, caused by types A influenza viruses
+with regular outbreaks in pigs. Source of the virus in swine are avian, human and swine. All
+three viruses re-assort and form a new virus which is a mixture of all three. At present there
+are four types H1N1, H1N2, H3N2 and H3N1. The present pandemic is by influenza AH1N1
+type.
+142
+
+Infections
+Case Definitions
+ A confirmed case of H1N1 infection is defined as a person with an acute febrile respiratory
+illness with laboratory confirmed H1N1 infection at CDC by one or more of the following
+tests: realtime RT-PCR, viral culture or four fold increase in H1N1 virus specific neutralizing
+antibodies.
+ A probable case of H1N1 is a defined as a person with acute respiratory illness who is
+positive for influenza A but negative to H2 and HB by RT-PCR.
+ A suspected case of H1N1 is defined a person with an acute febrile respiratory illness who
+has had dose contact with a person who is a swine-origin influenza confirmed case or
+travelled to a community one or more confirmed swine origin influenza cases or resides in a
+community where there are one or more confirmed swine origin influenza A (H1N1) cases.
+Salient features
+ Symptoms include fever, headache, cough, sore throat, rhinorrhea, myalgia, fatigue,
+vomiting, or diarrhea. Patients appear flushed and the skin is hot and dry. Pharynx is normal
+despite a severe sore throat.
+ There may be mild cervical lymphadenopathy. Illness generally resolves over 2-5 days and
+recovery occurs in 1 week. Cough may persist 1-3 weeks longer and post influenza asthenia
+may persist for several weeks.
+ Frank dyspnoea, hyperpnoea, cyanosis, diffuse rales and signs of consolidation are indicative
+of pulmonary complications. Symptoms of severe disease may include apnea, tachypnoea,
+dyspnoea, cyanosis, dehydration, altered mental status and extreme irritability.
+Investigations
+Upper respiratory specimens, nasopharyngeal swab or wash, nasal, aspirate or tracheal
+aspirate should be tested by the state public health laboratory. Real time RT-PCR, viral
+cultures are to be performed to confirm the H1N1 infection.
+Pharmacological treatment
+The guiding principles are:
+ Early implementation of infection control precautions to minimize nosocomical /
+household spread of disease
+ Prompt treatment to prevent severe illness & death.
+ Early identification and follow up of persons at risk.
+ Tab. oseltamivir is the recommended drug both for prophylaxis and treatment. Dose for
+treatment is as follows: By weight <15kg 30 mg BD for 5 days , 15-23kg 45 mg BD for
+5 days , 24≤ 40kg 60 mg BD for 5 days , >40kg 75 mg BD for 5 days
+ For infants < 3 months 12 mg BD for 5 days, 3-5 months 20 mg BD for 5 days 6-11
+months 25 mg BD for 5 days. If needed dose & duration can be modified as per clinical
+condition.
+143
+
+Infections
+Caution: Oseltamivir is generally well tolerated, gastrointestinal side effects (transient
+nausea, vomiting) may increase with increasing dose.
+Supportive therapy
+ IV fluids, parentral nutrition.
+ Oxygen therapy/ ventilatory support.
+ Antibiotics for secondary infection.
+ Vasopressors for shock.
+ Paracetamol or ibuprofen is prescribed for fever, myalgia and headache. Patient is advised
+to drink plenty of fluids. Smokers should avoid smoking. For sore throat, short course of
+topical decongestants, saline nasal drops, throat lozenges and steam inhalation may be
+beneficial.
+ Salicylate / aspirin is strictly contra-indicated in any influenza patient due to its potential
+to cause Reye’s syndrome.
+ The suspected cases would be constantly monitored for clinical / radiological evidence of
+lower respiratory tract infection and for hypoxia (respiratory rate, oxygen saturation, level
+of consciousness).
+ Patients with signs of tachypnea, dyspnea, respiratory distress and oxygen saturation less
+than 90 per cent should be supplemented with oxygen therapy. Types of oxygen devices
+depend on the severity of hypoxic conditions which can be started from oxygen cannula,
+simple mask, partial re-breathing mask (mask with reservoir bag) and non re-breathing
+mask. In children, oxygen hood or head boxes can be used.
+ Patients with severe pneumonia and acute respiratory failure (SpO2 < 90% and PaO2 <60
+mmHg with oxygen therapy) must be supported with mechanical ventilation. Invasive
+mechanical ventilation is preferred choice. Non invasive ventilation is an option when
+mechanical ventilation is not available. To reduce spread of infectious aerosols, use of
+HEPA filters on expiratory ports of the ventilator circuit / high flow oxygen masks is
+recommended.
+ Maintain hydration, electrolyte balance and nutrition.
+ If the laboratory reports are negative, the patient would be discharged after giving full
+course of oseltamivir. Even if the test results are negative, all cases with strong
+epidemiological criteria need to be followed up.
+ Immunomodulating drugs have not been found to be beneficial in treatment of ARDS or
+sepsis associated multi organ failure. High dose corticosteroids in particular have no
+evidence of benefit and there is potential for harm. Low dose corticosteroids (Tab.
+hydrocortisone 200-400 mg/ day) may be useful in persisting septic shock (SBP < 90).
+ Suspected cases not having pneumonia do not require antibiotic therapy. Antibacterial
+agents should be administered, if required, as per locally accepted clinical practice
+guidelines. Patient on mechanical ventilation should be administered antibiotics
+prophylactically to prevent hospital associated infections.
+144
+
+Infections
+HIV AND AIDS
+Human immunodeficiency virus (HIV) infection leads to progressive immunodeficiency and
+increased susceptibility to infections, including tuberculosis. The rate of disease progression
+is highly variable between individuals, ranging from 6 months to than 20 yrs. The median
+time to develop Acquired Immunodeficiency Syndrome (AIDS) after transmission is 10 yrs
+in the absence of Antiretroviral therapy (ART). The case definition of AIDS is fulfilled at
+least 2 major signs and at least 1 minor sign are present where HIV testing facilities are not
+available. In children if 2 major and 2 minor signs are present (if no other causes for
+immunosuppression)
+Salient features
+Major signs and symptoms:
+ Weight loss (> 10 kg or > 20% of original weight)
+ Diarrhoea (> 1 month)
+ Fever for more than 1 month
+Minor signs:
+ Herpes zoster (shingles), Pruritic popular rash.
+ Kaposi’s sarcoma
+ Persistent generalized lymphadenopathy (PGL)
+ Oral candidiasis,Oral hairy leukoplakia
+ Persistent painful genital ulceration
+ The persistence of either Kaposi’s sarcoma or cryptococcal meningitis is sufficient for the
+case definition of AIDS.
+HIV disease is characterized by three phase.
+ Acute primary illness,Asymptomatic chronic illness,Symptomatic chronic illness
+Investigations
+ HIV serology
+ CD4 + T lymphocytes counts (if available)
+ Complete blood count and chemistry of profile and pregnancy test
+Supplementary test indicated by history and physical examination
+ Chest x-ray
+ Urine for routine and microscopic examination
+ Hepatitis C Virus IHCV) and Hepatitis B Virus (HBV) serology (depending on test
+availability and resources)
+Important note: It is most important to confirm the diagnosis of HIV infection by tests
+performed by a trained technician, preferably in a diagnostic laboratory. The test results
+should include the type of test performed to establish the diagnosis based on WHO
+guidelines. In case there is any doubt, the test should be repeated in a standard/referral
+laboratory.
+145
+
+Infections
+WHO Clinical staging of HIV Disease for Adults
+Primary HIV Infection
+ Asymptomatic
+ Acute retroviral syndrome
+Clinical stage I
+ Asymptomatic
+ Persistent generalized lymphadenopathy (PGL)
+Clinical Stage 2
+ Moderate unexplained weight loss (< 10% of presumed or measured body weight)
+ Recurrent respiratory tract infections.
+ Sinusitis,Bronchitis, otitis media, pharyngitis
+ Herpes zoster, angular cheilitis, recurrent oral ulcerations.
+ Papularpruritic eruptions, seborrhoeic dermatitis
+ Fungal nail infections of fingers.
+Clinical stage 3- Conditions where a presumptive diagnosis can be made on the basis of
+clinical signs or simple investigations.
+ Severe weight loss (> 10% of presumed or measured body weight)
+ Unexplained chronic diarrhea for longer than one month.
+ Unexplained persistent fever (intermittent or constant for longer than one month)
+ Oral candidiasis,Oral hairy leukoplakia
+ Pulmonary tuberculosis (TB), Severe bacterial infections (e.g. pneumonia, emphysema,
+pomposities, bone or joint infection, meningitis, bacteraemia)
+ Acute necrotizing ulcerative stomatitis, gingivitis or periodontitis
+Clinical stage 4- Conditions where the diagnosis can be made on the basis of clinical signs or
+simple investigations.
+ HIV wasting syndrome
+ Pneumocystic pneumonia, recurrent severe or radiological bacterial pneumonia.
+ Chronic herpes simplex infection (orolabial, genital or anorectal of more than one
+month’s duration)
+ Esophageal candidiasis
+ Extra-pulmonary tuberculosis including tuberculous lymphadenopathy.
+ Kaposi sarcoma
+ Central nervous system (CNS) toxoplasmosis
+ HIV encephalopathy.
+Conditions where confirmatory diagnostic testing is necessary:
+ Extra–pulmonary crytococcosis including meningitis.
+ Disseminated nontuberculous mycobacterial infection.
+ Progressive multifocal leukoencephalopathy (PML)
+146
+
+Infections
+ Candida of trachea, bronchi or lungs
+ Crytosporiodiosis, isosporiasis
+ Visceral herpes simplex infection.
+ Cytomegalovirus (CMV) infection (retinitis or of an organ other than liver, spleen or
+lymph nodes)
+ Any disseminated mycosis (e.g. histoplasmosis, coccidiomycosis, penicilliosis)
+ Recurrent non-typhoidal salmonella septicaemia
+ Cerebral or B-cell Non-Hodgkin lymphoma
+ Invasive cervical carcinoma
+ Visceral leishmaniasis
+Table 3. Initiation of ART in Adults and Adolescents National Guidelines, 2011
+Based on WHO Clinical Staging and CD4 Count
+WHOClinical Staging CD4 (cells/cu.mm)
+I and II Treat if CD4 Count <350
+III and IV Treat irrespective of CD4 Count
+Initiation of ART in PLHIV with Pregnancy (Table 4): Same as above. Avoid efavirenz
+during first trimester. Strict Monitoring for Adverse effects of Nevirapine is needed if CD4
+count is >250.
+Table 4. Initiation of ART in Person living with HIV(PLHIV)with TB Co-infection
+Type of Tuberculosis Eligible Timing of ART
+Clinical Staging and CD4 in relation to start of
+Counts TB treatment
+Pulmonary TB Start ART irrespective of any Start ATT first;
+(Stage III) clinical stage Start ART as soon as
+Extra pulmonary TB and TB treatment is tolerated
+(Stage IV) irrespective of CD4 counts after2 wks &before 2mth.
+Table 5. Initiation of ART in PLHIV with Hepatitis B or Hepatitis C Co-infection
+Co-infection WHO Clinical Staging CD4 (cells/cu.mm)
+HIV-HBV or HIV-HCV I and II Start ART at CD4 Count <350
+co-infection without III & IV Start ART irrespective
+evidence of chronic active of CD4 Count
+Hepatitis
+HIV-HBV or HIV-HCV All Clinical stages Start ART Irrespective
+co-infection with of anyCD4 count
+documented evidence of
+chronic active Hepatitis
+147
+
+Infections
+Table 6. First line ART Regimens National AIDS Control Organization (NACO)
+Guidelines 2009
+Regimen National ART Regimen Preference
+Regimen I Zidovudine + Lamivudine + Preferred regimen
+Nevirapine for patients with Hb >9 gm/dl
+Regimen I (a) Tenofovir + Lamivudine + For patients with Hb <9 gm/dl
+Nevirapine
+Regimen II Zidovudine + Lamivudine + Preferred for patients on anti-
+Efavirenz tuberculosis treatment, if Hb >9
+gm/dl
+Regimen II (a) Tenofovir + Lamivudine + For patients on anti-tuberculosis
+Efavirenz treatment and Hb <9 gm/dl
+Table 7. Second line ART Regimen for Adults and Adolescents in India
+Second Dosage Dosing schedule
+Line ARVs
+Fixed dose combination 0–0–1
+TDF + 3TC
+of TDF 300 mg + 3TC 300 mg (One tablet in the night)
+0–0–1
+Cap. atazanavir 300 mg
+(One tablet in the night)
+ATV/r
+0–0–1
+Tab.ritonavir 100 mg
+(One tablet in the night)
+OPPORTUNISTIC INFECTIONS
+The common conditions and diseases related to AIDS include tuberculosis, pneumocystis
+carinii pneumonia, oesophageal candidiasis, cryptococcosis, toxoplasmosis,
+cryptosporidiosis, cytomegalovirus (CMV), and mycobacterium avium complex (MAC).
+Diagnosis and management of common opportunistic infections is given herewith.
+I. PNEUMOCYSTIS CARINII PNEUMONIA (PCP)
+Pneumocystis Carinii is a fungus that infects the lungs
+Salient features
+ Sub-acute onset of symptoms over a period of weeks.
+ Typically fever, dry cough and progressive difficulty in breathing, also weight loss, night
+sweats and fatigue.
+Investigations
+ X-ray
+ Induced sputum examination or bronchoscopy, CD-4 count <200
+148
+
+Infections
+Pharmacological treatment
+ Severe disease – hospitalization, intravenous trimethoprim/sulphamethoxazole
+(TMP/SMX) (15mg/kg/day for 21 days), supplemental oxygen for patients with severe
+hypoxemia (PaO2 < 70 mmHg breathing room air at rest). Corticosteroids, prednisolone,
+40 mg twice daily for 5 days followed by 40 mg once daily for 5 days, followed by 20 mg
+once daily for 11 days.
+ For moderate disease, an oral agent may be used on outpatient basis, although
+hospitalization should be considered. While mild cases, oral TMP/SMX can be given as
+above.
+Preventive therapy
+ Tab. dapsone 100 mg once a day for 21 days –preferred second-line option.
+ Tab. clindamycin 450 mg 4 times a day + primaquine 15 mg once daily for 21 days.
+ Tab. atovaquone 750 mg once a day for 21 days.
+
+Inj. pentamidine (intravenous) 3-4 mg/kg/day for 21 days.
+II. OESOPHAGEAL CANDIDIASIS
+Candidiasis is a fungal infection that frequently occurs in the mouth and vagina. It is
+considered to be an opportunistic infection when it occurs in the oesophagus.
+Salient features
+ Difficulty in swallowing or retrosternal discomfort. Weight loss is common
+ CD4 count < 100
+ Usually made directly in presence of oral candidiasis and dysphagia. Endoscopy is indicated
+who fail to respond to a clinical trial of appropriate treatment.
+ The diagnosis of esophageal candidiasis should be reconsidered if oral candidiasis is not
+present.
+ Associated fever and oral ulceration are not common.
+Pharmacological treatment
+ Preventive therapy: not recommended because current drugs effectively treat
+(prophylaxis) disease
+ Antifungal resistance may develop and drug-drug interactions may occur
+ Tab. fluconazole 100-400 mg once a day for 2 weeks is the treatment of choice.
+Alternative treatment is Inj. amphotericin B 0.3 -0.5 mg/kg/day.
+ Maintenance therapy by Tab. fluconazole 50 –100 mg once a day
+ Stopping maintenance therapy when there is evidence that patient who achieves CD4
+counts > 100 on ART may cease treatment.
+149
+
+Infections
+III.CRYPTOCOCCOSIS
+Cryptococcosis is a fungus that is inhaled and can cause meningitis.
+Salient features
+ Headache, nausea, fever, malaise, altered mental status, irritability and seizures, cough, chest
+pain, breathlessness
+ Presentation: Sub-acute with progressive symptoms over weeks to months or acute with
+symptoms over days.
+ CD4 count: < 100
+Investigations
+ Lumbar puncture to test for the presence of Cryptococcus or cryptococcal antigen in
+cerebral spinal fluid. ICP is often raised.
+ CSF protein and glucose are generally normal and there may be few white blood cells.
+Pharmacological treatment
+
+Inj. amphotericin B 0.5 – 0.8 mg/kg/day + flucytosine 100 mg/day 4 times a day for 2
+weeks then 8 to 10 weeks. Alternative treatment is liposomal amphotericin.
+
+Maintenance therapy by flucanozole 200 mg once a day. Cohort studies suggest that
+maintenance therapy can be ceased in patients with sustained CD4 response to ART (CD4
+> 200) for > 3 months
+IV.TOXOPLASMOSIS
+Toxoplasmosis is a parasite that has a predilection for the brain.
+Salient features
+ Altered mental state (confusion, unusual behavior), headaches, fever, seizures, paralysis,
+coma.
+ Presentation: acute to sub acute over days to weeks, CD4 count <100
+Investigations
+ Typical appearance on CT or MRI scans.
+ Diagnosis is usually presumptive on the basis of appearance on scan. May show ring
+shaped contrast enhancing lesions.
+Pharmacological treatment
+
+Tab. pyrimethamine 100 – 200 mg loading dose and then 50 – 75 mg once a day given in
+combination with sulphadiazine 4 – 6 g/day, 4 times a day or Tab. clindamycin 2 – 4
+g/day, 4 times a day for 6 – 8 weeks duration depending upon response. If sulphadiazine
+is used, Tab. folinic acid 25 mg once a day should be given in the presence of cerebral
+edema.
+150
+
+Infections
+
+Alternative treatment: pyrimethamine in combination with one of the following: Tab.
+azithromycin 1 – 15 mg/day or Tab. atovaquone 3 g/day or Tab. dapsone 100 mg/day or
+Tab. clarithromycin 2 g/day
+ Maintenance therapy is therapy by Tab. pryimethamine (25 – 75 mg once a day) +
+sulphadiazine (50 –100 mg 4 times a day for several days with leucovorin)
+AMOEBIASIS (INTESTINAL)
+It is an infection caused by intestinal protozoa Entamoeba histolytica, which usually spreads
+by infective cysts in stool that contaminate food and drinking water.
+Salient features
+ Lower abdominal pain. Mild diarrhea develops gradually and may lead to full blown
+dysentery. 0-12 stools per day with blood and mucus and little fecal matter.
+ Caecal involvement may mimic acute appendicitis. Chronic form i.e. amoebic colitis,
+can be confused with inflammatory bowel disease.
+ Untreated or incompletely treated intestinal infection may result in amoebic liver
+abscess and involvement of other extra intestinal site.
+Investigations
+ Demonstration of cysts and/or trophozoites of Entamoeba histolytica in the stool.
+Pharmacological treatment
+ Asymptomatic cyst passers- Tab. diloxanide furoate 500 mg TDS for 10 days
+ Acute amoebic dysentery and chronic infection
+Tab. metronidazole 400 – 800 mg 8 hourly PO for 10 days. In children 15 mg/kg divided
+in three doses for 7 days or Tab. tinidazole (300 mg, 500 mg and 1 g) 2 g orally as single
+-
+dose. In children 50 mg/kg/day in three divided doses for 10 days
+Followed by Tab. diloxanide furoate 500 mg 8 hourly for 10 days
+-
+GIARDIASIS
+It is an intestinal disease caused by parasite Giardia lamblia that spreads by direct faeco-oral
+transmission.
+Salient features
+ Acute giardiasis-although diarrhea is common, upper intestinal manifestations such as
+abdominal pain, bloating, belching, flatus, nausea and vomiting may predominate.
+ Chronic giardiasis – history of one or more episodes of acute diarrhea, increased flatus, loose
+stools, abdominal distension, borborygmi, eructation of foul tasting gas and passage of foul
+smelling flatus, and weight loss.
+ Symptoms could be intermittent, recurring and gradually debilitating: severe disease may
+result in malabsorption, weight loss, growth retardation and dehydration.
+151
+
+Infections
+Investigations
+ Demonstration of cysts and or trophozoites in the stools.
+Pharmacological treatment
+ Tab. tinidazole 2 g as single dose in adults. In children 50 mg/kg as a single dose Or
+ Tab. metronidazole 400 mg every TDS for 7 days in adults. In children 15 mg/kg divided
+in three doses for 7 days.
+Patient education
+ Infections spread by ingestion of food or water contaminated with cysts. Properly cooked
+food, use of clean drinking water, proper sanitation and good personal hygiene- hand
+washing with soap after defecation and before meals may prevent infection.
+ Infection can be minimized by avoiding unpeeled fruits and vegetables.
+ Side effects are usually mild and transient and include nausea, vomiting, abdominal
+discomfort, metallic taste and a disulfiram like reaction, therefore, avoid use of alcohol
+during treatment.
+HOOKWORM INFESTATION
+The majority of worm infestations are asymptomatic Infections caused by A.duodenale and
+N.americanus. The infective larvae penetrate through skin usually the food and travel
+through subcutaneous issue to the intestines. The adult forms live in the jejunum and feed on
+blood, thus leading to chronic blood loss and anemia.
+Salient features
+ Asymptomatic or present with symptoms of anemia (Hypochromic microcytic).
+ Pruritic maculopapular dermatitis (ground itch) at site of skin penetration by infective larvae,
+serpigenous tracts of subcutaneous migration in previously sensitized host.
+ Mild transient pneumonitis because of larvae migration through lungs.
+ Intestinal manifestations – epigastric pain often with post-prandial accentuation,
+inflammatory diarrhea.
+ Major consequences –progressive iron deficiency anemia and hypoproteinemia
+Pharmacological treatment
+ Tab. mebendazole 100mg BD for 3 days in children above 2 years of age.
+(Caution: contraindicated in children less than 2 years) or
+ Tab.pyrantel pamoate (250mg); once daily for 3 days.
+(Caution; not used in children below 1 year of age)
+ In children more than 1 year, susp. pyrental palmoate 10mg/kg as a single dose or Tab
+albendazole 400mg to be given as a single dose. In children between 1-2 years of age
+syrup albendazole 200mg as a single dose. In children more than 2 years of age syrup
+albendazole 400 mg as a single dose.
+152
+
+Infections
+Patient education
+ Hookworm infestation occurs through skin penetration by the infective larvae.
+ The disease can be prevented by use of boots and gloves while working in the fields.
+ASCARIASIS (ROUNDWORM INFESTATION)
+Ascariasis is caused by Ascaris lumbricoides, the largest nematode parasite of humans
+reaching up to 40 cm in length. The worm is located in the large intestine.
+Salient features
+ Most individuals are asymptomatic. Features of pulmonary involvement because of larval
+migration include irritating nonproductive cough, bronchospasm or pneumonitis and burring
+substernal discomfort aggravated by coughing or deep inspiration, dyspnoea, fever,
+eosinophilic pneumonities.
+ Small bowel obstruction may get complicated by perforation intussusceptions or volvulus.
+ Aberrant migration of a large worm may cause biliary colic, cholangitis, cholecystitis
+pancreatic and oral expulsion of the worm.
+Pharmacological treatment
+ Tab mebendazole 100 mg 12 hourly for 3 days in children above 2 years of age. (Caution:
+contraindicated in children < 2 years)
+ Tab. pyrantel pamoate 11 mg/kg as a single dose or Tab. albendazole 400 mg as a single
+dose. In heavy infestation, however, a 2-3 day course is indicated. (Caution:
+contraindicated in pregnancy)
+ In children between 1 – 2 years of age Syr. albendazole 200 mg as a single dose. In
+children more than 2 years, Syr. albendazole 400 mg as a single dose.
+Patient education
+Proper sanitation and good personal hygiene- hand washing with soap after defecation and
+before meals may prevent infection. Avoid unpeeled fruits and vegetables and use of clean
+drinking water.
+ENTEROBIASIS
+Infection is caused by Enterobius vermicularis (Pin worm). Adult pinworm is around 1 cm
+long and dwells in the bowel lumen in the small and large intestine around caecum area.
+Salient features
+ Most infestations are asymptomatic. Cardinal symptoms are perianal pruritis, worse at night
+due to migration of female worms. Excessive itching can lead to perianal excoriation and
+bacterial superinfection. Heavy infection causes abdominal pain and weight loss.
+ Rarely, in female’s vulvovaginitis and pelvic or peritoneal granulomas occur.Eosinophilia.
+153
+
+Infections
+Investigations
+Demonstration of the ova of Enterobius vermicularis in perianal swabs or a cellophane tape
+should be pressed against perianal skin. In the morning, when the child gets up, eggs stick to
+the tape and can be examined under the microscope.
+Pharmacological treatment
+ Tab. mebendazole 100 mg as a single dose in adults and children more than 2 years of
+age. (Contraindicated in pregnancy and in children below one year of age). Or Tab.
+pyrantel pamoate 11 mg/kg body weight as a single dose. Or Tab. albendazole 400 mg as
+a single dose.
+ Children (1-2 years) Syr. albendazole 200 mg as a single dose; More than 2 years 400 mg
+as a single dose.
+ Repeat treatment after two weeks.
+Assessment of response of worm infestation to therapy
+ Repeat stool, perianal swab examination for ova of Enterobius vermicularis.
+ Absolute eosinophil count, haemoglobin and peripheral blood smear examination at
+monthly intervals for 3-6 months.
+ Serum albumin level in hookworm infection.
+Patient education
+ Treatment of all family members is required to eliminate asymptomatic reservoirs of
+potential re infection.
+ Proper sanitation and good personal hygiene, hand washing with soap after defecation
+and before meals may prevent infection.
+ Infection can be minimized by avoidance of unpeeled fruits and vegetables and use of
+clean drinking water. Regular washing and disinfection of linen.
+FILARIASIS
+Filariasis is caused bywuchereria bancrofti in 90% of cases. Lymphatics are mainly affected,
+resulting in gross limb swellings.
+Salient features
+ In acute presentation episodic attacks of fever with lymphadenitis and lymphangitis.
+Occasionally adult worms may be felt subcutaneously.
+ Chronic presentation as a case of lymphatic obstruction due to worm or fibrosis causing
+massive lower limb oedema, non pitting type, with skin thickening, hydrocele,
+chyluria, chylous ascitis, chylothorax.
+Investigations: Total and differential count shows eosinophilia. Immature worms
+(microfilaria) seen in nocturnal peripheral blood smears.
+Non-pharmacological treatment
+ Manual lymphoedema drainage
+154
+
+Infections
+ Multilayer lymphoedema bandage
+ Compression garments,exercise
+ Skin care to prevent athlete foot with 3% benzoic acid, for dry skin paraffin ointment, for
+hyperkeratosis 5% salicylic acid,
+Pharmacological treatment
+Tab.diethylcarbamazine 6mg/kg for 21 days .for acute cases and antipyretics for fever
+Surgical treatment
+ Bypass procedures
+ Omental pedicle
+ Nodovenous shunt
+ Limb reduction procedures
+155

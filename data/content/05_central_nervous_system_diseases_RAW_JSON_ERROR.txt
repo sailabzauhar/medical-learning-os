@@ -1,0 +1,605 @@
+[
+  {
+    "question_id": 1,
+    "question": "A 38-year-old female presents with recurrent headaches. She describes the attacks as lasting approximately 12 hours, being throbbing in nature, unilateral, and of moderate intensity. During these episodes, she experiences significant nausea and sensitivity to light and sound, which forces her to lie down in a dark, quiet room. Her physical examination is normal, and there are no other apparent causes for her headaches. Which of the following is the most appropriate initial pharmacological treatment for her acute attacks?",
+    "options": {
+      "A": "Tab. sumatriptan 50 mg PO",
+      "B": "Tab. propranolol 40 mg BD",
+      "C": "A combination of acetaminophen, aspirin, and caffeine",
+      "D": "Tab. amitriptyline 10 mg at night time"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The patient's symptoms (repeated attacks lasting 4-72 hours, unilateral throbbing pain, moderate intensity, nausea, photophobia, and phonophobia, with a normal physical exam) are characteristic of migraine. For mild to moderate migraine attacks, the chapter recommends the combination of acetaminophen, aspirin, and caffeine as the initial pharmacological treatment.",
+      "incorrect_options": {
+        "A": "Tab. sumatriptan 50 mg PO is indicated if NSAIDs/analgesics, such as the combination of acetaminophen, aspirin, and caffeine, fail to provide relief.",
+        "B": "Tab. propranolol 40 mg BD is a preventive agent for migraine, considered in patients with five or more attacks a month or attacks unresponsive to abortive treatments. It is not an acute treatment.",
+        "C": "This is the correct answer.",
+        "D": "Tab. amitriptyline 10 mg at night time is the only proven pharmacological treatment for chronic tension-type headache, not migraine."
+      },
+      "key_learning_point": "Initial pharmacological treatment for mild to moderate migraine attacks involves a combination of acetaminophen, aspirin, and caffeine."
+    },
+    "difficulty": "Easy",
+    "source_section": "MIGRAINE"
+  },
+  {
+    "question_id": 2,
+    "question": "A 42-year-old male presents with episodes of excruciatingly severe headache around his right eye, accompanied by tearing and redness of the eye, a blocked and runny nose on the same side, and a drooping eyelid. These attacks occur frequently, are brief, and peak rapidly. What is the most appropriate acute pharmacological treatment for this patient?",
+    "options": {
+      "A": "Tab. sumatriptan 100 mg PO",
+      "B": "Oxygen inhalation at 10–12 L/min for 15–20 min",
+      "C": "Tab. prednisone 60 mg daily for 21 days",
+      "D": "Tab. zolmitriptan 2.5 mg PO"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "The patient's presentation with frequent, brief, extremely severe headache associated with pain around the eye with tearing and redness, ipsilateral nasal congestion/rhinorrhea, and eyelid droop is characteristic of cluster headache. The chapter states that cluster headache attacks peak rapidly, requiring a quick-onset treatment. Many patients respond very well to oxygen inhalation, which should be given as 100% oxygen at 10–12 L/min for 15–20 min.",
+      "incorrect_options": {
+        "A": "Tab. sumatriptan 100 mg PO is used for migraine attacks if NSAIDs/analgesics fail, not for acute cluster headache.",
+        "B": "This is the correct answer.",
+        "C": "Tab. prednisone 1 mg/kg up to 60 mg daily, tapering over 21 days, is a short-term preventive treatment for episodic cluster headache, not an acute treatment for an ongoing attack.",
+        "D": "Tab. zolmitriptan 2.5 mg PO is used for migraine attacks if NSAIDs/analgesics fail. While zolmitriptan nasal spray is effective for acute cluster headache, the oral tablet dose is not specified for this condition and quick onset is crucial, making oxygen a more appropriate initial acute treatment based on the chapter's emphasis.",
+      "key_learning_point": "Acute cluster headache attacks, due to their rapid peak, require quick-onset treatments. Oxygen inhalation (100% at 10–12 L/min for 15–20 min) is a highly effective initial treatment."
+    },
+    "difficulty": "Moderate",
+    "source_section": "CLUSTER HEADACHE (CH)"
+  },
+  {
+    "question_id": 3,
+    "question": "A 68-year-old male is evaluated for recent onset right-sided weakness and dysarthria. Symptoms started 2 hours ago. A CT scan of the brain shows no evidence of hemorrhage. His blood pressure is 180/100 mmHg. Which of the following is an absolute contraindication to initiating intravenous thrombolysis with rtPA in this patient?",
+    "options": {
+      "A": "Age over 65 years",
+      "B": "Blood pressure of 180/100 mmHg",
+      "C": "Onset of symptoms 2 hours ago",
+      "D": "Dysarthria as a symptom"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "According to Table 1, a sustained blood pressure >185/110 mm Hg despite treatment is a contraindication for thrombolysis. While the patient's current BP is 180/100 mmHg, the chapter also states that blood pressure should be lowered if it is >185/110 mm Hg and thrombolytic therapy is anticipated. Therefore, a BP of 180/100 mmHg is not an absolute contraindication, but rather an indication to monitor and manage to ensure it doesn't exceed the threshold. However, reviewing the options, none of them are an *absolute* contraindication. Let me re-evaluate this. The question asks for an *absolute contraindication*. The table explicitly lists 'Sustained BP >185/110 mm Hg despite treatment' as a contraindication. The given BP is 180/100 mmHg. This is *not* >185/110 mm Hg. So, this option is *incorrectly* identified as a contraindication. Let me re-read the general stroke management: 'Blood pressure should be lowered if there is malignant hypertension or concomitant myocardial ischemia or if blood pressure is >185/110 mm Hg and thrombolytic therapy is anticipated'. The options provided are: A) Age over 65 years (Table 1: 'Age >18 years' is an indication, so age >65 is not a contraindication). B) Blood pressure of 180/100 mmHg (Table 1: Contraindication is >185/110 mmHg. So 180/100 mmHg is not a contraindication). C) Onset of symptoms 2 hours ago (Table 1: 'Onset of symptom to drug administration <3 hours' is an indication, so 2 hours is not a contraindication). D) Dysarthria as a symptom (Salient features lists dysarthria as a stroke symptom, not a contraindication). \n\nIt seems I misread my own analysis. *None* of the options provided are an absolute contraindication based on the given chapter. I need to generate questions where one option *is* the correct answer. Let me adjust the question or options. I will assume the question means 'Which of the following, if present, would *become* an absolute contraindication *if untreated or exceeded*?', but that's a stretch. The question needs to be direct. I will revise the question to use a value that *is* a contraindication based on the table.\n\nRevised Question: A 68-year-old male is evaluated for recent onset right-sided weakness and dysarthria. Symptoms started 2 hours ago. A CT scan of the brain shows no evidence of hemorrhage. His blood pressure is 190/115 mmHg despite initial treatment attempts. Which of the following is an absolute contraindication to initiating intravenous thrombolysis with rtPA in this patient? \n\nWith this revision, 'Blood pressure of 190/115 mmHg despite initial treatment attempts' would be the correct answer. Let me ensure the rest of the options remain plausible distractors. \n\nLet's assume the original question stands and I need to find the BEST fit or if there's a subtle point. 'Blood pressure should be lowered if [...] blood pressure is >185/110 mm Hg and thrombolytic therapy is anticipated'. The patient's BP is 180/100 mmHg. This is *below* 185/110. Therefore, it is *not* a contraindication. All options are, in fact, NOT contraindications. This means the question is flawed. I must rephrase the question to make one option definitively correct as a contraindication or an indication if I want to test that. \n\nLet's re-read the prompt: 'Every question must have exactly one best answer.' and 'Avoid ambiguous questions.' I will modify the question to reflect a clear contraindication based on Table 1. \n\n**Revised Question 3 (internal thought process):** A 68-year-old male presents with acute onset left-sided weakness and speech difficulty, starting 2.5 hours ago. A CT scan of the brain reveals no hemorrhage. His current blood pressure is 170/95 mmHg. Laboratory results show a platelet count of 90,000/µl. Which of the following findings represents an absolute contraindication to initiating intravenous thrombolysis with rtPA in this patient? \n\nWith this change, platelet count <100,000 is a direct contraindication from Table 1.",
+      "incorrect_options": {
+        "A": "Age over 65 years is not a contraindication. Table 1 lists age >18 years as an indication for thrombolysis, implying there is no upper age limit for eligibility based on the chapter.",
+        "B": "A blood pressure of 180/100 mmHg is below the threshold of >185/110 mm Hg, which is listed as a contraindication if sustained despite treatment. Therefore, this BP value itself is not a contraindication.",
+        "C": "Onset of symptoms 2 hours ago is well within the <3 hours window specified as an indication for thrombolysis.",
+        "D": "Dysarthria is a salient feature of stroke and not a contraindication for thrombolysis. Its presence indicates a neurological deficit attributable to a focal vascular cause."
+      },
+      "key_learning_point": "Thrombolytic therapy with rtPA in stroke has strict indications and contraindications. Key contraindications include a sustained BP >185/110 mm Hg despite treatment, platelet count <100,000, and onset of symptoms >3 hours prior to administration."
+    },
+    "difficulty": "Hard",
+    "source_section": "STROKE, Table 1"
+  },
+  {
+    "question_id": 3,
+    "question": "A 68-year-old male presents with acute onset left-sided weakness and speech difficulty, starting 2.5 hours ago. A CT scan of the brain reveals no hemorrhage. His current blood pressure is 170/95 mmHg. Laboratory results show a platelet count of 90,000/µl. Which of the following findings represents an absolute contraindication to initiating intravenous thrombolysis with rtPA in this patient?",
+    "options": {
+      "A": "Age over 65 years",
+      "B": "Blood pressure of 170/95 mmHg",
+      "C": "Onset of symptoms 2.5 hours ago",
+      "D": "Platelet count of 90,000/µl"
+    },
+    "correct_answer": "D",
+    "explanation": {
+      "correct_reason": "According to Table 1, a platelet count <100,000/µl is an absolute contraindication for initiating intravenous thrombolysis with rtPA. The patient's platelet count of 90,000/µl falls below this threshold.",
+      "incorrect_options": {
+        "A": "Age over 65 years is not a contraindication. Table 1 lists 'Age >18 years' as an indication for thrombolysis, with no upper age limit specified as a contraindication.",
+        "B": "A blood pressure of 170/95 mmHg is below the threshold of >185/110 mm Hg, which is listed as a contraindication if sustained despite treatment. Therefore, this BP value itself is not a contraindication.",
+        "C": "Onset of symptoms 2.5 hours ago is well within the '<3 hours' window specified as an indication for thrombolysis.",
+        "D": "This is the correct answer."
+      },
+      "key_learning_point": "Critical contraindications for rtPA thrombolysis include a platelet count below 100,000/µl, sustained hypertension >185/110 mmHg despite treatment, and symptom onset beyond 3 hours."
+    },
+    "difficulty": "Hard",
+    "source_section": "STROKE, Table 1"
+  },
+  {
+    "question_id": 4,
+    "question": "A 55-year-old patient is diagnosed with acute bacterial meningitis. He has a history of alcoholism and other debilitating illnesses. Which empiric antibiotic regimen is most appropriate for this patient?",
+    "options": {
+      "A": "Ampicillin + cefotaxime + vancomycin",
+      "B": "Cefotaxime + vancomycin",
+      "C": "Ampicillin + ceftazidime + vancomycin",
+      "D": "Ampicillin + cefepime"
+    },
+    "correct_answer": "A",
+    "explanation": {
+      "correct_reason": "According to Table 4, for adults >55 and adults of any age with alcoholism or other debilitating illnesses, the recommended empiric antibiotic regimen for bacterial meningitis is Ampicillin + cefotaxime, ceftriaxone, or cefepime + vancomycin. Option A correctly combines Ampicillin + cefotaxime + vancomycin, fitting this recommendation.",
+      "incorrect_options": {
+        "A": "This is the correct answer.",
+        "B": "Cefotaxime + vancomycin alone would be appropriate for immunocompetent children >3 months and adults <55, but Ampicillin is added for adults >55 or those with alcoholism/debilitating illnesses.",
+        "C": "Ampicillin + ceftazidime + vancomycin is recommended for hospital-acquired meningitis, posttraumatic/post-neurosurgery meningitis, neutropenic patients, or patients with impaired cell-mediated immunity, which is a different clinical scenario.",
+        "D": "Ampicillin + cefepime alone lacks vancomycin, which is crucial for coverage, especially in this patient population, as per the guideline combining a third-generation cephalosporin (or cefepime) with vancomycin plus ampicillin."
+      },
+      "key_learning_point": "Empiric antibiotic choice for bacterial meningitis depends on patient characteristics. Adults >55 or with comorbidities like alcoholism require broader coverage including Ampicillin, a cephalosporin (e.g., cefotaxime), and vancomycin."
+    },
+    "difficulty": "Moderate",
+    "source_section": "ACUTE BACTERIAL MENINGITIS, Table 4"
+  },
+  {
+    "question_id": 5,
+    "question": "A 2-month-old infant is diagnosed with acute bacterial meningitis. What is the recommended total daily dose of cefotaxime for this patient according to the chapter's guidelines?",
+    "options": {
+      "A": "4 g/d",
+      "B": "6 g/d",
+      "C": "12 g/d",
+      "D": "7.5 mg/kg/d"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "According to Table 4, the total daily dose for Cefotaxime is 12 g/d, given every 12 hourly. This dosage applies irrespective of age group mentioned in the table for meningitis treatment.",
+      "incorrect_options": {
+        "A": "4 g/d is the total daily dose for Ceftriaxone.",
+        "B": "6 g/d is the total daily dose for Cefipime and Ceftazidime.",
+        "C": "This is the correct answer.",
+        "D": "7.5 mg/kg/d is the total daily dose for Gentamicin."
+      },
+      "key_learning_point": "Specific antimicrobial agents have defined total daily dosages and dosing intervals for bacterial meningitis, which are critical for effective treatment across different patient populations."
+    },
+    "difficulty": "Easy",
+    "source_section": "ACUTE BACTERIAL MENINGITIS, Table 4"
+  },
+  {
+    "question_id": 6,
+    "question": "A 70-year-old male with a history of Parkinson's disease is experiencing motor complications including the 'wearing-off effect' and dyskinesia with his current levodopa therapy. Which of the following medications, when added, is primarily associated with these dopaminergic adverse effects and has reported cases of fatal hepatic toxicity?",
+    "options": {
+      "A": "Tab. pramipexole",
+      "B": "Tab. selegiline",
+      "C": "Tab. entacapone",
+      "D": "Tab. tolcapone"
+    },
+    "correct_answer": "D",
+    "explanation": {
+      "correct_reason": "The chapter lists COMT Inhibitors, including Tab. tolcapone, as agents whose primary adverse effects are dopaminergic (nausea, vomiting, increased dyskinesia). Crucially, the chapter explicitly states: 'Cases of fatal hepatic toxicity have been reported with tolcapone.' This directly matches the question's description.",
+      "incorrect_options": {
+        "A": "Tab. pramipexole is a dopamine agonist, and its acute side effects include nausea, vomiting, orthostatic hypotension, and hallucination. While it can contribute to dopaminergic side effects, it is not specifically associated with fatal hepatic toxicity mentioned for tolcapone.",
+        "B": "Tab. selegiline is an MAO-B inhibitor. The chapter does not list fatal hepatic toxicity or prominent dopaminergic side effects like increased dyskinesia for selegiline.",
+        "C": "Tab. entacapone is also a COMT inhibitor with primary dopaminergic adverse effects. However, the specific mention of 'fatal hepatic toxicity' is reserved for tolcapone in the text.",
+        "D": "This is the correct answer."
+      },
+      "key_learning_point": "While many Parkinson's medications can cause dopaminergic side effects, tolcapone, a COMT inhibitor, has a unique and severe adverse effect profile including reported cases of fatal hepatic toxicity, making its use carefully considered."
+    },
+    "difficulty": "Moderate",
+    "source_section": "PARKINSON'S DISEASE"
+  },
+  {
+    "question_id": 7,
+    "question": "A 60-year-old patient is suspected of having a stroke. She presents with sudden onset weakness on her right side and difficulty speaking, which began 4 hours prior to arrival. A CT scan is immediately performed and shows no evidence of hemorrhage. Which of the following findings would be a contraindication for administering rtPA (recombinant tissue plasminogen activator) in this patient?",
+    "options": {
+      "A": "The onset of symptoms was 4 hours ago.",
+      "B": "The CT scan shows no hemorrhage.",
+      "C": "The patient is 60 years old.",
+      "D": "The symptoms are rapidly improving."
+    },
+    "correct_answer": "A",
+    "explanation": {
+      "correct_reason": "According to Table 1, one of the key indications for thrombolytic agent administration is 'Onset of symptom to drug administration <3 hours'. Since the patient's symptoms began 4 hours ago, this falls outside the therapeutic window, making it an absolute contraindication for rtPA.",
+      "incorrect_options": {
+        "A": "This is the correct answer.",
+        "B": "A CT scan showing no hemorrhage is an indication for thrombolysis, as rtPA is used for ischemic stroke, not hemorrhagic stroke.",
+        "C": "The chapter states 'Age >18 years' as an indication. Being 60 years old is not a contraindication.",
+        "D": "Rapidly improving symptoms are listed as a contraindication in Table 1, but the question states symptoms began 4 hours prior, making the time window the primary contraindication. If the symptoms *were* rapidly improving, that would also be a contraindication. However, the primary issue is the time window.",
+      "key_learning_point": "The time window for rtPA administration is critical. Thrombolysis is generally indicated only if the onset of symptoms to drug administration is less than 3 hours."
+    },
+    "difficulty": "Moderate",
+    "source_section": "STROKE, Table 1"
+  },
+  {
+    "question_id": 8,
+    "question": "A 45-year-old female presents with persistent dizziness. Her examination reveals bidirectional nystagmus, and she also reports episodes of diplopia and dysarthria. Visual fixation does not inhibit her nystagmus. She denies any tinnitus or hearing loss. Based on these features, which type of vertigo is most likely?",
+    "options": {
+      "A": "Peripheral vertigo due to Ménière's disease",
+      "B": "Peripheral vertigo due to labyrinthitis",
+      "C": "Central vertigo originating from the brainstem or cerebellum",
+      "D": "Benign paroxysmal positional vertigo (BPPV)"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "According to Table 6, features of central vertigo include bidirectional or direction-changing nystagmus, no inhibition of nystagmus with visual fixation, absence of tinnitus/deafness, and common associated central nervous system abnormalities such as diplopia and dysarthria. All these features align with the patient's presentation, strongly indicating central vertigo.",
+      "incorrect_options": {
+        "A": "Peripheral vertigo, as seen in Ménière's disease or labyrinthitis, typically presents with unidirectional nystagmus (fast phase opposite lesion), often inhibited by visual fixation, and is frequently associated with tinnitus and/or deafness. Ménière's disease also includes vertigo, hearing loss, and ear pain/pressure/fullness, which are not mentioned here.",
+        "B": "Labyrinthitis is a cause of peripheral vertigo and would typically present with features opposite to those observed, such as unidirectional nystagmus and often associated tinnitus/deafness.",
+        "C": "This is the correct answer.",
+        "D": "BPPV is a common cause of peripheral vertigo, characterized by brief (15-20s) episodes provoked by head position changes and specific types of nystagmus (e.g., upward and torsional for posterior canal BPPV), which do not match the persistent dizziness, bidirectional nystagmus, and other neurological symptoms described.",
+      "key_learning_point": "Differentiating central from peripheral vertigo is crucial. Central vertigo often presents with nystagmus not inhibited by visual fixation, bidirectional nystagmus, and associated CNS deficits like diplopia or dysarthria, usually without auditory symptoms."
+    },
+    "difficulty": "Moderate",
+    "source_section": "VERTIGO, Table 6"
+  },
+  {
+    "question_id": 9,
+    "question": "A 30-year-old female presents with the acute onset of progressive weakness that has affected her lower limbs symmetrically and is now involving her upper limbs. She reports generalized hypo- or areflexia. She had a gastrointestinal illness about two weeks prior. A CSF analysis reveals elevated protein and a cell count of 5 mononuclear cells/mm³. Which of the following criteria, if present, would *reduce the possibility* of a diagnosis of Guillain-Barré Syndrome (GBS) in this patient?",
+    "options": {
+      "A": "Symptom progression ceasing by 4 weeks",
+      "B": "Presence of bilateral facial weakness",
+      "C": "CSF cell count of 60 mononuclear cells/mm³",
+      "D": "Preceding upper respiratory tract infection"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "According to the 'Findings reducing possibility of diagnosis' section for GBS, 'Greater than 50 mononuclear cells/mm3 in CSF' would reduce the possibility of GBS. A CSF cell count of 60 mononuclear cells/mm³ exceeds this threshold.",
+      "incorrect_options": {
+        "A": "Symptom progression ceasing by 4 weeks is listed as a feature supportive of GBS diagnosis, not one that reduces its possibility.",
+        "B": "Frequent cranial nerve involvement, including facial (cranial nerve VII) which is often bilateral but asymmetric, is listed as a clinical feature supportive of GBS diagnosis.",
+        "C": "This is the correct answer.",
+        "D": "A preceding gastrointestinal illness or upper respiratory tract infection is a common clinical feature supportive of GBS diagnosis, not one that reduces its possibility."
+      },
+      "key_learning_point": "Diagnostic criteria for GBS include specific CSF findings. While elevated protein with a low cell count (<10 mononuclear cells/mm³) is typical, a CSF cell count >50 mononuclear cells/mm³ significantly reduces the likelihood of GBS."
+    },
+    "difficulty": "Moderate",
+    "source_section": "GUILLAIN-BARRÉ SYNDROME (GBS)"
+  },
+  {
+    "question_id": 10,
+    "question": "A 72-year-old patient with Alzheimer's disease is prescribed Tab. memantine for cognitive improvement. What is the recommended dose and a common side effect of this medication?",
+    "options": {
+      "A": "10 mg daily; nausea, diarrhea, bradycardia",
+      "B": "6 mg twice daily; dizziness, confusion, headache",
+      "C": "10 mg twice daily; dizziness, confusion, headache",
+      "D": "24 mg daily; altered sleep with unpleasant dreams"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "According to Table 2, the dose for Tab. memantine is 10 mg twice daily. Common side effects listed for memantine include dizziness, confusion, headache, syncope, or hypotension.",
+      "incorrect_options": {
+        "A": "10 mg daily is the dose for donepezil, and while nausea, diarrhea, and bradycardia are side effects, they are primarily associated with donepezil (and rivastigmine, galantamine) in the table.",
+        "B": "6 mg twice daily is the dose for rivastigmine. Dizziness, confusion, and headache are common side effects for memantine, but not rivastigmine (which shares similar side effects with donepezil).",
+        "C": "This is the correct answer.",
+        "D": "24 mg daily is the dose for galantamine, and altered sleep with unpleasant dreams is a side effect common to donepezil, rivastigmine, and galantamine, not memantine."
+      },
+      "key_learning_point": "Specific drugs for dementia, such as memantine, have defined dosages and distinct side effect profiles that differentiate them from cholinesterase inhibitors."
+    },
+    "difficulty": "Moderate",
+    "source_section": "DEMENTIA, Table 2"
+  },
+  {
+    "question_id": 11,
+    "question": "A 35-year-old construction worker presents with right-sided facial weakness that began suddenly yesterday. He is unable to wrinkle his forehead on the right, cannot close his right eye completely (revealing Bell's phenomenon), and reports a loss of taste on the anterior two-thirds of his tongue. There are no other neurological findings. What is the most appropriate initial pharmacological treatment?",
+    "options": {
+      "A": "Tab. acyclovir 400 mg five times daily for 10 days alone.",
+      "B": "Tab. prednisone 60 mg daily for 5 days, then tapered over 5 days, combined with Tab. acyclovir 400 mg five times daily for 10 days.",
+      "C": "Tab. prednisone 60 mg daily for 5 days, then tapered over 5 days, alone.",
+      "D": "Inj. methylprednisolone 1 g IV for 3 days."
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "The patient's presentation (sudden onset facial weakness affecting upper and lower face, Bell's phenomenon, involvement of taste, absence of other neurological findings) is classic for peripheral (LMN) facial palsy, most commonly Bell's palsy. The chapter states that pharmacological treatment involves 'Tab. prednisone 60-80 mg daily during the first 5 days and then tapered over the next 5 days modestly shortens the recovery period and improves the functional outcome.' It further adds, 'Tab. acyclovir 400 mg five times daily for 10 days in combination with prednisone.' Therefore, the combination therapy is the most appropriate initial pharmacological treatment.",
+      "incorrect_options": {
+        "A": "Acyclovir alone is not recommended; it is to be used in combination with prednisone.",
+        "B": "This is the correct answer.",
+        "C": "Prednisone alone is recommended, but the chapter specifies acyclovir 'in combination with prednisone', implying combined use is preferred.",
+        "D": "Inj. methylprednisolone 1 g IV for 3-5 days is indicated for conditions like neoplastic spinal cord compression or traumatic spinal cord injuries, not typically for Bell's palsy.",
+      "key_learning_point": "Bell's palsy (idiopathic peripheral facial palsy) is best treated with a combination of oral prednisone (tapered over 10 days) and oral acyclovir for 10 days to improve functional outcome and shorten recovery."
+    },
+    "difficulty": "Moderate",
+    "source_section": "FACIAL PALSY"
+  },
+  {
+    "question_id": 12,
+    "question": "A 28-year-old male presents with recurrent headaches described as pressure or tightness, like a band around his head, sometimes spreading from his neck. These attacks usually last a few hours but can persist for several days. He denies photophobia, phonophobia, nausea, or focal neurological deficits. What is the most appropriate initial pharmacological treatment for his acute pain?",
+    "options": {
+      "A": "Tab. sumatriptan 50 mg PO",
+      "B": "Tab. acetaminophen",
+      "C": "Inj. sumatriptan 6 mg SC",
+      "D": "Tab. amitriptyline 10 mg at night time"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "The patient's description of headache as pressure or tightness, like a band around the head, sometimes spreading from the neck, with episodic attacks lasting a few hours to several days, and absence of migraine or cluster headache features, is characteristic of Tension-Type Headache (TTH). The chapter states that 'The pain of TTH can generally be managed with simple analgesics such as acetaminophen, aspirin, or NSAIDs.' Therefore, Tab. acetaminophen is the most appropriate initial pharmacological treatment.",
+      "incorrect_options": {
+        "A": "Tab. sumatriptan 50 mg PO is used for mild to moderate migraine attacks if NSAIDs/analgesics fail.",
+        "B": "This is the correct answer.",
+        "C": "Inj. sumatriptan 6 mg SC is used for rapid relief of acute cluster headache attacks.",
+        "D": "Tab. amitriptyline 10 mg at night time is the proven treatment for *chronic* TTH, not for acute episodic attacks.",
+      "key_learning_point": "Episodic tension-type headaches are typically managed with simple analgesics like acetaminophen, aspirin, or NSAIDs."
+    },
+    "difficulty": "Easy",
+    "source_section": "TENSION-TYPE HEADACHE (TTH)"
+  },
+  {
+    "question_id": 13,
+    "question": "A 40-year-old male with chronic nonvalvular atrial fibrillation has recently suffered an ischemic stroke. He is now stable, and risk factor control is being optimized. Which of the following is recommended for secondary prevention of stroke in this patient?",
+    "options": {
+      "A": "Tab. aspirin 75 mg OD",
+      "B": "Tab. warfarin with a target INR of 2-3",
+      "C": "Inj. heparin 5000 IU SC every 12 h",
+      "D": "Tab. clopidogrel 75 mg OD"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "For secondary prevention of stroke, the chapter states: 'Tab. warfarin is useful for stroke prevention with a target INR of 2-3 in patients with chronic nonvalvular AF as well as untreated rheumatic heart disease with AF.' Given the patient's history of chronic nonvalvular AF, warfarin with the specified INR target is the recommended choice.",
+      "incorrect_options": {
+        "A": "Tab. aspirin 75-325 mg/day is recommended for stroke prevention, but in patients with chronic nonvalvular AF, warfarin is specifically indicated as superior according to the chapter.",
+        "B": "This is the correct answer.",
+        "C": "Inj. heparin 5000 IU SC every 12 h is primarily indicated for DVT prophylaxis in bedridden patients or those with persistent paralysis, not as a long-term secondary stroke prevention strategy for AF.",
+        "D": "Tab. clopidogrel 75 mg OD is not mentioned in the chapter for stroke prevention, although it is common in clinical practice, it cannot be selected based on the provided text.",
+      "key_learning_point": "In patients with chronic nonvalvular atrial fibrillation, warfarin with a target INR of 2-3 is the recommended agent for secondary prevention of stroke."
+    },
+    "difficulty": "Moderate",
+    "source_section": "STROKE"
+  },
+  {
+    "question_id": 14,
+    "question": "A patient with paraplegia develops detrusor spasticity. Which of the following medications is recommended to manage this condition?",
+    "options": {
+      "A": "Tab. terazosin hydrochloride 1-2 mg TDS",
+      "B": "Tab. oxybutynin 2.5–5 mg QID",
+      "C": "Inj. heparin 5000 U SC every 12 h",
+      "D": "Tab. diazepam 2-4 mg at bed time"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "For bladder dysfunction in paraplegia, the chapter states that 'Detrusor spasticity is treated with anticholinergic drugs like Tab. oxybutynin 2.5–5 mg QID or tricyclic antidepressants that have anticholinergic properties, Tab. imipramine, 25–200 mg/d.' Therefore, oxybutynin is a recommended treatment.",
+      "incorrect_options": {
+        "A": "Tab. terazosin hydrochloride 1–2 mg TDS or QID is used to manage failure of the sphincter muscle to relax during bladder emptying (urinary dyssynergia), not detrusor spasticity.",
+        "B": "This is the correct answer.",
+        "C": "Inj. heparin 5000 U SC every 12 h is recommended for DVT prophylaxis, not bladder dysfunction.",
+        "D": "Tab. diazepam 2-4 mg at bed time is useful for leg spasms that interrupt sleep due to spasticity, not primarily for detrusor spasticity.",
+      "key_learning_point": "Detrusor spasticity in patients with paraplegia or quadriplegia is managed with anticholinergic drugs such as oxybutynin or tricyclic antidepressants like imipramine."
+    },
+    "difficulty": "Easy",
+    "source_section": "PARAPLEGIA AND QUADRIPLEGIA"
+  },
+  {
+    "question_id": 15,
+    "question": "A 1-year-old child presents with a severe headache, fever, and neck stiffness. CSF analysis shows a protein level of 1.5 g/L, glucose of 1.0 mmol/L, and a WCC of 800 with 90% PMN predominance. Gram stain is positive. What is the most likely diagnosis based on these CSF findings?",
+    "options": {
+      "A": "Normal CSF",
+      "B": "Viral meningitis",
+      "C": "Bacterial meningitis",
+      "D": "Fungal/TB meningitis"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "According to Table 3, the CSF characteristics for bacterial meningitis include protein >1 g/L, glucose <2.2 mmol/L, WCC >500 (with 90% PMN predominance), and a 60-90% positive Gram Stain. The patient's CSF findings (protein 1.5 g/L, glucose 1.0 mmol/L, WCC 800 with 90% PMN, positive Gram Stain) are all consistent with bacterial meningitis.",
+      "incorrect_options": {
+        "A": "Normal CSF would have protein 0.18-0.45 g/L, glucose 2.5-3.5 mmol/L, WCC <3, and a normal Gram stain.",
+        "B": "Viral meningitis typically shows protein <1 g/L, normal glucose, and WCC <1000 with monocytes predominance (though 10% can have >90% PMN). Gram stain is typically normal.",
+        "C": "This is the correct answer.",
+        "D": "Fungal/TB meningitis typically shows protein 0.1-0.5 g/L, glucose 1.6-2.5 mmol/L (or <0.4 CSF:Serum ratio), and WCC 100-500 with monocytes predominance. Gram stain is not typically positive.",
+      "key_learning_point": "CSF analysis is crucial for differentiating types of meningitis. Bacterial meningitis typically presents with elevated protein, low glucose, high white cell count with neutrophil predominance, and often a positive Gram stain."
+    },
+    "difficulty": "Moderate",
+    "source_section": "ACUTE BACTERIAL MENINGITIS, Table 3"
+  },
+  {
+    "question_id": 16,
+    "question": "A 4-month-old infant is diagnosed with acute bacterial meningitis. According to the chapter, which empiric antibiotic regimen is most appropriate for this patient?",
+    "options": {
+      "A": "Ampicillin + cefotaxime",
+      "B": "Cefotaxime or ceftriaxone + vancomycin",
+      "C": "Ampicillin + ceftazidime + vancomycin",
+      "D": "Ampicillin + cefotaxime or ceftriaxone"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "According to Table 4, for 'Immunocompetent children >3 months and adults <55', the recommended empiric antibiotic regimen is Cefotaxime, ceftriaxone or cefepime + vancomycin. A 4-month-old child falls into the '>3 months' category.",
+      "incorrect_options": {
+        "A": "Ampicillin + cefotaxime is recommended for preterm infants to infants <1 month.",
+        "B": "This is the correct answer.",
+        "C": "Ampicillin + ceftazidime or meropenem + vancomycin is recommended for hospital-acquired meningitis, posttraumatic/post-neurosurgery meningitis, neutropenic patients, or patients with impaired cell-mediated immunity.",
+        "D": "Ampicillin + cefotaxime or ceftriaxone is for infants 1–3 months, not >3 months.",
+      "key_learning_point": "Empiric antibiotic regimens for bacterial meningitis are age-dependent. For immunocompetent children over 3 months, a third-generation cephalosporin (cefotaxime or ceftriaxone) combined with vancomycin is the standard."
+    },
+    "difficulty": "Moderate",
+    "source_section": "ACUTE BACTERIAL MENINGITIS, Table 4"
+  },
+  {
+    "question_id": 17,
+    "question": "A 6-year-old child from an endemic area presents with intractable seizures. MRI shows a cystic lesion containing a characteristic scolex. Which diagnostic criterion for neurocysticercosis is met by the MRI finding?",
+    "options": {
+      "A": "Major criterion",
+      "B": "Minor criterion",
+      "C": "Epidemiologic criterion",
+      "D": "Absolute criterion"
+    },
+    "correct_answer": "D",
+    "explanation": {
+      "correct_reason": "According to the 'Diagnostic criteria for cysticercosis' section, 'Neuro-radiologic demonstration of cystic lesion containing a characteristic scolex' is an absolute criterion. The MRI finding directly matches this description.",
+      "incorrect_options": {
+        "A": "Major criteria include neuro-radiologic lesions suggestive of neuro-cysticercosis (without scolex), demonstration of antibodies in serum, or resolution after anthelminthic therapy.",
+        "B": "Minor criteria include lesions compatible with neuro-cysticercosis by neuro-imaging studies (less specific than scolex), clinical manifestations, or antibodies/antigen in CSF.",
+        "C": "Epidemiologic criteria include residence in or frequent travel to an endemic area, or household contact with an infected individual.",
+        "D": "This is the correct answer."
+      },
+      "key_learning_point": "The neuro-radiologic visualization of a cystic lesion containing a scolex is an absolute diagnostic criterion for neurocysticercosis, indicating definitive diagnosis."
+    },
+    "difficulty": "Easy",
+    "source_section": "NEUROCYSTICERCOSIS"
+  },
+  {
+    "question_id": 18,
+    "question": "A patient is diagnosed with neurocysticercosis with viable cysts. To avoid an inflammatory response in the CNS during treatment with anthelminthic drugs, which of the following prophylactic measures should be initiated?",
+    "options": {
+      "A": "Tab. praziquantel 5-10 mg/kg single dose",
+      "B": "Tab. albendazole 400 mg PO BD for 14 days",
+      "C": "Anticonvulsants and high dose glucocorticoids",
+      "D": "Surgical removal of the cysts"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The chapter states: 'To avoid inflammatory response in the CNS, the patient must be started on anticonvulsants and high dose glucocorticoids' when treating neurocysticercosis with anthelminthic drugs. This is crucial as the death of the parasite can trigger significant inflammation.",
+      "incorrect_options": {
+        "A": "Tab. praziquantel 5-10 mg/kg single dose is an anthelminthic drug used to treat T. solium tapeworms in stool, and is part of the treatment for neurocysticercosis, but is not the prophylactic measure against inflammation.",
+        "B": "Tab. albendazole 400 mg PO BD for 14 days is an anthelminthic drug for neurocysticercosis and can itself trigger the inflammatory response it seeks to prevent.",
+        "C": "This is the correct answer.",
+        "D": "Surgical removal is reserved for cases where cysts fail to resolve with anthelminthic treatment and cause severe neurological sequelae, not as a primary prophylactic measure against inflammation during drug therapy.",
+      "key_learning_point": "When treating neurocysticercosis with anthelminthic drugs, it is critical to co-administer anticonvulsants and high-dose glucocorticoids to mitigate the inflammatory response that can occur as the parasites die."
+    },
+    "difficulty": "Moderate",
+    "source_section": "NEUROCYSTICERCOSIS"
+  },
+  {
+    "question_id": 19,
+    "question": "A 30-year-old male with a history of recurrent cluster headaches is seeking long-term preventive treatment. Which of the following medications is indicated for long-term prevention of cluster headache?",
+    "options": {
+      "A": "Prednisone 1 mg/kg up to 60 mg daily",
+      "B": "Verapamil 160–960 mg/d",
+      "C": "Inj. sumatriptan 6 mg SC",
+      "D": "Oxygen inhalation at 10–12 L/min"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "Under 'Preventive treatments of cluster headache', the chapter lists 'Long-term prevention' for episodic and prolonged chronic cluster headache. Among the drugs listed is Verapamil 160–960 mg/d.",
+      "incorrect_options": {
+        "A": "Prednisone 1 mg/kg up to 60 mg daily, tapering over 21 days, is specified for 'Short-Term prevention' of episodic cluster headache.",
+        "B": "This is the correct answer.",
+        "C": "Inj. sumatriptan 6 mg SC is an acute treatment for a cluster headache attack, not a preventive agent.",
+        "D": "Oxygen inhalation at 10–12 L/min is an acute treatment for a cluster headache attack, not a preventive agent.",
+      "key_learning_point": "Long-term preventive treatment for cluster headache includes Verapamil and Methysergide, while Prednisone is used for short-term prevention."
+    },
+    "difficulty": "Easy",
+    "source_section": "CLUSTER HEADACHE (CH)"
+  },
+  {
+    "question_id": 20,
+    "question": "A patient with quadriplegia develops spasticity. Which of the following is an appropriate pharmacological intervention for this condition?",
+    "options": {
+      "A": "Tab. oxybutynin 2.5–5 mg QID",
+      "B": "Tab. baclofen 15–240 mg/d in divided doses",
+      "C": "Tab. warfarin with a target INR of 2-3",
+      "D": "Inj. methylprednisolone 1 g IV for 3-5 days"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "For spasticity in paraplegia and quadriplegia, the chapter recommends 'Tab. baclofen 15–240 mg/d in divided doses is effective. Tab. diazepam 2-4 mg at bed time acts by a similar mechanism and is useful for leg spasms that interrupt sleep. Tab. Tizanidine 2–8 mg TDS is another option.' Therefore, baclofen is an appropriate pharmacological intervention.",
+      "incorrect_options": {
+        "A": "Tab. oxybutynin 2.5–5 mg QID is used for detrusor spasticity (bladder dysfunction), not general limb spasticity.",
+        "B": "This is the correct answer.",
+        "C": "Tab. warfarin with a target INR of 2-3 is used for DVT prophylaxis in persistent paralysis, not for spasticity.",
+        "D": "Inj. methylprednisolone 1 g IV for 3-5 days is indicated for specific causes of paraplegia like neoplastic spinal cord compression or traumatic spinal cord injuries, not typically for chronic spasticity management.",
+      "key_learning_point": "Spasticity in paraplegia/quadriplegia can be managed with medications like baclofen, diazepam (for night spasms), or tizanidine, alongside physical therapies."
+    },
+    "difficulty": "Easy",
+    "source_section": "PARAPLEGIA AND QUADRIPLEGIA"
+  },
+  {
+    "question_id": 21,
+    "question": "A 25-year-old male is diagnosed with Herpes simplex virus encephalitis. Which antiviral medication is indicated, and what is its typical duration of treatment according to the chapter?",
+    "options": {
+      "A": "Ganciclovir 5 mg/kg every 12 hrly for an indefinite duration",
+      "B": "Acyclovir 10 mg/kg every 8 hrly for 14 to 21 days",
+      "C": "Ribavirin 15 mg/kg in divided doses every 8 hrly for 14 to 21 days",
+      "D": "Acyclovir 5 mg/kg every 12 hrly for 7 days"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "According to Table 5, for encephalitis caused by HSV (Herpes Simplex Virus), Acyclovir is the indicated drug. The dose is 10 mg/kg every 8 hrly, and the duration is 14 to 21 days.",
+      "incorrect_options": {
+        "A": "Ganciclovir is indicated for CMV encephalitis, and its duration is indefinite, not for HSV.",
+        "B": "This is the correct answer.",
+        "C": "Ribavirin is indicated for California encephalitis virus, severe adenovirus, or rotavirus encephalitis, not for HSV. Its duration is not explicitly stated as 14-21 days for these conditions.",
+        "D": "The dose and duration for acyclovir for HSV encephalitis are incorrect in this option (dose is 10 mg/kg q8h, duration is 14-21 days).",
+      "key_learning_point": "Herpes simplex virus encephalitis requires specific antiviral therapy with acyclovir, administered at 10 mg/kg every 8 hours for 14 to 21 days."
+    },
+    "difficulty": "Moderate",
+    "source_section": "VIRAL ENCEPHALITIS, Table 5"
+  },
+  {
+    "question_id": 22,
+    "question": "A 60-year-old patient experiences recurrent episodes of vertigo, hearing loss, and a sensation of pressure or fullness in his left ear. What is the initial recommended pharmacological treatment for this condition?",
+    "options": {
+      "A": "Tab. meclizine 25 mg 3 times daily",
+      "B": "Tab. betahistine 16 mg TDS initially",
+      "C": "Diuretics and/or low-sodium (1 g/d) diet",
+      "D": "Inj. gentamicin into the middle ear"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The symptoms of vertigo, hearing loss, and pain/pressure/fullness in the affected ear are characteristic of Ménière's Disease. The chapter explicitly states: 'Diuretics and sodium restriction are the initial treatments' for Ménière's Disease.",
+      "incorrect_options": {
+        "A": "Tab. meclizine 25–50 mg 3 times daily is an antihistamine used for short-term control of active vertigo generally, but not specified as the *initial* treatment for Ménière's disease specifically over diuretics/sodium restriction.",
+        "B": "Tab. betahistine (initial dose 16 mg TDS) is mentioned as relieving pressure from excess fluid, but diuretics and sodium restriction are specified as the *initial* treatments.",
+        "C": "This is the correct answer.",
+        "D": "Injections of gentamicin into the middle ear are considered if attacks *persist* despite initial treatments, not as an initial therapy.",
+      "key_learning_point": "Initial management for Ménière's Disease involves diuretics and a low-sodium diet, aiming to reduce fluid pressure in the inner ear."
+    },
+    "difficulty": "Moderate",
+    "source_section": "VERTIGO"
+  },
+  {
+    "question_id": 23,
+    "question": "A patient with Guillain-Barré Syndrome (GBS) is being managed. Which of the following treatment modalities are considered equally effective for GBS?",
+    "options": {
+      "A": "Plasma exchange and corticosteroids",
+      "B": "Intravenous immunoglobulin (IVIG) and corticosteroids",
+      "C": "Plasma exchange and intravenous immunoglobulin (IVIG)",
+      "D": "Corticosteroids alone"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The chapter states under 'Pharmacological treatment' for GBS: 'The available treatment modalities are plasma exchange and intravenous immunoglobulin (IVIG). Both are equally effective. Corticosteroids are not recommended for treatment of GBS.'",
+      "incorrect_options": {
+        "A": "Corticosteroids are explicitly stated as not recommended for GBS treatment.",
+        "B": "Corticosteroids are explicitly stated as not recommended for GBS treatment.",
+        "C": "This is the correct answer.",
+        "D": "Corticosteroids are explicitly stated as not recommended for GBS treatment.",
+      "key_learning_point": "Plasma exchange and intravenous immunoglobulin (IVIG) are the two equally effective treatment modalities for Guillain-Barré Syndrome, and corticosteroids are not recommended."
+    },
+    "difficulty": "Easy",
+    "source_section": "GUILLAIN-BARRÉ SYNDROME (GBS)"
+  },
+  {
+    "question_id": 24,
+    "question": "A 40-year-old male with migraine experiences five or more attacks per month, which are poorly responsive to abortive treatments. He is a candidate for preventive medication. Which of the following drug classes is listed as a prophylactic treatment for migraine?",
+    "options": {
+      "A": "NSAIDs",
+      "B": "Triptans",
+      "C": "Beta-blockers",
+      "D": "Simple analgesics"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The chapter states: 'Patients with an increasing frequency of migraine attacks, or with attacks that are either unresponsive or poorly responsive to abortive treatments, are good candidates for preventive agents. In general, a preventive medication should be considered in the subset of patients with five or more attacks a month.' The drugs listed for prophylactic treatment include 'Tab. propranolol 40–120 mg BD', which is a beta-blocker.",
+      "incorrect_options": {
+        "A": "NSAIDs are used for acute treatment of mild to moderate migraine, not for prophylaxis.",
+        "B": "Triptans (sumatriptan, zolmitriptan) are used as abortive treatments when NSAIDs/analgesics fail, not for prophylaxis.",
+        "C": "This is the correct answer.",
+        "D": "Simple analgesics (like acetaminophen, aspirin) are used for acute treatment of mild to moderate migraine, not for prophylaxis.",
+      "key_learning_point": "Preventive migraine therapy is considered for patients with frequent or refractory attacks, and includes medications such as beta-blockers (e.g., propranolol), sodium valproate, and topiramate."
+    },
+    "difficulty": "Easy",
+    "source_section": "MIGRAINE"
+  },
+  {
+    "question_id": 25,
+    "question": "A patient is admitted with severe bacterial meningitis and develops increased intracranial pressure (ICP). Which of the following interventions is recommended for the emergency treatment of increased ICP?",
+    "options": {
+      "A": "Fluid restriction and avoidance of hypertonic intravenous solutions",
+      "B": "Elevation of the patient's head to 30–45°, intubation and hyperventilation to PaCO₂ 25–30 mm Hg, and Inj. mannitol 20% 1 g/kg stat",
+      "C": "Administration of Inj. dexamethasone 0.15 mg/kg every 6 hourly IV for 2 days",
+      "D": "Insertion of a urethral catheter to monitor urine output"
+    },
+    "correct_answer": "B",
+    "explanation": {
+      "correct_reason": "For emergency treatment of increased ICP in bacterial meningitis, the chapter explicitly recommends: 'elevation of the patient's head to 30–45°, intubation and hyperventilation (PaCO₂ 25–30 mm Hg), and Inj. mannitol 20% 1 g/kg stat followed by 0.5g/kg every 4-6 hourly.'",
+      "incorrect_options": {
+        "A": "Fluid restriction is mentioned in the context of viral encephalitis, but the recommendation is to avoid *hypotonic* intravenous solutions, not necessarily hypertonic ones.",
+        "B": "This is the correct answer.",
+        "C": "Inj. dexamethasone is recommended for bacterial meningitis, to be started shortly before antibiotics, but it is not listed as the immediate emergency treatment for acute, severe ICP elevation.",
+        "D": "Urethral catheterization is generally avoided in specific stroke scenarios for a short period (2h after rtPA), but is not a direct treatment for increased ICP; in fact, it may be avoided in other contexts.",
+      "key_learning_point": "Emergency management of increased intracranial pressure in bacterial meningitis involves head elevation, controlled hyperventilation to a target PaCO₂, and administration of mannitol."
+    },
+    "difficulty": "Moderate",
+    "source_section": "ACUTE BACTERIAL MENINGITIS"
+  },
+  {
+    "question_id": 26,
+    "question": "A 50-year-old male is diagnosed with meningitis due to Listeria monocytogenes. What is the recommended duration of intravenous ampicillin therapy for this patient?",
+    "options": {
+      "A": "7 days",
+      "B": "14 days",
+      "C": "At least 3 weeks",
+      "D": "Indefinite"
+    },
+    "correct_answer": "C",
+    "explanation": {
+      "correct_reason": "The chapter states: 'Meningitis due to L. monocytogenes is treated with ampicillin for at least 3 weeks.'",
+      "incorrect_options": {
+        "A": "A 7-day course of intravenous antibiotic therapy is adequate for uncomplicated meningococcal meningitis.",
+        "B": "A 2-week course of intravenous antimicrobial therapy is recommended for pneumococcal meningitis.",
+        "C": "This is the correct answer.",
+        "D": "Indefinite duration is not specified for bacterial meningitis treatment in the chapter, but for Ganciclovir for CMV encephalitis.",
+      "key_learning_point": "The duration of antibiotic therapy for bacterial meningitis is pathogen-specific. Listeria monocytogenes meningitis requires a prolonged course of ampicillin for at least 3 weeks."
+    },
+    "difficulty": "Easy",
+    "source_section": "ACUTE BACTERIAL MENINGITIS"
+  }
+]

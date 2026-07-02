@@ -1,0 +1,377 @@
+Chapter 1
+INTRODUCTION TO RATIONAL USE OF MEDICINES
+Rational Use of Medicines requires that patients receive medications appropriate to their
+clinical needs, in doses that meet their own individual requirements, for an adequate period of
+time, and at affordable cost to them and the community (WHO, 1985). In other words,
+rational use means ‘prescribing right medicines, in adequate dose for the sufficient duration
+and appropriate to the clinical needs of the patient at lowest cost’. Medicine use is a complex
+cyclical process and in the clinical context, rational drug use implies correct drug, appropriate
+indication and selection with respect to efficacy, safety, suitability for the patient and cost.
+The concept of Rational Use of Medicines is age old; however, it has attained more
+significance and momentum in terms of medical and socioeconomic aspects recently. Three
+tools have been identified to implement Rational Use of Medicines effectively. These include
+Essential Medicines List, Standard Treatment Guidelines and Drug Formulary. To be
+meaningful, all three tools should work in concert and subject forperiodic review and update.
+I. The concept of Essential Medicines
+Essential Medicines (EM) are those that satisfy the health care needs of the majority of
+the population and therefore should be available at all times in appropriate amounts and in
+appropriate dosage forms. Following the concept of EM, WHO published the first
+Essential Medicine List (EML) in 1977, which has been updated successively every 5
+year in view of changing world scenario about the medical needs and availability of new
+and better drugs. The selection of these medicines is based on public health relevance,
+evidence of efficacy and safety and comparative cost-effectiveness. These priority
+medicines should be available at each functioning health care facility with assured quality
+and adequate information at a price the individual and the community can afford.
+The selection of essential medicines depends upon level of health care facility, adequate
+data on the efficacy, safety, suitability and comparative cost effectiveness of available
+treatments. In addition, stability of the product, need for special diagnostic or treatment
+facilities and pharmacokinetic properties are also considered. Most essential medicines
+are formulated as single compound. However, fixed dose combinations are selected only
+when it has proven pharmacokinetic and/or pharmacodynamic advantages over single
+compound administered separately. While comparing the cost of medicines among the
+alternative treatments, the cost of total treatment and not the unit cost is considered. Other
+factors taken into account include pattern of diseases, treatment facilities, training and
+experience of the available personnel, financial resources etc.
+Advantages of Essential Medicines
+The implementation of the concept of EM has several logistic and prescribing advantages.
+For example better management of medicines i.e. easier procurement, storage,
+1
+
+Introduction to Rational Use of Medicines
+distribution, more manageable stock, better quality assurance, easier dispensing, less
+fragmentation of budget with improve drug availability. Moreover, prescribing improves
+due to focused training and drug information, better recognition of adverse drug reactions,
+drug interactions and focused education efforts. The list of EM closely relates to
+treatment guidelines for clinical diseases and is also used for the procurement and supply
+of medicines in public sector, schemes for reimburses medicines costs and local medicine
+production.
+Its implementation is intended to be flexible and adaptable to different situations; which
+medicines are regarded as essential remains a national responsibility.
+II. Standard Treatment Guidelines
+Standard Treatment Guidelines (STGs), treatment protocols, and prescribing policies are
+defined as systematically developed statements designed to assist prescribers in making
+decisions about the appropriate treatment and health care for specific clinical problem.
+These guidelines usually reflect the consensus on the optimal treatment options within a
+health facility or system. In fact, they represent one of the approaches to promote
+therapeutically effective and economically efficient use of medicines.
+STGs list the preferred pharmacological and non-pharmacological treatment for common
+health problems experienced by people in a specific health system. The pharmacological
+treatment should include the name, dosage form, strength, average dose (pediatric and
+adult), number of doses per day, and duration of treatment. Other information on
+diagnosis and advice to the patient may also be included. The most common diseases and
+serious medical conditions that have high morbidity and mortality rate are selected.
+Treatment guidelines must have the most up-to-date and evidence based information to
+determine appropriate treatment options by expert authors and reviewers. Effective
+implementation, however, is perhaps the greatest challenge in introducing STGs. When
+implemented effectively, it offers several advantages to patients, health care providers,
+supply management personnel and policy makers as follows:
+Patients,
+ Most cost-effective optimal therapy is provided.
+ Better compliance through consistency among prescribers.
+ Improvement in availability of drugs.
+ Overall better quality of care.
+Health care providers,
+ Provides standardized guidance to practitioners
+ Quality of care standard- based on expert consensus and basis for monitoring
+ Utilizes only formulary or essential medicines, so the health care system needs to
+provideonly the medicines in the STGs.
+Supply managers,
+ Identification of medicines to be available for the most commonly treated problems.
+2
+
+Introduction to Rational Use of Medicines
+ Facilitation of prepackaging of course-of-therapy quantities of commonly prescribed
+items.
+ Medicine demand more predictable, so forecasting more reliable
+Health care policy makers,
+ Provides focus therapeutic integration of special programs (diarrhea disease control,
+acute respiratory infection)
+ Provides a system for controlling cost by using funds more efficiently
+STGs also have certain drawbacks. Establishing, developing and implementation of STGs
+is a difficult, lengthy and time consuming process. Moreover, it needs to be updated
+regularly to reflect changes in treatment strategies. If a regular schedule for updating the
+STGs is not followed, they lose credibility and become obsolete. The extent of
+information to be provided in each medical condition is often a difficult decision.
+However, the STG manual should be concise and small enough to carry it easily.
+Keyfeatures of a successful STG manual
+Simplicity- The number of health problem is limited to commonly observed conditions.
+Each clinical condition list a few salient features with clear and concise information on
+pharmacological and non-pharmacological treatment.
+Credibility- Guidelines developed by the most respected experienced clinicians in the
+country and revision is based on actual experience.
+Treatment standards for all levels of health care facility- Health care providers use the
+same standard treatment; however, the referral criterion differs. While the first choice
+treatment for a patient depends upon the patient’s diagnosis and condition and not on the
+prescriber.
+Medicine supply based on standards- The supply of medicines must match with the
+standard treatment and list of essential medicines.
+Regular updating- Any change in the therapeutic options, bacterial resistance pattern
+should be incorporated in the revised version to reflect current recommendations.
+User friendly- The STGs should be published as small, durable pocket manual which
+makeit convenient to carry and use.
+III.Drug Formulary
+A formulary is a compendium of practical drug information for clinical practice adapted
+for use at a particular health care facility. It is a ready reference to key information on the
+selection, prescribing, dispensing and administration of medicines. Although the concept
+of formulary is old, a drug formulary is considered an essential element in achieving
+rational prescribing in addition to controlling the costs. The task of development of a
+formulary in a hospital is usually undertaken by Drugs and Therapeutics Committee with
+a multidisciplinary membership of doctors, pharmacists, nurses and administrative staff.
+3
+
+Introduction to Rational Use of Medicines
+The consultants place a request for inclusion of medicines along with its dosage
+formulations to Drugs and Therapeutics Committee. The committee may accept the
+request and include it in formularyor reject and suggest an alternative with information to
+the prescriber. The committee then monitors the impact, cost and benefits of various
+medicines in the health care facility. Depending on the outcome, the use of medicine is
+extended or curtailed. Formularies have significant advantages for patients care.
+However, the introduction of formularies may cause friction since it may be viewed as a
+major threat to their clinical freedom. Effective multidisciplinary working methods and
+consultation is needed to overcome this attitude. Potential advantages and disadvantages
+of drug formularies are as follows:
+Advantages
+ Reduces range of products to be purchased / stored / distributed
+ Encourages generic prescribing
+ Lowers drug costs
+ Improved knowledge of a limited number of medicines
+ Improves drug safety
+ Improves patient care
+ Provides opportunity for multidisciplinary work
+Disadvantages
+ Restricts prescribing choice
+ Reduces treatment options
+ Inhibits introduction of new products
+ Restricts research efforts
+IV.Rational Approach To Therapeutics
+Medicines should only be prescribed when necessary, and the benefit of administering the
+medicine should be considered in relation to the risks involved. Bad prescribing habits
+lead to ineffective and unsafe treatment, exacerbation or prolongation of illness, distress
+and harm to the patient, and higher cost. The Guide to Good Prescribing; WHO; 1994,
+provides medical undergraduates with important tools for training in the process of
+rational prescribing.
+The following steps will help to remind prescribers of the rational approach to
+therapeutics.
+1. Define the patient’s problem
+Whenever possible, making the right diagnosis is based on integrating many pieces of
+information: the complaint as described by the patient; a detailed history; physical
+examination; laboratory tests; X-rays and other investigations. This will help in rational
+prescribing, always bearing in mind that disease are evolutionary process.
+4
+
+Introduction to Rational Use of Medicines
+2. Specify the therapeutic objective
+Doctors must clearly state their therapeutic objectives based on the pathophysiology
+underlying the clinical situation. Very often physicians must select more than one
+therapeutic goal for each patient.
+3. Selecting therapeutic strategies
+The selected strategy should be discussed with the patient. The selected treatment can be
+non-pharmacological and/or pharmacological; it also needs to take into account the total
+cost of all therapeutic options.
+a. Non-pharmacological treatment
+The patient does not always need a medicine for treatment of the condition. Very often,
+health problems can be resolved by a change in life style, dietary habits, use of
+physiotherapy or exercise, provision of adequate psychological support and other non-
+pharmacological treatments; they have the same importance as a prescription drug and
+instructions must be written, explained and monitored in the same way.
+b. Pharmacological treatment
+Selecting the correct group of drugs
+Knowledge about the pathophysiology involved in the clinical situation of each patient
+and the pharmacodynamics of the chosen group of drugs, are two of the fundamental
+principles for rational therapeutics.
+Selecting the drug from the chosen group
+The selection process must consider benefit/risk/cost information. This step is based on
+evidence about maximal clinical benefits of the drug for a given indication (efficacy) with
+minimum production of adverse effects (safety).
+It must be remembered that each drug has adverse effects and it is estimated that up to
+10% of hospital admissions in industrialized countries are due to adverse effects. Not all
+drug-induced injury can be prevented but much of it is caused by inappropriate selection
+of drugs.
+In cost comparisons between drugs, the cost of total treatment and not only the unit cost
+of the drug must be considered.
+Verifying the suitability of the chosen pharmaceutical treatment of each patient
+The prescriber must check suitability of the chosen active substance, its dosage form,
+dosage schedule and duration of treatment are suitable for each patient. Drug treatment
+should be individualized to the needs of each patient.
+Prescription writing
+The prescription is the link between the prescriber, the pharmacist (or dispenser) and the
+patient so it is important for successful management of presenting medical condition. The
+item is covered in more detail in the following section.
+Giving information, instructions and warnings
+This step is important to ensure patient adherence and is covered in detail in the following
+section.
+5
+
+Introduction to Rational Use of Medicines
+Monitoring treatment
+Evaluation of the follow up and the outcome of treatment provides information whether
+the patient’s problem is solved or to reformulate, if necessary. This step gives rise to
+important information about the effects and adverse effects of medicines, contributing to
+the evidence ofknowledge, necessaryto promote the rational use of drugs.
+V. AdverseDrug Effects and Drug Interactions
+Adverse drug reactions
+An adverse drug reaction (ADR) may be defined as ‘A response to a drug which is
+noxious, unintended and occurs at doses normally used for prophylaxis, diagnosis or
+therapy of disease, or for the modification of physiological function’. ADRs are therefore
+unwanted or unintended effects of a medicine, including idiosyncratic effects, which
+occur during its proper use.
+An adverse drug event (ADE) is defined as ‘Any untoward medical occurrence that may
+present during treatment with a medicine but which does not necessarily have a causal
+relationship with this treatment’.
+Two types of ADRs and their differentiating characteristics have been identified. The
+common, predictable, dose related reaction with low mortality is type ‘A’ ADR. For
+example, anticholinergic effect of tricyclic antidepressants and digoxin toxicity. ADRs
+may also be unrelated to the known pharmacological action of a drug. These are
+uncommon, non-dose related bizarre ‘B’ type reactions, for example, anaphylaxis with
+penicillins, malignant hyperthermia with halothane.
+Thalidomide marked the first recognized public health disaster related to the
+introduction of a new drug. It is now recognized that clinical trials, however through,
+cannot be guaranteed to detect all adverse effects likely to be caused by a drug. Health
+workers are thus encouraged to record and report to their national pharmacovigilance
+centre any unexpected adverse effects with any drug to achieve faster recognition of
+serious related problems. The Central Drugs Standard Control Organization (CDSCO),
+Director General of Health Services under the influence of Ministry of Health & Family
+Welfare, has initiated a nationwide Pharmacovigilance programme for protecting the
+health of the patients by assuring drug safety.
+Thespecific aims and objectives of the National Pharmacovigilance Programme are:
+ To monitor ADRs in Indian population.
+ To create awareness amongst health care professionals about the importance of ADR
+reporting in India
+ To ensure that the benefits of use of medicine outweighs the risks and thus safeguard
+the health of the Indian population
+ To generate independent, evidence based recommendations on the safety of medicines
+6
+
+Introduction to Rational Use of Medicines
+ To encourage safe, rational and cost effective use of medicines.
+Under the National Coordinating Center, several ADR monitoring centers operates to
+detect ADEs. These ADR monitoring centers are located at MCI approved medical
+colleges and hospitals, private hospitals, public health programmes, and autonomous
+institutions such as Indian Council of Medical Research etc. The ADR monitoring centers
+record and analyze the ADEs and submit them to the National Coordinating center via
+online reporting system known as Vigiflow.
+Spontaneous reporting
+Spontaneous reporting is the reporting of ADRs by healthcare professionals (and in some
+countries consumers) to identify and report any suspected adverse drug reaction to a
+pharmacovigilance center and/or to the manufacturer. It is one of the important methods
+of collecting information about ADRs.
+All suspected adverse reactions, known or unknown, serious or otherwise should be
+reported. It is important to report even minor reactions of new drugs. For established
+drugs, the reporting of serious ADRs is important. An increased frequency of a known
+ADR to a drug is also important.
+Adverse drug reactions may be reported or notified to the nearest ADR monitoring centre
+under the National Pharmacovigilance Program. The Department of Pharmacology, B. J.
+Medical College is one of the approved ADR monitoring center in Gujarat state. The
+ADRs can be reported by the forms available at the department. Reporting is the process
+of providing ADR information by filling in the ADR form appropriately giving details of
+the clinical case as well as the ADR ( Appendix –I).
+Major factors predisposing to adversedrug effects
+It is well known that different patients often respond differently to a given treatment
+regimen. For example, patients taking combinations of drugs known to interact, only a
+small number show any clinical evidence of interactions. In addition to the
+pharmaceutical properties of drug therefore, there are characteristics of the patient which
+predispose to ADRs.
+Extremes of age: The very old and the very young are more susceptible to ADRs. Drugs
+which commonly cause problems in the elderly include hypnotics, diuretics, non-steroidal
+anti-inflammatory drugs, antihypertensives, psychotropics and digoxin.
+All children and particularly neonates, differ from adults in their response to drugs. Some
+drugs are likely to cause problems in neonates (for example morphine), but are generally
+tolerated in children. Other drugs (for example valproic acid) are associated with
+increased risk of ADRs in children of all ages. Other drugs associated with problems in
+children include chloramphenicol (Grey baby syndrome), antiarrhythmics (worsening of
+arrhythmias), acetylsalicylic acid (Reye syndrome).
+Intercurrent illness: If besides the condition being treated, the patient suffers from
+another disease, such as kidney, liver or heart disease, special precautions may be
+7
+
+Introduction to Rational Use of Medicines
+necessary to prevent ADRs. The genetic make-up of the individual patient may also
+predispose to ADRs.
+Drug interactions: May occur between drugs which compete for the same receptor or act
+on the same physiological system. They may also occur indirectly when a drug-induced
+disease or a change in fluid or electrolyte balance alters the response to another drug.
+Incompatibilities between drugs and intravenous fluids
+Drugs should not be added to blood, amino acid solutions or fat emulsions. Certain drugs,
+when added to intravenous fluids, may be inactivated by pH changes, by precipitation or
+chemical reaction. Benzylpenicillin and ampicillin lose potency after 6-8 hours if added
+to dextrose solutions, due to the acidity of the solutions. Some drugs bind to plastic
+containers and tubing, for example diazepam and insulin. Aminoglycosides are
+incompatible with penicillins and heparin. Hydrocortisone is incompatible with heparin,
+tetracycline and chloramphenicol.
+Adverse effects caused by traditional medicines
+Patients who have been or are taking traditional herbal remedies may develop ADRs. It is
+not always easy to identify the responsible plant or plant constituent. Refer to the drug
+and toxicology information service if available or to suitable literature.
+The effect of food on drug absorption
+Food delays gastric emptying and reduces the rate of absorption of many drugs; the total
+amount of drug absorbed may or may not be reduced. However, some drugs are
+preferably taken with food, either to increase absorption or to decrease the irritant effect
+on the stomach.
+VI.Prescription writing
+A prescription is an instruction from a prescriber to a dispenser. Every country has its
+own standards for the minimum information required for a prescription, and its own laws
+and regulations to define which drugs require a prescription and who is entitled to write it.
+Many countries have separate regulations for prescriptions for controlled drugs such as
+opioid analgesics. The following guidelines will help to ensure that prescriptions are
+correctly interpreted and leave no doubt the intension of the prescriber. The guidelines are
+relevant for primary care prescribing; they may, however, be adapted for use in hospitals
+or other specialist units.
+Prescription form
+The most important requirement is that the prescription be clear and legible and indicate
+precisely what should be given. The local language may bepreferred.
+The following details should be shown on the form:
+ The prescriber’s name, address and telephone number. This will allow either the
+patient or the dispenser to contact the prescriber for any clarification or potential
+problem with the prescription.
+8
+
+Introduction to Rational Use of Medicines
+ Date of the prescription. In many countries the validity of a prescription has no time
+limit, but in some countries pharmacists do not dispense drugs on prescriptions older
+than 3 to 6 months.
+ Name, form and strength of the drug. The International Non-proprietary Name of the
+drug should always be used. If there is a specific reason to prescribe a special brand,
+the trade name can be added. Generic substitution is allowed in some countries. The
+pharmaceutical form (for example ‘tablet’, ‘oral solution’, ‘eye ointment’) should also
+be stated.
+ The strength of the drug should be stated in standard units using abbreviations that are
+consistent with the System International (SI). ‘Microgram’ and ‘nanogram’ should
+not, however, be abbreviated. Also, ‘units’ should not be abbreviated. Avoid decimals
+whenever possible. If unavoidable, a zero should be written in front of the decimal
+point.
+ Specific areas for filling in details about the patient including name, address and age.
+Directions
+Directions specifying the route, dose and frequency should be clear and explicit; use of
+phrases such as ‘take as directed’ or ‘take as before’ should be avoided.
+For preparations which are to be taken on an ‘as required’ basis, the minimum dose
+interval should be stated together with, where relevant, the maximum daily dose. It is
+good practice to qualify such prescriptions with the purpose of the medication (for
+example ‘every 6 hours as required for pain’, ‘at night as required to sleep’).
+It is good practice to explain the directions to the patient; these directions will then be
+reinforced by the label on the medicinal product and possibly by appropriate counseling
+by the dispenser. It may be worthwhile giving a written note for complicated regimens
+although it must be borne in mind that the patient may lose the separate note.
+Quantity to be dispensed
+The quantity of the medicinal product to be supplied should be stated such that it is not
+confused with either the strength of the product or the dosage directions.
+Alternatively, the length of the treatment course may be stated (for example ‘for 5 days’).
+Wherever possible, the quantity should be adjusted to match the pack sizes available.
+For liquid preparations the quantity should be stated in milliliters (abbreviated as ‘ml’) or
+litres (preferably not abbreviated since the letter ‘l’ could be confused with the figure ‘1’).
+Narcotics and controlled substances
+The prescribing of a medicinal product that is liable to abuse requires special attention
+and may be subject to specific statutory requirements. Practitioners may need to be
+authorized to prescribe controlled substances; in such cases it might be necessary to
+indicate details of authority on the prescription.
+In particular, the strength, directions and the quantity of the controlled substance to be
+dispensed should be stated clearly, with all quantities written in words as well as in
+9
+
+Introduction to Rational Use of Medicines
+figures to prevent alteration. Other details such as patient particulars and date should also
+be filled in carefully to avoid alteration.
+References
+1. The Guide to Good Prescribing;Geneva: WHO; 1994
+2. WH0 Model Formulary 2008.
+3. www.cdsco.nic.in/pharmacovigilance.htm
+10

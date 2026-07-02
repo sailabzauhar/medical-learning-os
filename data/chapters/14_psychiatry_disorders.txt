@@ -1,0 +1,872 @@
+Chapter 14
+PSYCHIATRY DISORDERS
+Introduction and General Guidelines
+The incidence and prevalence of psychiatric disorders is on a rise in the 21st century. The
+awareness, regarding the nature of mental illnesses and the need for treatment, and their
+acceptance is also improving. Although psychopharmacology forms the backbone of
+treatment in most psychiatric disorders, certain points need to be especially emphasized while
+managing psychiatric patients:
+1) The formation of a trusting, confidential, non-judgemental and empathetic doctor -patient
+relationship is crucial to the practice of psychiatry.
+2) Knowing the person as a whole rather than only his symptoms endorses patient
+improvement.
+3) The psychotic patient often loses his judgement and reality perception. Such patients
+often have to be treated against their will.
+4) Family has an important role in the causation and management of psychiatric disorders.
+5) All patients do well with holistic treatment which includes psychopharmacology, other
+biological treatments, psychotherapyandrehabilitation.
+6) Psychiatric treatment often continues for a long period, so compliance is a major issue.
+SCHIZOPHRENIA AND OTHER PSYCHOTIC DISORDERS
+Schizophrenia is a chronic debilitating psychiatric disorder of varied and profoundly
+disruptive psychopathology affecting cognition, perception, emotion and other aspects of
+behavior. Its usual age of presentation is around 25 yrs and affects all social classes equally.
+Salient features
+ The common symptoms of schizophrenia are false, fixed, firm beliefs (delusion),
+perceptual abnormalities e.g. hearing of voices while alone (hallucinations).
+ Abnormalities in speech and behavior as irrelevant speech, talking to self, crying or
+laughing for no reason are also prominent.
+ schizophrenia has been divided into following subtypes for the ease of practice.
+- Paranoid schizophrenia- Delusions and hallucinations form predominant features
+along with other symptoms.
+- Catatonic schizophrenia-Characterized by marked psychomotor retardation or
+agitation.
+- Hebephrenic schizophrenia-Characterized by marked abnormalities of behavior.
+- Residual schizophrenia Simple schizophrenia
+Non-pharmacological treatment
+ Cognitive behaviorally oriented psychotherapy -understanding of illness, identification of
+target symptoms, and development of strategies to cope up with these symptoms.
+284
+
+Psychiatry Disorders
+ Rehabilitation of the patients in the form of supported employment, individualized job
+development, ongoing job support, integration of vocational and mental health services.
+ Social skills training, behavior based instructions, corrective feedback, and contingent
+social reinforcement.
+Pharmacological treatment
+ Hospitalization is indicated in suicidal patients, non compliant patients, treatment
+resistant cases and diagnostically difficult cases (Figure 1).
+ Antipsychotics (typical and atypical) are the main treatment for such patients (Table 1).
+ Co-administration of Tab. trihexyphenidyl (2 – 12 mg/day) is recommended with typical
+antipsychotics.
+ Benzodiazepines (Inj. lorazepam 2-4 mg, orally, IM or IV preparation) may be co-
+administered in uncooperative patients initially.
+ ECT (electro convulsive therapy) - electric shock of 100-120 volts may be given in
+patients with associated suicidal intention and treatment resistant cases. It is given for 1-3
+seconds under general anesthesia so that it produces short lasting generalized tonic clonic
+convulsions.
+285
+
+Psychiatry Disorders
+Table 1. Dosage schedule and adverse effects of commonly used antipsychotics
+Drugs Effective dose Dosage schedule Adverse effect
+Typical antipsychotics
+Haloperidol 5–20 mg/day, Start with 5 mg twice a More extra-pyramidal side
+available as tablets, day or 10 mg HS and effects viz slowness of
+syrup, injection and increase the dose by movements, blunted facial
+depot preparation 5mg if no response. expressions, tremors,
+(50 mg/ampoule) Depot injection to be rigidity, excessive
+given once two to three salivation, etc.
+weeks. Non specific -sedation,
+Trifluoperazine Available as 5mg Start with 5mg/ day and reduction in seizure
+Tab. can be gradually threshold, orthostatic
+titrated upto a hypotension,
+maximum of 40 anticholinergic side effects
+mg/day CVS -cardiac toxicity,
+Fluphenazine Depot injection Once in 15-20 days sudden death,
+decanoate 5 mg/2ml Hematological -leucopenia
+Depot injection One ampoule IM once Endocrinal -
+Zuclopenthixol 200mg/ml in 2-3 weeks. hyperprolactinemia
+Sexual -anorgasmia and
+decreased libido,
+GIT -nausea, vomiting,
+hepatotoxicity
+Atypical antipsychotics
+Risperidone 2-10 mg/day, Start with 2mg once a
+available as tablets, day or twice a day and
+syrup and depot titrate it to 8mg/day
+preparation (25 gradually. Deport Less extra-pyramidal side
+mg/ampoule) injection to be given effects
+deep IM once every 15 Non specific -dizziness,
+days hyperkinesias, somnolence,
+Olanzapine 5–30 mg/day, Start with 5 mg once a anti-cholinergic side effects
+available as tablets day or HS and titrate like dry mouth,
+gradually by 5 mg/day constipation, delirium
+if no improvement. GIT -nausea, vomiting.
+Quetiapine Available as 50, Start with 50mg twice a Endocrinal -
+100, 200 mg day and build upto 300- hyperprolactinemia,
+tablets 800 mg/ per day hyperglycemia.
+Hematological -leucopenia
+Sexual -erectile
+Clozapine 25–300 mg/ per Get complete blood dysfunction,
+day, available as counts done before orgasmic dysfunction
+tablets starting clozapine. General -weight gain
+Start with 25 mg HS or
+50mg HS gradually
+titrate to 500mg.
+286
+
+Psychiatry Disorders
+Figure 1. Treatment guidelines for schizophrenia
+Patienteducation
+ Both, the patient and the primary caregiver should be explained that although
+schizophrenia is a chronic illness and requires long term treatment, it can be effectively
+treated in most cases.
+ Mild to moderate side effects may develop to medications, but usually tolerance develops
+to them.
+ Medicines should not be stopped abruptly.
+ Family should be encouraged to take up the responsibility for regular treatment and
+follow-up. Family interventions include illness education, crisis intervention, emotional
+support andtraining for coping skills.
+OTHER PSYCHOTIC DISORDERS
+Schizophreniform disorder
+ Clinical features similar to schizophrenia
+ Differs from schizophrenia in that duration of symptoms is lesser than 6 months
+ Pharmacological treatment is similar as schizophrenia
+Brief psychotic disorder
+ Clinical features similar to schizophrenia
+ Differs from schizophrenia in that duration of symptoms is less than 1 month
+ Pharmacological treatment is similar to schizophrenia
+287
+
+Psychiatry Disorders
+Delusional disorder
+ Clinical features - characterized by single or multiple non bizarre (false fixed but feasible
+beliefs)delusions of 1 month duration
+ Differs from schizophrenia in that duration of delusions is 1 month and functioning and
+behavior in other areas of life than delusional one is intact
+ Insight oriented psychotherapy forms mainstay of treatment whereas Pharmacological
+treatment is similar to schizophrenia
+Schizoaffective disorder
+ Symptoms of schizophrenia are present continuously and features of bipolar affective
+disorder overlap
+ Differs from schizophrenia by prominence of affective features
+ Pharmacological treatment is with antipsychotics and mood stabilizers as in schizophrenia
+and bipolar disorder respectively
+MAJOR DEPRESSIVE DISORDER
+Major depressive disorder (MDD), more commonly known as depression, is one of the most
+common psychiatric disorders with lifetime prevalence of about 10-20 %. Incidence in
+females are almost twice that in males.
+Salient features
+ Common symptoms of depression are (for a minimum period of two weeks):
+- Persistent sadness of mood and decreased interest in previously pleasurable activities
+- More than 5 % weight loss or gain
+- Sleep disturbance–insomnia or hypersomnia
+- Marked slowing of activity or agitation and easy fatigability
+- Lack of concentration
+- Feelings of worthlessness, helplessness, hopelessness, guilt and suicidal thoughts /
+attempts
+- Anxiety symptoms often coexist
+Investigations
+ Diagnosis is based on history and mental state examination (MSE). Test for thyroid
+function can be done to rule out the co morbidity.
+ Investigations for associated neurological co-morbidities can be done particularly in
+elderly patients presenting with depression
+Non pharmacological treatment
+ Psychological factors are very important in the causing, maintaining as well as
+improving depression. For holistic management of depression, some form of
+psychotherapy should be co-administered.
+288
+
+Psychiatry Disorders
+ Psychodynamic approach aims at promoting personality change through understanding of
+major conflicts, achieving insight into defenses, ego distortions, providing role model
+permitting cathartic relief or aggression.
+ Cognitive behavioral approach aims at providing symptomatic relief through alteration of
+target thoughts, identifying cognitive distortions, modifying erroneous assumptions,
+promoting self control over thinking patterns.
+ Interpersonal approach aims at providing symptoms relief through solving current
+interpersonal problems, reducing stress involving family and work, improving
+interpersonal communication skills.
+Supportive approach with techniques such as catharsis, realistic problem solving is also
+useful.
+Pharmacological treatment
+ Hospitalization is needed in severely suicidal patients, treatment resistant cases and non
+compliant patients.
+ SSRIs (selective serotonin reuptake inhibitors) are currently the drug of choice for
+depression.
+- Tab. fluoxetine - start with 20 mg/day increase to 40 mg/day, if no response in 4-6
+weeks
+- Tab. escitalopram - start with 10 mg/day depending on tolerability and gradually
+increase upto 30mg/day
+- Tab. sertraline - start with 25 mg/day or 50 mg/day depending on the severity of
+symptoms in 1 HS dosage preferably and gradually increase to maximum of
+300mg/day
+ Tab. mirtazepine - start with 7.5 mg/day and gradually increase upto maximum 30
+mg/day.
+ Tricyclic antidepressants like Tab. imipramine for depression with somatic complaints.
+Start with 25mg twice a day and gradually increase by 25 mg/day to maximum of 300
+mg/day if no response (should be avoided in patients with heart disease, glaucoma,
+benign prostatic enlargement and epilepsy).
+ Antidepressant action takes about 2-3 weeks and needs to be continued for 6-9 months in
+first episode and for longer period in recurrent depression.
+ Initially benzodiazepines may need to be co-administered to manage insomnia and
+anxiety.
+ In cases of bipolar depression, there might be a sudden switch to mania in which case
+anti-depressant should be withdrawn.
+ ECT (Electroconvulsive therapy) is a very safe, effective and economical mode of
+treatment and is indicated in severe depression with or without suicidal ideas, retarded
+depression and resistant depression.
+289
+
+Psychiatry Disorders
+Patient education
+ Explain the nature of illness, consequences of untreated depression, suicidal risk, need for
+adequate does for adequate duration and other supportive measures.
+ The therapeutic response takes time to appear but side effects may appear earlier.
+Common side effects of tricyclic antidepressants are dry mouth, constipation, postural
+hypotension (giddiness), blurred vision, sweating, palpitation, tremors, delayed
+micturition, sedation, etc.
+ Common side effects of fluoxetine are agitation, headache, nausea or heartburn, tremors,
+changes in sexual performance, blurred vision, dry mouth and loss of appetite.
+BIPOLAR MOOD DISORDER
+Bipolar mood disorders are characterized by episodes of mania and depression or mania
+alone with intervening periods of normalcy.
+Salient features
+ In manic episode, an elevated, expansive or irritable mood is the hallmark. The
+elevated mood is euphoric and characterized by euphoria, impaired judgement, denial
+of illness, overtly religious, over familiar behavior, increased talkativeness, increased
+self esteem, increased psychomotor activities and goal directed activities, increased
+sexual driveand engaging into high risk behavior.
+ Patients with depressed mood experience loss of energy and interest, feelings of guilt,
+difficulty in concentrating, loss of appetite and thoughts of death or suicide.
+ Other signs and symptoms of mood disorders include change in activity level,
+cognitive abilities, speech and vegetative functions (e.g. sleep, appetite, sexual activity
+and other biological rhythms).
+ These disorders virtually always result in impaired interpersonal, social and
+occupational aspects of life.
+Non pharmacological treatment
+ Psychoeducation, family therapy and rehabilitation for manic phases
+ Psychotherapeutic measures same as in unipolar depression for depressive phases.
+Pharmacological treatment (Figure 2, Table 2)
+ Antipsychotics like risperidone and olanzapine are used as an adjuvant in treatment.
+ Episode of depression is to be treated as in major depressive disorder but Tab.lamotrigine
+25-100 mg is the treatment of choice.
+ Prophylactic treatment: to be given to prevent recurrent episodes: Tab. lithium carbonate
+900-1500 mg /day in divided doses or Tab. sodium valproate 600- 2000 mg /day in
+divided doses or Tab. carbamazepine 600-1200 mg / day in divided doses
+290
+
+Psychiatry Disorders
+Figure2. Management of current manic episode
+Table 2. Dosage schedule of anti-manic drugs
+Drug treatment of mania : recommended doses Dosage schedule
+400 mg / per day. Adjusted after 3 – Start with 600 to 900 mg/day
+Lithium 4 days according to plasma after getting baseline
+levels investigations done
+Start with 200mg thrice a day
+As sodium valproate slow release: and gradually increase upto
+Sodium valproate
+Dose is 20 –30 mg/ kg/ day the per kg maximum dose if
+no or less response
+Has lesser side effect than
+Oxcarbazepine 300mg, build upto 1500 mg
+carbamazepine
+Patient education
+ Emphasize about recurrent course of illness and not to get too much worried regarding
+recurrences.
+ Relapses can be treated as successfully as the first episode.
+ When on lithium, advice to take plenty of fluids especially during summer; not to restrict
+salt.
+291
+
+Psychiatry Disorders
+ If fever, vomiting or diarrhea develops while on lithium, reduce the dose of lithium to
+half and contact the physician or the psychiatrist.
+INSOMNIA
+Insomnia is one of the commonest complaints in psychiatric, medical and general clinical
+practice. Common causes include recent stress, psychiatric illnesses like depression and
+anxiety disorders, pain or substance abuse.
+Salient features
+ Difficulty in initiating sleep, frequent awakenings from sleep, early morning insomnia or
+non-restorative sleep.
+ In the elderly, the physiological reduction in number of hours of sleep does not amount to
+insomnia. If the patient is distressed by decreased sleep, treatment may be given to increase
+the duration of sleep.
+ Stressful situation leading to insomnia or the symptoms of the causative illness can be
+elicited on careful enquiry.
+ Duration of symptoms may vary from few days to many months or years depending on the
+cause.
+Non pharmacological treatment
+Sleep hygiene
+ Keep a regular time for going to bed and arising up; avoid day time naps.
+ Limit daily in-bed time to the usual amount present before the sleep disturbance
+ Avoid large meals near bedtime; eat at regular times daily. No stimulant medication or
+food beverages (caffeine, nicotine, alcohol, etc.) especially in the evenings.
+ Mild to moderate physical exercise in the morning.
+ Avoid evening stimulation: substitute radio or relaxed reading for television.
+ Practice meditation or progressive muscular relaxation.
+ Maintain comfortable sleeping conditions.
+Treat the underlying cause. In both primary insomnia (where no cause is identifiable) and
+insomnia due to other causes, management includes introducing good sleep hygiene and
+medications for short period, if required.
+Pharmacological treatment
+If still sleep is inadequate,
+ Tab. nitrazepam 5-10 mg or Tab. clonazepam 1-2mg or Tab. zopiclone 7.5-15mg or Tab.
+zolpidem 5-10 mg can be given for 2-6 weeks, ½ to 1 hr before bedtime.
+ Patients must be cautioned regarding risk of dependence in diazepam and nitrazepam.
+Patienteducation
+Follow sleep hygiene instructions, look for tapering off benzodiazepines in 4-6 weeks
+292
+
+Psychiatry Disorders
+GENERALIZED ANXIETY DISORDER
+Generalized and persistent anxiety that is not restricted to any particular situation or
+environment is an essential feature of this condition. One year prevalence of GAD is 3 to 8%
+and it is twice as common in women as men.
+Salient features
+ Generalized anxiety or excessive worries along with associated symptoms as shakiness,
+restlessness, headaches
+ Breathlessness, excessive sweating, palpitations and nausea, GI disturbance, sleep
+disturbance, irritability, hypervigilance.
+ Diagnosis is based on history and mental status examination
+ Investigations for co-morbidities like hyperthyroidism, hypothyroidism, hypo
+parathyroidism, pheochromocytoma and nutritional deficiencies should be done to rule
+out organic causes of anxiety.
+Non pharmacological treatment
+3 main psycho-therapeutic approaches are used.
+ Cognitive behavior therapy aims at finding out the cognitive distortions and altering
+faulty coping strategies. Major techniques used are relaxation and biofeedback.
+ Supportive therapy aims at offering reassurance and comfort to the patients.
+ Insight orientated psychotherapy focuses on uncovering unconscious conflicts and
+identifying ego strengths.
+Pharmacological treatment
+ Benzodiazepines are the drug of choice like diazepam (start from 5mg HS or 10 mg HS),
+or Tab. clonazepam (start from 0.5 mg HS or TDS depending on the severity of
+symptoms), or Tab.lorazepam (start from 2 mg HS increase upto 8 mg maximum).
+ SSRIs like sertraline, escitalopram or paroxetine (start with Tab. paroxetine 10 mg or 20
+mgper day upto maximum 50 mg/day) is effective in GAD.
+ Beta blockers (Tab. propranolol 20 mg BD or sustained release preparation upto 80
+mg/day in divided doses is used) is used for symptomatic relief.
+Patient education
+ It is a chronic disease though easily treatable, but treatment needs to be taken regularly
+for a long time.
+ Do not stop treatment without consulting your doctor.
+ The drugs are quite safe and do not cause any serious side effects even if taken for a long
+time.
+293
+
+Psychiatry Disorders
+PANIC DISORDER
+An acute intense attack of anxiety accompanied by feelings of impending doom is known as
+panic disorder. Life time prevalence of panic disorder is 1 to 4%. Women are 2-3 times more
+oflikely to be affected than men.
+Salient features
+ Recurrent panic attacks formed an essential feature of panic disorder. Panic attack is
+characterized by intense fear or discomfort reaching a peak within 10 minutes.
+Associated with palpitations, sweating, shaking, breathlessness, chest pain, nausea,
+fainting, feeling of choking, fear of dying or going crazy.
+ Persistence concern about having more attacks.
+ Change in behavior related to attacks
+ Worries about consequences of the attacks
+Non-pharmacological treatment
+Main approaches used are cognitive and behavioral therapies which aim at providing psycho
+education and correcting cognitive distortions. It also includes educating the patient about
+relaxation techniques and respiratorytraining.
+ Family therapy includes providing psycho education and support
+ Insight orientated psychotherapy is focused on helping patients to understand unconscious
+meaning of anxiety and resolution of conflicts.
+Pharmacological treatment
+ SSRIs particularly paroxetine are effective in treating panic disorders. Other SSRIs like
+escitalopram, citalopram, fluvoxamine and sertraline are also useful.
+ Alprazolam is the most widely used benzodiazepine (start with 0.25 mg/day 1 HS upto
+maximum of 6 mg/day). Theyare used for providing rapid symptomatic relief.
+ Inj. lorazepam 2mg/ml and diazepam 5ml/ml can be used in patients presenting with
+acute anxiety.
+ Tri cyclic anti depressants like amitriptyline are also useful
+Patient education
+ General reassurance about benign nature of symptoms and possibility of spontaneous
+recovery of individual
+ Continuing with breathing exercises.
+OBSESSIVE COMPULSIVE DISORDER (OCD)
+It is characterized by recurrent irrational intrusive thoughts, images or impulses that are ego
+dystonic i.e. distressing in nature. Life time prevalence in general population is 2-3%. Men
+and women are equally affected by this disorder.
+294
+
+Psychiatry Disorders
+Salient features
+ Repetitive intrusive thoughts, images or impulses (obsessions) that creates anxiety and
+mental and physical acts are done to relieve the anxiety (compulsions) are the presenting
+features of this disorder.
+ Commonly observed obsessions are
+- Repetitive thoughts and fear of dirt and contamination or germs
+- Fearthat something terrible will happen
+- Forbidden or sexual thoughts and images or impulses.
+ Commonly observed compulsions are excessive hand washing, bathing, checking, ordering
+and arranging.
+Non -pharmacological treatment
+ Behavioral therapy is considered as treatment of choice for OCD. Principle approaches
+used are exposure and response prevention. Other techniques used are desensitization,
+thought stopping, flooding, implosion therapy and aversive conditioning.
+ Psychotherapy in form of Cognitive Behavior Therapy (CBT), psychoanalytical and
+psychodynamic therapies are also c+onsidered useful in the treatment.
+ Resistant cases can also be treated by ECTs or surgeries.
+Pharmacological treatment
+ SSRIs like fluoxetine, fluoxamine, paroxetine (start with 10 mg gradually increase to
+50mg/day), sertraline are agents of choice in treating OCD.
+ Tab. clomipramine is start with 75mg sustained release preparation once daily and
+depending on severity of symptoms gradually increase upto 300mg. It is the only
+effective tricyclic anti-depressant used in treating OCD.
+ Augmenting agents like sodium valproate, lithium or carbamazepine are added to enhance
+the response to treatment.
+ Benzodiazepines may be used as adjuvant treatment.
+Patienteducation
+ Reassure the patient that although disease is distressing and disabling, it is treatable.
+ The drug takes about 2 weeks for its therapeutic response to manifest.
+ Side effects may appear before the onset of therapeutic response. Common side effects of
+clomipramine are dry mouth, constipation, postural hypotension (giddiness), blurred
+vision, and sedation. Side effects of fluoxetine include gastrointestinal distress, nausea,
+headache, nervousness, anorexia, restlessness and sexual side effects. Patient usually
+adapts to these side effects with time.
+ Advice the patient that treatment may continue for a long time. He/she should not leave
+drugs without medical advice.
+ In case of any untoward effects of drugs, he/she must immediately get in touch with his
+clinician.
+295
+
+Psychiatry Disorders
+ Patient must continue all his regular activities as far as possible.
+ Yoga, meditation, physical exercises are useful measures along with drug therapy.
+PHOBIC DISORDERS
+Salient features
+ Phobia is defined as excessive, irrational fear of specific object, circumstance or
+situation. Social phobias are characterized by marked and persistent fear of social or
+performance situations exposing a person to unfamiliar people or scrutiny by others.
+Women are more likely to be affected by phobia than men.
+ Examples of specific phobias are agoraphobia (fear of open spaces), claustrophobia
+(fear of closed spaces), acrophobia (fear of heights), etc.
+ Exposure to phobic stimulus provokes immediate anxiety sometimes leading to panic
+attack. The patient is aware of the irrational nature of fears and avoids the anxiety
+provoking stimulus.
+ Causes marked distress in interpersonal, occupational and social areas of life.
+Non-pharmacological treatment
+ Systematic desensitization is the most commonly used behavioral technique which
+exposes patient to fearful stimulus in a serially graded manner. Imagined or actual
+exposure to the phobic stimulus is given as long as the patient can tolerate.
+ Insight orientated psycho therapy aims at enabling patients to understand the origin of
+phobia, secondary gains and role of resistance and helps them to seek healthy ways of
+coping with phobic stimuli.
+ Hypnosis, supportive therapy and family therapyareuseful in treatment of phobias.
+Pharmacological treatment
+Following agents are used most commonly in treating phobias.
+ SSRIs (e.g. Tab.paroxetine 12.5 -50 mg / day in divided doses)
+ Benzodiazepines as mentioned above
+Patient education
+With regular treatment, most patients show improvement but treatment needs to be continued
+for a long time, particularly in childhood onset phobias.
+POST-TRAUMATIC STRESS DISORDER (PTSD)
+Exposure to a traumatic event consisting of either a direct personal experience or witnessing
+an event involving threat of death, serious injury or serious harm can lead to post traumatic
+stress disorder (PTSD)in 1.3 to 8% of victims.
+296
+
+Psychiatry Disorders
+Salient features
+Common examples of such traumatic events are physical or sexual abuse, domestic/community
+violence, kidnapping, terrorist attacks, accidents or disasters like floods, hurricanes, etc. It is
+characterized by a set of symptoms (for more than 1 month) such as:
+ Re-experiencing–distressing recollections, flashbacks, imageries of the traumatic event
+ Persistent avoidance – conscious effort to avoid places, situations, or events that will remind
+the person of the traumatic event
+ Hyperarousal – vivid dreams, night terrors, startling responses to even minor stimuli leading
+to palpitations, sweating, tremors and other anxiety features
+ Sense of detachment from usual social groups and situations, i.e. (emotional numbing is
+seen)
+ Sleep disturbance, checking for safety and exaggerated startled reactions are also present.
+If these symptoms are present for less than 4 weeks it is called Acute Stress Disorder.
+Non -pharmacological treatment
+Focused Cognitive Behavior Therapy is aimed at giving psycho education to the patient
+regarding the nature of typical emotional and physiological reactions to traumatic events and
+PTSD. It also includes teaching techniques of muscle relaxation, focused breathing, affective
+modulation, thought stopping and cognitive coping techniques to deal with the stress.
+ Gradual exposure: The reminders of traumatic events are gradually introduced.
+ Crisis Intervention/Psychological Debriefing: It consists of encouraging the patient to
+describe the traumatic event in a supportive environment.
+If the symptoms persist for more than a year, they do not improve after many years in one
+third of patients; so early intervention and treatment is useful.
+Pharmacological treatment
+ SSRIs are the agents of choice for treating PTSD, the doses are same as in depression.
+Propranolol has been used to treat PTSD symptomatically.
+CONVERSION DISORDER
+It is a type of somatoform disorder characterized by symptoms or deficits affecting voluntary
+motor or sensory functions that is judged to be caused by psychological factors. Illness is
+preceded by conflicts or stressful situations. It is twice more common in women than men
+and is more commonly seen in lower socio economic strata of the society.
+297
+
+Psychiatry Disorders
+Salient features
+ Paralysis, blindness and mutism are most common symptoms.
+ Parasthesias (altered sensations) and anaesthesias (loss of sensations) especially of the
+extremities are also seen.
+ Abnormal movements, gate disturbance, weakness and paralysis are possible motor
+symptoms.
+ Diagnosis is based on history and mental status examination. However conversion
+episodes should be differentiated from seizures. Seizures are characterized by
+repetitive, involuntary jerky movements or episodes of unresponsiveness associated
+with tongue bite, frothing, injuries, fecal or urinary incontinence and amnesia (memory
+loss) during episodes. Seizures can also occur during sleep and when patient is alone.
+Absence of the above features is suggestive of conversion disorder. EEG and other
+investigations can be used to rule out organic cause.
+Pharmacological treatment
+ Spontaneous resolution of symptoms occurs but insight orientated, supportive or
+behavioral therapies can facilitate the same.
+ Hypnosis, psychodynamic and psychoanalytical approaches can also be useful.
+ Benzodiazepines are used as an adjuvant therapy.
+ SSRIs can be used if co morbid depression is present.
+DISSOCIATIVE DISORDERS
+Dissociative disorders are characterized by disruption of integrated functions of
+consciousness like memory, identityand perception of environment which can be dissociative
+amnesia, dissociative fugue or dissociative identity disorder
+Dissociative amnesia
+ Characterized by disturbances in the ability to recall important personal information,
+usually traumatic in nature.
+ The memory loss is too extensive to be explained by simple forgetfulness. The
+disturbances cause socio occupational impairment.
+Dissociative fugue
+ The disturbance is characterized by sudden, unexpected travel away from home or
+customary places of work etc with inability to recall the past events along with partial or
+complete assumption of new identity. It causes significant socio occupational impairment.
+Dissociative identity disorder
+ Presence of two or more personality or identities each with its own pattern of reacting to
+the environment.
+ These personalities take control of person’s behavior and often are accompanied by
+inability to recall personal information.
+298
+
+Psychiatry Disorders
+Treatment
+ Psychotherapeutic interventions like psychoanalytic psychotherapy, cognitive
+psychotherapy, behavioral therapy and hypnotherapy are the mainstay of treatment.
+ Pharmacological treatment-antidepressants and antipsychotics have been used with
+limited benefits.
+ALCOHOL USE DISORDER
+Alcohol use disorder is a common lethal condition that often masquerades as other
+psychiatric syndromes. At any time, one of three men are drinkers, with a ratio of persisting
+alcohol intake of approximately 1.3 men to 1.0 women.
+Salient features
+ Dependence is characterized by compulsion to drink, tolerance, intoxication,
+withdrawal andpersistence of drinking inspite of overtly harmful consequences.
+ Alcohol intoxication is characterized by recent intake of alcohol and behavioral changes
+like slurred speech, unsteady gait, incoordination, nystagmus, impairment in attention
+and memory, etc. In extreme cases it can lead to stupor and coma.
+ Simple alcohol withdrawal is characterized by abrupt cessation of heavy intake of
+alcohol and development of symptoms like sweating, palpitations, tremors, nausea,
+vomiting, insomnia, transient visual/tactile/auditory hallucinations and psychomotor
+agitation.
+ Withdrawal may be complicated in the form of seizures, delirium tremens, etc.
+Non-pharmacological treatment
+ Motivation enhancing, individual, group and family therapy
+Pharmacological treatment
+ Hospitalization is advised to most patients for smooth detoxification and to avoid or
+manage withdrawal complications including seizures and delirium tremens as well as
+medical co-morbidities.
+ Tab. chlordiazepoxide start from 25mg TDS and may be increased upto 100 mg/day, used
+only if liver function tests are normal or
+ Tab. lorazepam startingfrom 2 mgTDS increased upto 8 mg is used, preferred when liver
+functions are compromised or not known.
+ Tab. thiamine supplementation to prevent and treat vitamin deficiency (start from 75 mg
+BD and can be increased upto 300 mg/day)
+ Injectable vitamins can beused when signs of severe vitamin deficiency are present.
+ Once the patient is stable, the dose should be gradually tapered off (20% per day) over a
+period of 10 to 14 days.
+299
+
+Psychiatry Disorders
+ Fluid and electrolyte disturbance should be corrected especially if there is vomiting or
+fever.
+ Seizures – Rum fits (appearing within 24 hours of abstinence) can be treated with Inj.
+diazepam 10 mg or lorazepam 2 mg IV stat especially when seizures are repeated.
+Prophylactic treatment is not recommended for true alcohol withdrawal fits.
+ Delirium tremens –The patient should be preferably treated in an intensive care unit.
+ An intravenous line should be started immediately and thiamine 100 mg IV should be
+administered. Thiamine along with multivitamin should be continued parenterally till
+normal diet is resumed.
+ IV dextrose and saline should be given at a rate adequate to replace fluid losses and
+maintain blood pressure.
+ Hyperthermia should be managed with cold sponge. Tab. paracetamol 500 mg orally 4
+times a day may be used in absence of any hepatic dysfunction.
+ Inj. diazepam 10 mg should be given slowly IV and should be repeated every 15-20
+minutes till sedation is achieved.
+ Physical restraint may be necessary if the patient is combative.
+ Associated medical and surgical problems should be simultaneously investigated and
+treated appropriately.
+ Tab. disulfiram (250mg to 500mg daily) is used for relapse prevention. Informed consent
+for treatment with disulfiram is mandatory before administering it.
+ Information about the disulfiram reaction and the potential lethality of the same is
+explained.
+Patient education
+Education regarding short-term and long term complications (medical, psychological, social,
+legal,etc.) of substance use.
+OPIOID USE DISORDERS
+Opioid use disorders consist of physiological, behavioral, cognitive symptoms which indicate
+repeated continued use of opioid drugs despite the problems related to it.
+Salient features
+ Opioid intoxication is characterized by recent opioid intake and development of symptoms as
+initial euphoria, later dysphoria, apathy, psychomotor agitation or retardation, impaired
+judgement, pupillary constrictions with drowsiness, slurred speech, impairment in attention
+and memory.
+ There usually is impaired social or occupational functioning.
+ Opioid withdrawal is characterized by cessation of heavy prolonged use of opioid and
+development of symptoms as dysphoric mood, lacrimation, nausea vomiting, muscle aches,
+diarrhoea, yawning, fever, insomnia, pupillary dilatation, piloerection, sweating.
+300
+
+Psychiatry Disorders
+Non-pharmacological treatment
+ Individual counseling, family support and encouraging the patient to join the self help
+groups are also important to help him maintain long-term abstinence.
+ However opiate dependence is a highly relapsing disorder, and prolonged inpatient stay in
+settings that also provide rehabilitative inputs is usually beneficial.
+Pharmacological treatment
+ Tab. paracetamol 500 mg and dextropropoxyphen 32.5 mg - start from BD dosage and
+gradually increase to 2 tablets TDS.
+ Tab. buprenorphine 2 mg and naloxone 0.5 mg – start from 1 tablet BD to maximum of
+TDS or QID dosages depending on the severity of withdrawal symptoms.
+ Tab. clonidine 50 mcg BD is given for symptomatic management of withdrawal. Careful
+monitoring of BP is needed.
+ NSAIDs are given for muscular pains.
+Long term (to be treated by a psychiatrist)
+ Tab. naltrexone 50 mg/day orally is used to reduce craving and thereby to help patient
+maintain long-term abstinence (who have remained opioid free for at least 7-10 days).
+ Baseline hepatic functions should be assessed, and to be monitored once a month while
+on naltrexone treatment.
+ The drug is usually continued for a period of 6 months, however, it may have to be
+withdrawn in presence of significant liver disease (i.e. several fold increase in the serum
+levels of transaminases).
+Patient education
+Patient should be told about nature of illness, course and treatment modalities available
+through individual sessions.
+CANNABIS USE DISORDERS
+Salient features
+It is characterized with repetitive andcompulsive consumption of ganja, charas, etc.
+ Recent intake of cannabis followed by development of symptoms as impaired motor co
+ordination, euphoria, anxiety, slowed perception of time, impaired judgement, social
+withdrawal, conjunctival congestion, increased appetite, dry mouth, tachycardia etc.
+ Chronic dependence can lead to apathy.
+ Mild cannabis withdrawal is characterized by restlessness, craving for cannabis and
+dysphoria. Only symptomatic treatment is given for cannabis withdrawal.
+Pharmacological treatment
+Symptomatic treatment for nausea, insomnia and anxietymay be given
+Non-pharmacological treatment
+Motivation enhancing counseling, individual, family & group counseling
+301
+
+Psychiatry Disorders
+AUTISTIC DISORDER
+It is characterized by qualitative impairment in social interactions, impairment in
+communications and restricted, repetitive and stereotypical patterns of behavior. Its
+prevalence is 0.08% and is 4 -5 times more common in boys than girls.
+Salient features
+ Behavioral characteristics include lower intelligence, lack of social smile, poor eye
+contact, low level of attachment to caregivers and extreme anxiety when their routine
+is disturbed.
+ There is a notable deficit in interactions with peer group, delay in development of
+spoken language, repetitive movements like hand or finger flapping, rocking body
+movements and head banging.
+ Diagnosis is based on delayed history and clinical mental status examination (MSE).
+Non-pharmacological treatment
+ Educational and behavioral interventions are the treatment of choice.
+ Structured classroom training in combination with behavioral methods is the most
+effective treatment for many autistic children.
+ Behavioral therapies to reinforce socially acceptable behaviors and encourage self care
+skills.
+ Training of parents with regards to the concepts and skills of behavioral modification has
+proved beneficial.
+ Language development is added to facilitate communication.
+Pharmacological treatment
+ No medication has proven its efficacy in treatment of core symptoms of autism but
+symptomatic treatment for hyperactivity, obsessions, compulsions, aggression and self
+injurious behavior can be given by using escitalopram, methylphenidate, haloperidol,
+risperidone, olanzapine, quetiapine. Lithium can be used in self injurious behaviors.
+ Guidelines for Tab. risperidone prescribing with autism spectrum disorders in children
+and adolescents are as follows:
+- Initiating dose at 0.25 mg per day for patients less than 20 kg and 0.5 mg per day for
+patients weighing20 kg or more.
+- On day 4, the dose may be increased by 0.25 mg for patients being less than 20 kg or
+moreand by 0.5 mg for patients above 20 kg.
+- Assess the response after 2 weeks.
+ATTENTION DEFICIT HYPERACTIVITY DISORDER
+It is characterized by a pattern of diminished sustained attention and higher levels of
+impulsivity in a child or adolescent than expected for someone of that age and developmental
+level. Age of onset is before 7 years. Incidence of ADHD is 2 to 20%. It is 2-9 times more
+common in boys.
+302
+
+Psychiatry Disorders
+Salient features
+ Common symptoms include careless mistakes in school work, lack of concentration,
+inability to follow simple instructions, difficulty in organizing tasks and activities, easily
+distractible by external stimulus.
+ Hyperactivity is seen as fidgety hands or feet, frequently leaving seat in classroom, running
+or climbing excessively in inappropriate situations, talking excessively and blurts out before
+questions arecompleted
+ Diagnosis is based on through case history and Mental Status Examination (MSE).
+Non-pharmacological treatment
+Social skills training, behavioral therapy and group therapy for patient and families are
+considered beneficial.
+Pharmacological treatment
+ Drug of choice is Tab. methylphenidate 5-20mg.
+ Other agents are atomoxetine, bupropion, venlafaxine, clonidine, guanfacine.
+MENTAL RETARDATION
+It is characterized by deficits in cognitive abilities and in behaviors required for social and
+personal sufficiency also known as adaptive functioning. An assessment of social adaptation
+as well as Intelligence Quotient (IQ) is necessary to determine the level of mental retardation.
+Point prevalence of mental retardation is 1-3% of population. It is 1.5 times more common
+among men than among women.
+Classification of mentally retardation
+According to the degrees of severity, mental retardation has been classified into four groups:
+ Mild Mental Retardation –(IQ Range 50–70)
+These people can live independently with adequate support and raise their own families.
+They can obtain academic skills approximately upto sixth grade.
+ ModerateMental Retardation –(IQ Range 35 –50)
+These people can acquire language and can communicate adequately during early
+childhood.
+They are academically challenged and are unable to go beyond second to third academic
+level.
+As adults they are able to perform semi-skilled work under appropriate supervision.
+ Severe Mental Retardation (IQ Range 20 –35)
+These people may fail to develop communication skills in childhood but can learn to
+count and recognize words critical to functioning. In adulthood, they may adapt well to
+supervise living situations and may be able to perform work related tasks under
+supervision.
+ Profound Mental Retardation (IQ Range Below 20)
+303
+
+Psychiatry Disorders
+They can be taught some self-care skills and can learn to communicate their needs if they
+are given appropriate training.
+Investigations
+ Detailed history, standardized intellectual assessment and assessment of adaptive
+functions in needed for diagnosing mental retardation.
+ Examination of physical signs and neurological abnormalities is always necessary to
+search for organic causes of MR.
+ Laboratory tests – tests like chromosomal analysis, urine and blood testing for metabolic
+disorder and neuroimaging are done for ascertaining the cause.
+Non-pharmacological treatment
+No treatment measures are available except for those to control behavioural symptoms.
+Preventive measures form an important strategy.
+ Primary prevention
+It is aimed at implementing measures such as to increase the knowledge and awareness
+about MR, to ensure and upgrade public health policies and laws to provide optimal
+health care to mother and child, to eradicate known disorders associated with CNS
+damage, etc.
+ Secondary and tertiary prevention
+- It is aimed at treating the associated disorder if any to shorten the course of illness
+(secondary prevention) and to minimize the sequelae or consequent disabilities
+(tertiary prevention).
+- Specialized educational programmes addressing the training & adaptive skills, social
+skills and vocation should be developed to improve quality of life.
+- Group therapyhas also been successful.
+- Behaviour therapy to reinforce desired behaviours and to reduce objectionable
+behaviours is considered useful.
+- Cognitive therapies like dispelling false beliefs and relaxation exercises have been
+recommended.
+- Psychodynamic therapy has been used with patients and families to decrease conflicts
+about unrealistic expectations.
+ Family Education
+Educating the family and providing them counseling and supportive help is an important
+aspect of management of MR.
+ Social Intervention
+It is aimed at improving the quantity and quality of social competence of people with MR.
+Pharmacological treatment
+ Methylphenidate is used successfully for patients of MR with Attention Deficit
+Hyperactivity Disorder.
+ Antiepileptic agents like sodium valproate and carbamazepine are used for controlling
+aggressive and self-injurious behaviour.
+304
+
+Psychiatry Disorders
+ Antidepressants are used to treat comorbid depression and antipsychotics like haloperidol,
+chlorpromazine are used for reducing stereotyped movements.
+ Beta-blockers like propranolol are used to control explosive rages or anger outbursts.
+ Development of special schools, supportive groups and NGOs form an essential part of
+supportive strategies for people with MR.
+SUICIDAL PATIENT
+Patients with suicidal ideation need immediate psychiatric intervention. Suicidal ideation can
+occur in the background of depression, schizophrenia, adjustment disorders and alcohol and
+other psychoactive substance abuse. About two thirds of all depressed patients contemplate
+suicide, and 10 to 15 percent commit suicide.
+Assessment of suicidal risk can be done with the help of specific questions
+Whether the patient often feels sad?
+Whether the patient has lost all hopes in life?
+Thoughts that it is better to be dead than to face the constant miseries of life.
+Thoughts of causing death to self (suicide plans)
+Risk factors for predicting the risk of suicide
+ Male sex, age above 45 years in men and above 55 years in women
+ Suicidal attempt in past
+ Presence of psychiatric illness especially schizophrenia and depression, substance abuse
+or dependence
+ Recent bereavement, social isolation, family history of suicide, unemployment
+ Physical illnesses like malignancy, chronic pain, epilepsy, AIDS and recent will.
+Non pharmacological treatment
+Treatment is specifically directed at the cause, if identifiable. The patient should be referred
+to a psychiatrist immediately after ensuring the following steps:
+ Patient should not be left alone and be kept under constant observation.
+ Family should be explained the seriousness of the problem and actively included in
+management.
+ Patient should be offered psychological support and reassurance and not criticized.
+ No dangerous or potentially dangerous objects such as knife, blade, sharp edged objects,
+rope, medication supply, etc. should be available in immediate vicinity of the patient.
+ Specific treatment for depression, psychotic disorder or whatever may be the cause
+should immediately be started.
+Patient education
+Family should be advised to follow a supportive approach towards the patient and should not
+criticize. Suicidal attempt is indicative of distress and needs treatment of the causative illness.
+305
+
+Psychiatry Disorders
+PSYCHOTROPIC DRUGS IN SPECIAL POPULATIONS
+A. Recommendations for use of psychotropic drugs in renal impairment
+Drug groups Recommended drugs
+Antipsychotics Haloperidol, olanzapine
+Antidepressants Citalopram, sertraline
+Mood stabilizers Valproate, carbamazepine, lamotrigine
+Anxiolytics and hypnotics Lorazepam, zopiclone
+B. Recommendations for use of psychotropic drugs in hepatic impairment
+Drug groups Recommended drugs
+Antipsychotics Haloperidol, sulpiride/amisulpiride
+Antidepressants Imipramine, paroxetine, citalopram
+Mood stabilizers Lithium
+Anxiolytics and hypnotics Lorazepam, oxazepam, temazepam, zopiclone
+C. Recommendations for use of psychotropic drugs in pregnancy
+Drug groups Recommended drugs
+Antipsychotics Chlorpromazine, haloperidol, trifluperazine
+Antidepressants Nortriptyline, amitriptyline, fluoxetine
+Mood stabilizers Consider using anti-psychotics
+Anxiolytics and hypnotics Non pharmacological measures preferred
+D. Recommendations for use of psychotropic drugs during breast feeding
+Drug groups Recommended drugs
+Antipsychotics Sulpiride, olanzapine
+Antidepressants Sertraline, paroxetine, imipramine, nortriptyline
+Mood stabilizers Consider using anti-psychotics
+Anxiolytics and hypnotics Lorazepam, zolpidem
+306
+
+Psychiatry Disorders
+MANAGEMENT OF WANDERING MENTALLY ILL PATIENT OR A MENTALLY
+ILL PATIENT WITH NO FAMILY MEMBER OR ATTENDANT
+ Mental Health Act, 1987 has provision for hospitalization of the mentally ill patients in
+mental hospital.
+ If one happens to come across a psychiatric patient wandering aimlessly or indulging in
+socially disorganized behavior in a public place, one can approach the local police station.
+ The in charge of the local police station under whose jurisdiction the place lies, has a duty
+under the Act to take the patient to the concerned Metropolitan Magistrate (in
+metropolitan cities) or the Sub-Divisional Judicial Magistrate or Chief Judicial Magistrate
+or any Magistrate of first class (in other cities). The Magistrate can issue a reception order
+for admission of the patient to a mental hospital after getting him examined by a medical
+officer.
+ Admission to mental hospital can also be made on the request of the patient, if the patient
+is willing to consent (voluntary admission) or on the request of family members, if they
+so desire (admission under special circumstances).
+PERSONALITY DISORDERS
+A pervasive and enduring pattern of behavior, which begins in early adulthood and which
+gives colour to person’s attitude behavior is known as personality. Behavioral patterns that
+deviate from person’s sociocultural background areknown as personality disorders.
+Clusters of personality disorders
+ Cluster A -schizoid, schizotypal, paranoid
+ Cluster B-borderline, histrionic, narcissistic, antisocial
+ Cluster C -avoidant dependent personality, obsessive compulsive personality disorders.
+Treatment of personality disorders is difficult. Psychotherapies and pharmacological
+treatment for symptomatic management can be used with restricted benefits.
+307
