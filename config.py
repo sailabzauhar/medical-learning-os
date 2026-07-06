@@ -1,47 +1,44 @@
 import os
-import streamlit as st
+
 from dotenv import load_dotenv
+
+try:
+    import streamlit as st
+except ImportError:
+    st = None
 
 load_dotenv()
 
-SUPABASE_URL = (
-    st.secrets.get("SUPABASE_URL")
-    or os.getenv("SUPABASE_URL")
-)
 
-SUPABASE_KEY = (
-    st.secrets.get("SUPABASE_ANON_KEY")
-    or os.getenv("SUPABASE_ANON_KEY")
-)
+def get_secret(name: str):
 
-POSTGRES_HOST = (
-    st.secrets.get("POSTGRES_HOST")
-    or os.getenv("POSTGRES_HOST")
-)
+    if st is not None:
 
-POSTGRES_PORT = (
-    st.secrets.get("POSTGRES_PORT")
-    or os.getenv("POSTGRES_PORT")
-)
+        try:
 
-POSTGRES_DB = (
-    st.secrets.get("POSTGRES_DB")
-    or os.getenv("POSTGRES_DB")
-)
+            if name in st.secrets:
+                return st.secrets[name]
 
-POSTGRES_USER = (
-    st.secrets.get("POSTGRES_USER")
-    or os.getenv("POSTGRES_USER")
-)
+        except Exception:
+            pass
 
-POSTGRES_PASSWORD = (
-    st.secrets.get("POSTGRES_PASSWORD")
-    or os.getenv("POSTGRES_PASSWORD")
-)
+    return os.getenv(name)
 
-# ---------- TEMP DEBUG ----------
 
-print("SUPABASE_URL:", bool(SUPABASE_URL))
-print("SUPABASE_KEY:", bool(SUPABASE_KEY))
-print("POSTGRES_HOST:", bool(POSTGRES_HOST))
-print("POSTGRES_USER:", bool(POSTGRES_USER))
+# ==================================================
+# SUPABASE
+# ==================================================
+
+SUPABASE_URL = get_secret("SUPABASE_URL")
+SUPABASE_KEY = get_secret("SUPABASE_ANON_KEY")
+
+
+# ==================================================
+# POSTGRES
+# ==================================================
+
+POSTGRES_HOST = get_secret("POSTGRES_HOST")
+POSTGRES_PORT = get_secret("POSTGRES_PORT")
+POSTGRES_DB = get_secret("POSTGRES_DB")
+POSTGRES_USER = get_secret("POSTGRES_USER")
+POSTGRES_PASSWORD = get_secret("POSTGRES_PASSWORD")
