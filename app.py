@@ -1,68 +1,27 @@
-import sqlite3
-from pathlib import Path
 import streamlit as st
 
+from services.chapter_service import (
+    get_chapters,
+    get_chapter_summary
+)
 
-# --------------------------------------------------
-# DATABASE
-# --------------------------------------------------
+from services.summary_parser import (
+    extract_subtopics
+)
 
-BASE_DIR = Path(__file__).resolve().parent
+from services.session import (
+    require_login
+)
 
-DB_PATH = BASE_DIR / "data" / "database" / "learning_os.db"
+# ==================================================
+# LOGIN
+# ==================================================
 
+require_login()
 
-def get_connection():
-    return sqlite3.connect(DB_PATH)
-
-
-# --------------------------------------------------
-# LOAD CHAPTERS
-# --------------------------------------------------
-
-def get_chapters():
-
-    conn = get_connection()
-    cursor = conn.cursor()
-
-    cursor.execute("""
-        SELECT
-            id,
-            chapter_title
-        FROM chapters
-        ORDER BY chapter_number
-    """)
-
-    rows = cursor.fetchall()
-
-    conn.close()
-
-    return rows
-
-
-def get_chapter_summary(chapter_id):
-
-    conn = get_connection()
-    cursor = conn.cursor()
-
-    cursor.execute("""
-        SELECT
-            chapter_title,
-            summary_content
-        FROM chapters
-        WHERE id = ?
-    """, (chapter_id,))
-
-    row = cursor.fetchone()
-
-    conn.close()
-
-    return row
-
-
-# --------------------------------------------------
-# PAGE
-# --------------------------------------------------
+# ==================================================
+# PAGE CONFIG
+# ==================================================
 
 st.set_page_config(
     page_title="Learning OS",
@@ -71,7 +30,17 @@ st.set_page_config(
 
 st.title("📚 Learning OS")
 
+# ==================================================
+# LOAD CHAPTERS
+# ==================================================
+
 chapters = get_chapters()
+
+if not chapters:
+
+    st.warning("No chapters found.")
+
+    st.stop()
 
 chapter_map = {
     title: chapter_id
@@ -85,12 +54,102 @@ selected_title = st.selectbox(
 
 chapter_id = chapter_map[selected_title]
 
-chapter_title, summary_content = get_chapter_summary(
+# ==================================================
+# LOAD SUMMARY
+# ==================================================
+
+chapter = get_chapter_summary(
     chapter_id
 )
+
+if chapter is None:
+
+    st.error("Chapter not found.")
+
+    st.stop()
+
+chapter_title, summary_content = chapter
+
+# ==================================================
+# HEADER
+# ==================================================
 
 st.divider()
 
 st.header(chapter_title)
 
-st.markdown(summary_content)
+# ==================================================
+# SUMMARY STATS
+# ==================================================
+
+word_count = len(
+    summary_content.split()
+)
+
+subtopics = extract_subtopics(
+    summary_content
+)
+
+col1, col2 = st.columns(2)
+
+with col1:
+
+    st.metric(
+        "Subtopics",
+        len(subtopics)
+    )
+
+with col2:
+
+    st.metric(
+        "Summary Words",
+        word_count
+    )
+
+st.divider()
+
+# ==================================================
+# QUICK NAVIGATION
+# ==================================================
+
+if subtopics:
+
+    st.subheader(
+        "📑 Subtopics"
+    )
+
+    for topic in subtopics:
+
+        st.markdown(
+            f"- {topic['title']}"
+        )
+
+    st.divider()
+
+# ==================================================
+# SUBTOPIC VIEW
+# ==================================================
+
+for index, topic in enumerate(
+    subtopics,
+    start=1
+):
+
+    with st.expander(
+        f"{index}. {topic['title']}",
+        expanded=False
+    ):
+
+        st.markdown(
+            topic["content"]
+        )
+
+# ==================================================
+# FALLBACK
+# ==================================================
+
+if len(subtopics) == 0:
+
+    st.markdown(
+        summary_content
+    )

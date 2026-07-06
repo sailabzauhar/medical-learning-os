@@ -1,17 +1,14 @@
-import sqlite3
-from pathlib import Path
+from services.db import get_connection
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DB_PATH = BASE_DIR / "data" / "database" / "learning_os.db"
+conn = get_connection()
 
-conn = sqlite3.connect(DB_PATH)
-cursor = conn.cursor()
+print("CONNECTED")
 
-print("\nUSER_PROGRESS TABLE")
+cur = conn.cursor()
 
-cursor.execute("PRAGMA table_info(user_progress)")
+cur.execute("SELECT version();")
 
-for row in cursor.fetchall():
-    print(row)
+print(cur.fetchone())
 
+cur.close()
 conn.close()
